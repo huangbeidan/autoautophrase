@@ -1,0 +1,1253 @@
+naval%NNP research%NNP
+onr%NNP
+u.s%NNP
+onr%NNP university%NNP research%NNP initiative%NNP
+muri%NNP
+u.s.%NNP
+navy%NNP
+naval%JJ
+defense%NNP university%NNP research%NNP
+durip%NNP
+navy%NNP career%NNP award%NNP
+scientist%NNP
+engineer%NNP
+pecase%NNP
+naval%NNP
+minerva%NNP research%NNP initiative%NNP
+defense%NNP
+dod%NNP
+technology%NNP
+naval%NNP research%NNP onr%NNP
+department%NNP
+navy%NNP don%NNP
+applied%NNP
+advanced%NNP technology%NNP
+naval%NNP national%NNP defense%NNP strategy%NNP
+navy%NNP naval%NNP research%NNP
+naval%NNP research%NNP enterprise%NNP
+nre%NNP
+naval%NNP d%NNP framework%NNP
+basic%JJ research%NNP
+technology%NNP readiness%NNP level%NNP
+trl%NNP
+naval%NNP research%NNP onr%NNP u.s%NNP
+onr%NNP university%NNP research%NNP initiative%NNP muri%NNP
+u.s.%NNP navy%NNP
+naval%JJ durip%NNP
+navy%NNP pecase%NNP
+naval%NNP defense%NNP university%NNP research%NNP
+durip%NNP durip%NNP
+defense%NNP osd%NNP
+durip%NNP interest%NNP item%NNPS
+defense%NNP university%NNP research%NNP defense%NNP university%NNP research%NNP
+durip%NNP defense%NNP university%NNP research%NNP
+durip%NNP radar%NNP technology%NNP
+aesa%NN
+naval%NNP research%NNP onr%NNP u.s%NNP onr%NNP
+onr%NNP navy%NNP
+ilir%NNP
+naval%NNP science%NNP
+engineering%NNP
+naval%NNP warfare%NNP center%NNPS
+department%NNP navy%NNP
+ilir%NNP science%NN
+seap%NNP
+naval%NNP research%NNP enterprise%NNP intern%NNP program%NNP
+nreip%NNP
+department%NNP navy%NNP technology%NNP
+naval%NNP research%NNP onr%NNP department%NNP
+navy%NNP don%NNP applied%NNP
+advanced%NNP technology%NNP naval%NNP
+national%NNP defense%NNP strategy%NNP
+navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP naval%NNP
+d%NNP framework%NNP
+basic%JJ research%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP naval%NNP research%NNP
+onr%NNP u.s%NNP
+onr%NNP onr%NNP
+navy%NNP naval%NNP science%NNP
+naval%NNP warfare%NNP center%NNPS department%NNP
+navy%NNP ilir%NNP
+science%NN
+seap%NNP naval%NNP research%NNP enterprise%NNP intern%NNP program%NNP
+nreip%NNP department%NNP
+navy%NNP naval%NNP s%NNP
+future%NNP naval%NNP
+naval%NNP research%NNP development%NNP framework%NNP
+navy%NNP marine%NNP corp%NNP
+naval%NNP warfare%NNP
+marine%NNP corp%NNP combat%NNP
+joint%NNP chief%NNP
+staff%NNP
+future%NNP joint%NNP
+laboratory%NNP
+ilir%NNP naval%NNP science%NNP
+naval%NNP warfare%NNP center%NNPS department%NNP navy%NNP
+ilir%NNP ilir%NNP
+navy%NNP marine%NNP corp%NNP naval%NNP research%NNP
+onr%NNP congress%NNP
+american%NNP
+don%NNP
+navy%NNP basic%JJ
+navy%NNP marine%NNP corp%NNP autonomous%JJ system%NNPS
+artificial%NNP intelligence%NNP
+machine%NNP learning%NNP
+command%NNP
+control%NNP
+communication%NNP
+computer%NNP
+decision%NNP support%NNP
+intelligence%NNP
+surveillance%NNP
+reconnaissance%NNP
+logistics%NNP
+operational%NNP environment%NNPS
+platform%NNP
+power%NNP
+energy%NNP technology%NNP
+electronics%NNS
+warfighter%NNP performance%NNP
+protection%NNP
+weapon%NNP
+science%NNP
+technology%NNP education%NNP
+mathematics%NNP
+stem%NNP
+science%NNP technology%NNP
+naval%NNP research%NNP naval%NNP research%NNP
+development%NNP framework%NNP
+navy%NNP marine%NNP corp%NNP scientific%NNP
+future%NNP naval%NNP fncs%NNP
+innovative%NNP naval%NNP prototype%NNP
+inps%NNP
+technology%NNP naval%NNP research%NNP
+onr%NNP department%NNP
+navy%NNP don%NNP applied%NNP advanced%NNP technology%NNP
+naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP
+naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP naval%NNP d%NNP framework%NNP
+onr%NNP national%NNP naval%NNP
+nnr%NNP
+navy%NNP naval%NNP research%NNP onr%NNP
+congress%NNP
+american%NNP don%NNP
+navy%NNP basic%JJ navy%NNP
+marine%NNP corp%NNP
+autonomous%JJ system%NNPS
+artificial%NNP intelligence%NNP machine%NNP learning%NNP
+command%NNP control%NNP
+communication%NNP computer%NNP
+decision%NNP support%NNP intelligence%NNP
+surveillance%NNP reconnaissance%NNP
+logistics%NNP operational%NNP environment%NNPS
+platform%NNP power%NNP
+energy%NNP technology%NNP electronics%NNS
+warfighter%NNP performance%NNP protection%NNP
+weapon%NNP science%NNP
+technology%NNP education%NNP mathematics%NNP
+stem%NNP naval%NNP science%NNP
+technology%NNP naval%NNP research%NNP development%NNP framework%NNP
+scientific%NNP
+future%NNP naval%NNP fncs%NNP innovative%NNP naval%NNP prototype%NNP
+inps%NNP air%NNP
+ground%NNP
+sea%NNP vehicle%NNP
+marine%NNP
+basic%NNP
+air%NNP
+ground%NNP sea%NNP vehicle%NNP
+interest%NN
+basic%JJ research%NNP basic%NNP
+autonomous%JJ system%NNPS artificial%NNP
+command%NNP control%NNP communication%NNP
+computer%NNP marine%NNP
+system%NNP
+decision%NNP support%NNP intelligence%NNP surveillance%NNP
+reconnaissance%NNP logistics%NNP
+operational%NNP environment%NNPS platform%NNP
+power%NNP energy%NNP technology%NNP
+electronics%NNS warrior%NNP performance%NNP
+protection%NNP weapon%NNP
+support%NNP
+education%NNP
+outreach%NNP
+navy%NNP rotc%NNP cybersecurity%NNP training%NNP program%NNP
+explore%NN
+navy%NNP rotc%NNP
+naval%NNP explore%NN
+navy%NNP rotc%NNP naval%NNP
+add%NNP subtotal%NNP
+artificial%JJ intelligence%NNP
+u.s.%NNP naval%NNP
+strike%NNP operation%NNP
+energy%NNP
+de%NNP
+de%NNP mach%NNP
+electro%NNP
+technology%NNP naval%NNP research%NNP onr%NNP
+department%NNP navy%NNP don%NNP
+applied%NNP advanced%NNP technology%NNP
+naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP
+naval%NNP research%NNP enterprise%NNP nre%NNP
+naval%NNP d%NNP framework%NNP applied%NNP research%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP
+artificial%JJ intelligence%NNP u.s.%NNP
+naval%NNP strike%NNP operation%NNP
+energy%NNP de%NNP
+de%NNP mach%NNP electro%NNP
+energy%NNP de%NNP directed%NNP energy%NNP
+component%NNP technology%NNPS
+conduct%NNP
+high%NNP energy%NNP
+hel%NNP
+ultra%NNP short%NNP pulse%NNP laser%NNP
+uspl%NNP
+hel%NNP medium%NNP
+mwir%NNP
+long%NNP wavelength%NNP infrared%NNP
+uspl%NNP energy%NNP weapon%NNP
+cdew%NNP
+hel%NNP hpm%NNP
+interest%NNP item%NNPS
+high%NNP power%NNP microwave%NNP
+hpm%NNP
+aerial%JJ vehicle%NNP
+suav%NN
+hpm%NNP develop%NNP
+directed%NNP
+conduct%NNP microwave%NNP
+america%NNP
+u.s.%NNP naval%NNP research%NNP
+onr%NNP u.s.%NNP navy%NNP
+marine%NNP corp%NNP platform%NNP
+force%NNP protection%NNP
+u.s.%NNP navy%NNP energy%NNP
+platform%NNP design%NNP
+naval%NNP research%NNP development%NNP establishment%NNP
+nr%NNP
+de%NNP technology%NNP
+naval%NNP research%NNP onr%NNP department%NNP navy%NNP
+don%NNP applied%NNP
+advanced%NNP technology%NNP naval%NNP national%NNP defense%NNP strategy%NNP
+navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP
+naval%NNP d%NNP framework%NNP applied%NNP research%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP america%NNP
+u.s.%NNP naval%NNP research%NNP onr%NNP
+u.s.%NNP navy%NNP marine%NNP corp%NNP
+platform%NNP force%NNP protection%NNP
+u.s.%NNP navy%NNP energy%NNP platform%NNP design%NNP
+engineering%NNP aircraft%NNP technology%NNP
+aircraft%NNP technology%NNP
+naval%NNP variable%JJ cycle%NNP advanced%NNP technology%NNP
+vcat%NNP
+next%JJ generation%NNP air%NNP dominance%NNP
+ngad%NNP
+aviation%NNP national%NNP naval%NNP
+sba%NNP
+material%NNP
+interest%NN energy%NNP
+hawaii%NNP
+alaska%NNP
+guam%NNP
+california%NNP
+congressional%JJ add%NN
+storage%NNP research%NNP
+congressional%NNP
+hybrid%NNP composite%NNP structure%NNP research%NNP
+enhanced%NNP mobility%NNP
+m1a1%NNP
+u.s.%NNP naval%NNP research%NNP onr%NNP marine%NNP corp%NNP
+marine%NNP corp%NNP technology%NNP
+size%NNP
+weight%NNP
+power%NNP post%NNP
+distributed%NNP
+intermittent%NNP
+limited%NNP
+applied%NNP research%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP radio%NNP frequency%NNP
+naval%NNP expeditionary%NNP
+disrupted%NNP
+intermittent%NNP limited%JJ
+area%NNP
+spectrum%NNP
+radio%NNP frequency%NNP
+naval%NNP expeditionary%NNP disrupted%NNP
+intermittent%NNP limited%JJ area%NNP
+spectrum%NNP base%NNP
+future%NNP naval%NNP capability%NNP
+fnc%NNP
+technology%NNP command%NNP
+control%NNP communication%NNP
+computer%NNP distributed%NNP
+intermittent%NNP limited%NNP
+size%NNP weight%NNP
+power%NNP cost%NNP
+command%NNP control%NNP communication%NNP computer%NNP
+focus%NNP
+congressional%JJ interest%NNP item%NNPS
+increase%NNP
+conduct%NNP marine%NNP corp%NNP landing%NNP force%NNP
+fy19%NNP
+develop%NNP
+propose%NNP
+fy20%NNP
+develop%NNP propose%NNP
+marine%NNP corp%NNP asset%NNP
+armored%NNP reconnaissance%NNP vehicle%NNP
+add%NNP subtotal%NNP activity%NNP
+distributed%NNP maritime%NNP operation%NNP
+dmo%NNP
+network%NNP
+naval%NNP science%NNP technology%NNP
+naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP
+applied%NNP advanced%NNP technology%NNP naval%NNP
+national%NNP defense%NNP strategy%NNP navy%NNP
+naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP
+naval%NNP d%NNP framework%NNP applied%NNP research%NNP technology%NNP readiness%NNP level%NNP trl%NNP
+network%NNP technology%NNP
+navy%NNP marine%NNP corp%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP naval%JJ
+opnav%NNP
+headquarters%NNP marine%NNP corp%NNP
+rdt%NNP
+network%NNP size%NNP
+weight%NNP power%NNP
+swap%NNP
+radio%NNP frequency%NNP emi%NNP
+beyond%NNP line%NNP of%IN sight%NNP
+blos%NNP
+emphasis%NN
+global%NNP information%NNP grid%NNP
+gig%NNP
+rf%NNP
+naval%NNP research%NNP onr%NNP naval%NNP research%NNP enterprise%NNP
+naval%NNP dod%NNP
+u%JJ
+technology%NNP naval%NNP research%NNP onr%NNP department%NNP
+navy%NNP don%NNP applied%NNP advanced%NNP technology%NNP naval%NNP
+national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP
+naval%NNP research%NNP enterprise%NNP nre%NNP naval%NNP
+d%NNP framework%NNP applied%NNP research%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP naval%NNP research%NNP
+onr%NNP naval%NNP research%NNP enterprise%NNP
+naval%NNP dod%NNP u%JJ
+advanced%NNP naval%NNP material%NNP
+advanced%NNP naval%NNP material%NNP technology%NNP
+focus%NNP area%NNP
+conduct%NN
+agile%NNP manufacturing%NNP integrated%NNP
+icme%NNP
+conduct%NN interest%NN
+increase%NNP performance%NNP
+conduct%NNP laser%NNP peening%NNP technology%NNP
+conduct%NNP lightweight%NNP
+congressional%JJ add%NNP
+conduct%NNP freedom%NNP
+u.s.%NNP electromagnetic%JJ system%NNP applied%NNP
+naval%NNP infrared%NNP
+surveillance%NNP electronic%NNP warfare%NNP
+navigation%NNP
+solid%NNP state%NNP electronics%NNP
+vacuum%NNP electronics%NNP power%NNP amplifier%NNP
+nanoelectronics%NNP
+missile%NNP defense%NNP
+directed%NNP energy%NNP
+platform%NNP protection%NNP
+time%NNP critical%NNP strike%NNP
+information%NNP distribution%NNP
+naval%NNP science%NNP technology%NNP naval%NNP research%NNP
+onr%NNP department%NNP navy%NNP
+don%NNP applied%NNP advanced%NNP technology%NNP
+naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP naval%NNP d%NNP framework%NNP applied%NNP research%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP freedom%NNP
+u.s.%NNP naval%NNP infrared%NNP
+surveillance%NNP electronic%NNP warfare%NNP navigation%NNP
+solid%NNP state%NNP electronics%NNP vacuum%NNP electronics%NNP power%NNP amplifier%NNP
+nanoelectronics%NNP missile%NNP defense%NNP
+directed%NNP energy%NNP platform%NNP protection%NNP
+time%NNP critical%NNP strike%NNP information%NNP distribution%NNP
+department%NNP defense%NNP joint%NNP warfighter%NNP plan%NNP
+defense%NNP technology%NNP area%NNP plan%NNPS
+department%NNP of%IN the%DT navy%NNP
+don%NNP technology%NNP
+joint%NNP
+navy%NNP marine%NNP corp%NNP due%NNP
+warfare%NNP technology%NNP
+electronic%NNP warfare%NNP
+electromagnetic%NNP spectrum%NNP
+em%NNP
+u.s%NNP naval%NNP
+technology%NNP distributed%NNP electronic%NNP warfare%NNP
+distributed%NNP maritime%NNP operation%NNP emphasis%NN
+naval%JJ ew%NNP
+electronic%NN warfare%NNP
+radio%NNP frequency%NNP develop%NNP
+rf%NNP interest%NN
+conduct%NNP electromagnetic%NNP
+congressional%NNP add%NNP subtotal%NNP
+u.s.%NNP research%NNP
+battlespace%NNP environment%NNP
+bse%NNP
+technology%NNP naval%NNP research%NNP onr%NNP department%NNP navy%NNP
+don%NNP applied%NNP advanced%NNP technology%NNP naval%NNP
+national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP naval%NNP d%NNP framework%NNP applied%NNP research%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP national%NNP oceanographic%NNP partnership%NNP program%NNP
+nopp%NNP
+battlespace%NNP environment%NNP bse%NNP
+fleet%NNP numerical%NNP meteorology%NNP
+oceanography%NNP center%NNP
+naval%NNP oceanographic%NNP
+mine%NNP countermeasure%NNP
+naval%NNP mining%NNP
+asw%NNP
+naval%NNP special%NNP warfare%NNP
+coastal%JJ
+coastal%NNP
+naval%NNP special%NNP warfare%NNP mine%NNP
+amphibious%NNP
+applied%NNP interest%NN
+naval%JJ special%NNP warfare%NNP
+conduct%NNP congressional%JJ add%NNP
+task%NNP force%NNP ocean%NNP
+congressional%NNP dod%NNP
+nlw%NNP
+program%NNP
+fy96%NNP national%NNP defense%NNP
+defense%NNP commandant%NNP
+marine%NNP corp%NNP cmc%NNP
+dod%NNP ea%NNP
+joint%JJ
+weapon%NNP program%NNP
+jnlwp%NNP
+defense%NNP acquisition%NNP
+sustainment%NNP
+osd%NNP principal%NNP
+defense%NNP policy%NNP
+dod%NNP joint%JJ
+integrated%NNP product%NNP team%NNP
+jnlwp%NNP cmc%NNP
+service%NNPS
+coast%NNP guard%NNP
+dod%NNP joint%NNP capability%NNPS
+assessment%NNP document%NNP
+national%NNP defense%NNP strategy%NNP nd%NNP
+nlw%NNP nato%NNP
+ally%NNP
+nd%NNP
+applied%NNP research%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP joint%NNP
+nlw%NNP nlw%NNP
+nlws%NNP
+nlws%NNP continue%NNP
+nlw%NNP continue%NNP
+nlw%NNP base%NNP
+joint%JJ requirement%NNS oversight%NNP council%NNP
+jroc%NNP
+undersea%NNP warfare%NNP applied%NNP
+asw%NNP asw%NNP
+research%NNP
+pe%NNP
+navy%NNP marine%NNP corp%NNP naval%NNP research%NNP enterprise%NNP naval%NNP operation%NNP
+opnav%NNP headquarters%NNP marine%NNP corp%NNP
+technology%NNP naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP
+applied%NNP advanced%NNP technology%NNP naval%NNP national%NNP defense%NNP strategy%NNP
+navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP naval%NNP
+d%NNP framework%NNP applied%NNP research%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP asw%NNP
+asw%NNP asw%NNP search%NNP
+asw%NNP distributed%NNP search%NNP
+undersea%NNP
+undersea%NNP warfare%NNP applied%NNP asw%NNP
+undersea%NNP warfare%NNP applied%NNP research%NNP congressional%NNP add%NNP
+increase%NNP undersea%NNP warfare%NNP applied%NNP research%NNP congressional%NNP add%NNP
+navy%NNP conduct%NNP
+navy%NNP machine%JJ
+conduct%NNP machine%NNP
+conduct%NNP conduct%NNP
+navy%NNP conduct%NNP undersea%NNP
+naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP u.s.%NNP navy%NNP
+marine%NNP corp%NNP naval%NNP
+national%NNP defense%NNP strategy%NNP navy%NNP future%NNP naval%NNP
+fnc%NNP technology%NNP candidate%NNP
+fncs%NNP
+usmc%NNP technology%NNP candidate%NNP
+marine%NNP corp%NNP landing%NNP force%NNP technology%NNP
+applied%NNP research%NNP technology%NNP readiness%NNP level%NNP trl%NNP
+future%NNP naval%NNP capability%NNP fnc%NNP
+fnc%NNP naval%NNP
+program%NNP future%NNP naval%NNP capability%NNP advanced%NNP technology%NNP development%NNP
+fnc%NNP program%NNP
+naval%NNP research%NNP onr%NNP technology%NNP department%NNP
+congressional%NNP emw%NNP
+terrorism%NNP
+fncs%NNP future%NNP naval%NNP capability%NNP advanced%NNP technology%NNP future%NNP naval%NNP capability%NNP
+fnc%NNP technology%NNP candidate%NNP marine%NNP
+marine%NNP corp%NNP air%NNP ground%NNP task%NNP force%NNP
+congressional%JJ interest%NNP item%NNPS conduct%NNP
+c4isr%NNP
+congressional%JJ add%NNP subtotal%NNP sea%NNP
+u.s.%NNP mine%NNP
+naval%NNP mine%NNP countermeasure%NNP
+mcm%NNP
+expeditionary%NNP warfare%NNP
+u.s%NNP naval%NNP naval%NNP special%NNP warfare%NNP
+nsw%NNP
+joint%NNP eod%NNP
+academic%NNP research%NNP fleet%NNP
+joint%NNP chief%NNP staff%NNP joint%NNP
+stom%NNP
+naval%NNP force%NNP
+mcm%NNP urban%NNP
+uaeo%NNP
+future%NNP naval%NNP capability%NNP fnc%NNP capability%NNP
+ec%NNP
+mine%NNP
+obstacle%NNP detection%NNP
+neutralization%NNP
+urban%NNP asymmetric%NNP
+command%NNP control%NNP communication%NNP computer%NNP intelligence%NNP
+surveillance%NNP reconnaissance%NNP c4isr%NNP
+naval%NNP special%NNP warfare%NNP explosive%NNP ordnance%NNP disposal%NNP
+navy%NNP marine%NNP corp%NNP naval%NNP research%NNP enterprise%NNP naval%JJ
+naval%NNP operation%NNP
+opnav%NNP headquarters%NNP marine%NNP corp%NNP marine%NNPS
+rdt%NNP technology%NNP
+naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP applied%NNP
+advanced%NNP technology%NNP naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP
+naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP naval%NNP
+d%NNP framework%NNP mine%NNP countermeasure%NNP
+mcm%NNP future%NNP naval%NNP capability%NNP
+fnc%NNP mcm%NNP
+littoral%NNP warfare%NNP
+c4isr%NNP naval%NNP special%NNP warfare%NNP
+explosive%NNP ordnance%NNP
+mine%NNP technology%NNP
+command%NNP control%NNP modular%NNP undersea%NNP effector%NNP
+muse%NNP
+fleet%NNP
+muse%NNP technology%NNP
+conduct%NNP joint%NNP service%NNP explosive%NNP ordnance%NNP disposal%NNP
+eod%NNP
+interest%NNP item%NNPS aerial%NNP
+deep%NNP submersible%NNP platform%NNP
+conduct%NNP conduct%NNP clandestine%NNP
+add%NNP subtotal%NNP the%DT office%NNP
+naval%NNP research%NNP onr%NNP larger%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP
+applied%NNP inp%NNP program%NNP
+u.s.%NNP due%NNP
+inps%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP trl%NNP
+inps%NNP budget%NNP activity%NNP
+ba3%NNP
+ba3%NNP naval%NNP prototype%NNP advanced%NNP technology%NNP development%NNP
+inp%NNP
+inps%NNP department%NNP
+navy%NNP department%NNP
+navy%NNP congressional%NNP
+applied%NNP research%NNP technology%NNP readiness%NNP level%NNP trl%NNP applied%NNP
+inp%NNP program%NNP
+u.s.%NNP due%NNP inps%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP
+inps%NNP budget%NNP activity%NNP ba3%NNP
+ba3%NNP naval%NNP prototype%NNP advanced%NNP technology%NNP development%NNP inp%NNP
+inps%NNP department%NNP navy%NNP
+department%NNP navy%NNP congressional%NNP
+railgun%NNP
+emrg%NNP
+emrg%NNP em%NNP railgun%NNP
+emrg%NNP navy%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP rdt%NNP
+activity%NNP
+project%NNP
+applied%NNP research%NNP railgun%NNP
+emrg%NNP inp%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP
+inp%NNP due%NNP
+inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP
+trl%NNP inps%NNP
+budget%NNP activity%NNP
+ba3%NNP ba3%NNP
+naval%NNP prototype%NNP
+inp%NNP adv%NNP tec%NNP dev%NNP
+inp%NNP inps%NNP
+department%NNP navy%NNP department%NNP
+navy%NNP congressional%NNP railgun%NNP
+emrg%NNP naval%NNP prototype%NNP
+inp%NNP applied%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP
+inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP
+inps%NNP budget%NNP activity%NNP ba3%NNP ba3%NNP
+naval%NNP prototype%NNP inp%NNP
+adv%NNP tec%NNP dev%NNP
+inp%NNP inps%NNP department%NNP
+navy%NNP department%NNP navy%NNP
+congressional%NNP hijenks%NNP
+high%NNP power%NNP microwave%NNP hpm%NNP
+hijenks%NNP
+activity%NNP project%NNP
+applied%NNP research%NNP hijenks%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP
+due%NNP
+inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP inps%NNP
+budget%NNP activity%NNP ba3%NNP
+ba3%NNP naval%NNP prototype%NNP
+inp%NNP adv%NNP tec%NNP dev%NNP inp%NNP
+inps%NNP department%NNP navy%NNP department%NNP
+navy%NNP congressional%NNP hijenks%NNP
+high%NNP power%NNP microwave%NNP hpm%NNP locust%NNP
+c2%NNP
+uav%NNP
+locust%NNP
+isr%NNP
+joint%NNP activity%NNP
+project%NNP applied%NNP research%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP
+inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP inps%NNP budget%NNP activity%NNP
+ba3%NNP ba3%NNP naval%NNP prototype%NNP
+inp%NNP adv%NNP tec%NNP dev%NNP inp%NNP inps%NNP
+department%NNP navy%NNP department%NNP navy%NNP
+congressional%NNP arctic%NNP mobile%NNP
+amos%NNP
+arctic%NNP
+navy%NNP arctic%NNP
+amos%NNP arctic%NNP
+amos%NNP arctic%NNP ocean%NNP
+activity%NNP project%NNP applied%NNP research%NNP
+amos%NNP applied%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP inps%NNP
+budget%NNP activity%NNP ba3%NNP ba3%NNP
+naval%NNP prototype%NNP inp%NNP adv%NNP tec%NNP dev%NNP
+inp%NNP inps%NNP department%NNP navy%NNP
+department%NNP navy%NNP congressional%NNP claw%NNP
+combatant%NNP commander%NNP
+uuvs%NNP
+uuvs%NNP uuvs%NNP
+navy%NNP c2/fires%NNP
+isr%NNP activity%NNP
+project%NNP applied%NNP research%NNP claw%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP inps%NNP budget%NNP activity%NNP
+ba3%NNP ba3%NNP naval%NNP prototype%NNP inp%NNP
+adv%NNP tec%NNP dev%NNP inp%NNP
+inps%NNP department%NNP navy%NNP department%NNP navy%NNP
+congressional%NNP complex%JJ
+elektra%NNP
+loop%NNP
+artificial%NNP intelligence%NNP elektra%NNP
+activity%NNP project%NNP applied%NNP research%NNP elektra%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP trl%NNP inps%NNP
+budget%NNP activity%NNP ba3%NNP ba3%NNP naval%NNP prototype%NNP
+inp%NNP adv%NNP tec%NNP dev%NNP inp%NNP inps%NNP department%NNP
+navy%NNP department%NNP navy%NNP congressional%NNP
+navy%NNP hypersonic%NNP
+weapon%NNP concept%NNP
+hawc%NNP
+cruiser%NNP
+hypersonic%NNP booster%NNP
+hawc%NNP aur%NNP
+cvn%NNP
+hawc%NNP cvn%NNP
+hawc%NNP activity%NNP
+project%NNP applied%NNP research%NNP hypersonic%NNP booster%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP
+trl%NNP inps%NNP budget%NNP activity%NNP
+ba3%NNP ba3%NNP naval%NNP prototype%NNP inp%NNP adv%NNP tec%NNP dev%NNP
+inp%NNP inps%NNP department%NNP navy%NNP department%NNP
+navy%NNP congressional%NNP navy%NNP
+hypersonic%NNP
+weapon%NNP concept%NNP hawc%NNP
+cruiser%NNP medium%NNP displacement%NNP
+surface%NNP vehicle%NNP
+mdusv%NNP
+navy%NNP mdusvs%NNP
+navy%NNP activity%NNP
+project%NNP applied%NNP research%NNP mdusv%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP
+inps%NNP budget%NNP activity%NNP ba3%NNP ba3%NNP naval%NNP prototype%NNP
+inp%NNP adv%NNP tec%NNP dev%NNP inp%NNP inps%NNP department%NNP navy%NNP
+department%NNP navy%NNP congressional%NNP medium%NNP displacement%NNP
+surface%NNP vehicle%NNP mdusv%NNP
+minerva%NNP
+ai%NNP
+minerva%NNP composite%NNP warfare%NNP commander%NNP
+cwc%NNP
+fleet%NNP force%NNP
+group%NNP
+devops%NNP
+activity%NNP project%NNP applied%NNP research%NNP minerva%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP inps%NNP
+budget%NNP activity%NNP ba3%NNP ba3%NNP naval%NNP prototype%NNP inp%NNP
+adv%NNP tec%NNP dev%NNP inp%NNP inps%NNP
+department%NNP navy%NNP department%NNP navy%NNP congressional%NNP
+minerva%NNP ai%NNP
+fsusw%NNP project%NNP
+fsusw%NNP
+undersea%NNP warfare%NNP
+operation%NNP
+conops%NNP
+navy%NNP distributed%NNP maritime%NNP operation%NNP
+asw%NNP anti%NNP surface%NNP warfare%NNP
+strike%NNP
+intelligence%NNP surveillance%NNP
+reconnaissance%NNP mine%NNP warfare%NNP
+subsea%NNP
+seabed%NNP warfare%NNP
+ssw%NNP
+fsusw%NNP project%NNP affordable%NNP mobile%NNP
+amass%NNP
+project%NNP unit%NNP
+amos%NNP activity%NNP
+project%NNP applied%NNP research%NNP fsuw%NNP
+applied%NNP innovative%NNP naval%NNP prototype%NNP inp%NNP due%NNP inps%NNP technology%NNP readiness%NNP level%NNP trl%NNP trl%NNP inps%NNP budget%NNP activity%NNP
+ba3%NNP ba3%NNP naval%NNP prototype%NNP inp%NNP adv%NNP tec%NNP dev%NNP inp%NNP
+inps%NNP department%NNP navy%NNP department%NNP navy%NNP congressional%NNP
+interest%NN conduct%NNP applied%NNP research%NNP
+thermoplastic%NNP
+conduct%NNP applied%NNP research%NNP
+thermoplastic%NNP congressional%JJ add%NNPS subtotal%NNPS this%DT program%NNP element%NNP
+naval%NNP research%NNP onr%NNP information%NNP technology%NNP
+financial%NNP improvement%NNP plan%NNP
+fip%NNP
+defense%NNP finance%NNP
+accounting%NNP service%NNP
+dfas%NNP
+billing%NNP
+scientist%NNS
+navy%NNP science%NNP
+technology%NNP applied%NNP research%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP budget%NNP current%NNP
+budget%NNP
+reduction%NNP
+scientific%NNP program%NNP
+onr%NNP fy21%NNP
+civper%NNP
+onr%NNP naval%NNP
+onr%NNP onr%NNP future%NNP naval%NNP capability%NNP
+fncs%NNP fleet%NNP
+function%NNS
+naval%NNP laboratory%NNPS
+warfare%NNP center%NNPS
+naval%NNP d%NNP
+warfare%NNP center%NNPS navy%NNP
+d%NNP
+warfare%NNP center%NNPS navy%NNP navy%NNP
+technology%NNP base%NNP
+national%NNP science%NNP foundation%NNP
+national%NNP academy%NNP
+science%NNPS
+d%NNP onr%NNP
+small%NNP business%NNP innovation%NNP research%NNP
+naval%NNP research%NNP advisory%NNP committee%NNP
+navy%NNP patent%NNP program%NNP
+historically%NNP black%NNP college%NNP
+navy%NNP manufacturing%NNP technology%NNP program%NNP
+ballistic%NNP
+ssbn%NNP
+security%NNP technology%NNP program%NNP
+onr%NNP tech%NNP management%NNP
+onr%NNP field%NNP act%NNP
+onr%NNP scientific%NNP
+navy%NNP navy%NNP
+warfare%NNP center%NNPS onr%NNP
+technology%NNP management%NNP
+onr%NNP onr%NNP headquarters%NNP
+navy%NNP base%NNP
+platform%NNP force%NNP protection%NNP u.s.%NNP navy%NNP
+platform%NNP power%NNP energy%NNP
+material%NNP naval%NNP
+naval%NNP naval%NNP
+technology%NNP naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP applied%NNP
+advanced%NNP technology%NNP naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP
+naval%NNP research%NNP enterprise%NNP nre%NNP naval%NNP d%NNP framework%NNP
+advanced%NNP technology%NNP development%NNP
+atd%NNP
+technology%NNP readiness%NNP level%NNP platform%NNP
+force%NNP protection%NNP u.s.%NNP navy%NNP
+platform%NNP power%NNP energy%NNP material%NNP
+naval%NNP naval%NNP naval%NNP
+submarine%NNP hull%NNP mechanical%NNP
+electrical%NNP
+hm%NNP
+platform%NNP force%NNP protection%NNP u.s.%NNP navy%NNP platform%NNP
+power%NNP energy%NNP
+material%NNP unmanned%NNP sea%NNP surface%NNP vehicle%NNP
+naval%NNP s%NNP
+autonomy%NNP
+vehicle%NNP
+launch%NNP system%NNP
+advanced%NNP material%NNP development%NNP
+sea%NNP surface%NNP vehicle%NNP
+ussv%NNP
+ussvs%NNP
+energy%NNP system%NNP technology%NNP evaluation%NNP program%NNP
+estep%NNP
+conduct%NN unmanned%NNP sea%NNP surface%NNP vehicle%NNP
+continue%JJ estep%NNP
+develop%NNP navy%NNP
+navy%NNP navy%NNP naval%NNP installation%NNP
+naval%JJ installation%NNS
+continue%NN
+autonomous%NNP maritime%NNP asset%NNP protection%NNP system%NNP
+amaps%NNP
+develop%NNP underwater%NNP vehicle%NNP
+amaps%NNP commander%NNP naval%NNP installation%NNP
+cnic%NNP
+navfac%NNP
+base%NNP
+amaps%NNP rocket%NNP propelled%NNP grenada%NNP
+rpg%NNP
+sea%NNP
+interest%NN navy%NNP
+marine%NNP corp%NNP electromagnetic%JJ system%NNP advanced%NNP technology%NNP
+radio%NNP frequency%NNP surface%NNP
+aerospace%NNP surveillance%NNP
+electronic%NNP warfare%NNP rf%NNP communication%NNP system%NNPS
+position%NNP
+navigation%NNP timing%NNP
+pnt%NNP
+radar%NNP
+ew%NNP
+communication%NNP network%NNP
+naval%NNP science%NNP technology%NNP naval%NNP research%NNP onr%NNP
+department%NNP navy%NNP don%NNP applied%NNP
+advanced%NNP technology%NNP naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP
+nre%NNP naval%NNP d%NNP framework%NNP advanced%NNP technology%NNP development%NNP
+atd%NNP technology%NNP readiness%NNP level%NNP
+radio%NNP frequency%NNP surface%NNP aerospace%NNP surveillance%NNP
+electronic%NNP warfare%NNP rf%NNP communication%NNP system%NNPS position%NNP
+navigation%NNP timing%NNP pnt%NNP
+electromagnetic%JJ system%NNPS
+electronic%NNP
+electromagnetic%NNP system%NNP activity%NNP
+communication%NNP electronic%NNP attack%NNP
+electronic%JJ surveillance%NNP
+ew%NNP radar%NNP
+technology%NNP distributed%NNP electronic%NNP warfare%NNP distributed%NNP maritime%NNP operation%NNP
+electromagnetic%JJ system%NNP
+advanced%NNP ew%NNP enabling%NNP technology%NNPS
+develop%NNP conduct%NNP
+command%NNP control%NNP communication%NNP computer%NNP intelligence%NNP surveillance%NNP
+reconnaissance%NNP c4isr%NNP
+electronic%NNP protection%NNP
+c4isr%NNP electromagnetic%NNP spectrum%NNP
+em%NNP refine%NNP
+navy%NNP refine%NNP
+u.s.%NNP naval%NNP research%NNP onr%NNP marine%NNP corp%NNP technology%NNP
+size%NNP weight%NNP power%NNP
+cost%NNP
+distributed%NNP intermittent%NNP
+limited%NNP pe%NNP
+corp%NNP landing%NNP force%NNP technology%NNP
+advanced%NNP technology%NNP development%NNP atd%NNP
+technology%NNP readiness%NNP level%NNP future%NNP naval%NNP capability%NNP
+fnc%NNP technology%NNP
+command%NNP control%NNP communication%NNP computer%NNP distributed%NNP
+intermittent%NNP limited%JJ size%NNP
+weight%NNP power%NNP cost%NNP
+usmc%NNP
+advanced%NNP
+marine%NNP corp%NNP future%NNP directorate%NNP
+combat%NNP development%NNP
+integration%NNP
+dc%NNP
+cd%NNP
+united%NNP state%NNPS marine%NNP corp%NNP
+usmc%NNP science%NNP
+technology%NNP mcwl%NNP
+usmc%NNP usmc%NNP
+marine%NNP corp%NNP marine%NNP corp%NNP
+joint%JJ joint%NNP concept%NNP development%NNP
+experimentation%NNP
+united%NNP state%NNPS
+u%NNP
+marine%NNP corp%NNP marine%NNP
+magtf%NNP
+marine%NNP marine%NNP corp%NNP
+combat%NNP service%NNP support%NNP
+cs%NNP
+force%NNP protection%NNP marine%NNP corp%NNP
+future%NNP directorate%NNP
+combat%NNP service%NNP support%NNP force%NNP protection%NNP
+technique%NNP
+procedure%NNP
+ttps%NNP
+marine%NNP corp%NNP magtf%NNP
+thrust%NNP area%NNP
+expeditionary%NNP medicine%NNP
+force%NNP protection%NNP autonomy%NNP
+robotics%NNPS
+radio%NNP frequency%NNP naval%NNP expeditionary%NNP
+disrupted%NNP intermittent%NNP
+limited%JJ
+area%NNP spectrum%NNP
+software%NNP
+initiate%NNP
+base%NNP marine%NNP
+magtf%NNP information%NNP group%NNP integrated%NNP command%NNP center%NNP
+interest%NN common%JJ
+aerial%JJ vehicle%NNP simulation%NNP system%NNP
+develop%NNP congressional%NNP
+flight%NNP motion%NNP simulator%NNP
+uavs%NNP
+uav%NNP modular%NNP advanced%NNP armed%NNP robotic%NNP
+congressional%JJ add%NNP uas%JJ
+range%NNP munition%NNP demo%NNP
+robotic%JJ
+dod%NNP weapon%NNP program%NNP
+fy96%NNP national%NNP defense%NNP defense%NNP
+commandant%NNP
+marine%NNP corp%NNP cmc%NNP dod%NNP
+ea%NNP
+joint%JJ weapon%NNP program%NNP
+jnlwp%NNP defense%NNP
+acquisition%NNP
+sustainment%NNP osd%NNP principal%NNP
+defense%NNP policy%NNP dod%NNP
+joint%JJ weapon%NNP
+nlw%NNP product%NNP team%NNP
+jnlwp%NNP cmc%NNP service%NNPS
+coast%NNP guard%NNP dod%NNP
+joint%NNP capability%NNPS
+assessment%NNP document%NNP national%NNP defense%NNP strategy%NNP
+nd%NNP nlw%NNP
+north%NNP atlantic%NNP treaty%NNP organization%NNP
+nato%NNP
+ally%NNP nd%NNP
+advanced%NNP technology%NNP development%NNP nlws%NNP
+advanced%NNP technology%NNP development%NNP atd%NNP technology%NNP readiness%NNP level%NNP
+weapon%NNP nlw%NNP
+nlws%NNP base%NNP
+joint%JJ requirement%NNS oversight%NNP council%NNP jroc%NNP
+naval%NNP research%NNP onr%NNP u.s%NNP onr%NNP department%NNP
+navy%NNP basic%NNP
+applied%NNP advanced%NNP technology%NNP future%NNP naval%NNP
+fnc%NNP advanced%NNP technology%NNP
+fnc%NNP applied%NNP research%NNP
+record%NNP
+advanced%NNP technology%NNP development%NNP atd%NNP technology%NNP readiness%NNP level%NNP future%NNP naval%NNP
+fnc%NNP naval%NNP budget%NNP activity%NNP
+fnc%NNP fncs%NNP
+technology%NNP readiness%NNP level%NNP trl%NNP fnc%NNP
+fnc%NNP program%NNP program%NNP element%NNP
+fnc%NNP fnc%NNP
+congressional%NNP cmp%NNP
+capable%JJ manpower%NNP
+program%NNP naval%NNP capability%NNP
+fnc%NNP applied%NNP research%NNP lvc%NNP
+fy20%NNP fleet%NNP
+interest%NN congressional%JJ add%NNP
+advanced%NNP development%NNP
+high%NNP yield%NNP conventional%NNP energetics%NNP
+conduct%NNP automated%NNP
+congressional%NNP add%NNP subtotal%NNP congressional%NNP
+naval%NNP research%NNP onr%NNP mantech%NNP
+u.s.%NNP science%NNP
+technology%NNP mantech%NNP program%NNP
+navy%NNP key%NNP
+virginia%NNP
+vcs%NNP
+orp%NNP
+joint%NNP strike%NNP fighter%NNP
+jsf%NNP
+naval%NNP research%NNP onr%NNP mantech%NNP technology%NNP
+naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP applied%NNP advanced%NNP technology%NNP
+naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP
+naval%NNP d%NNP framework%NNP advanced%NNP technology%NNP development%NNP
+atd%NNP technology%NNP readiness%NNP level%NNP naval%NNP research%NNP
+onr%NNP mantech%NNP
+u.s.%NNP science%NNP technology%NNP
+mantech%NNP program%NNP
+navy%NNP key%NNP virginia%NNP
+vcs%NNP class%NNP
+clb%NNP
+currently%NNP
+mantech%NNP
+ffg%NNP
+mantech%NNP mantech%NNP
+fabrication%NNP
+composite%NNP
+fabrication%NNP virginia%NNP
+vcs%NNP class%NNP clb%NNP
+ddg%NNP
+cvn%NNP composite%NNPS
+congressional%JJ interest%NNP item%NNPS modern%JJ
+naval%JJ defense%NNP community%NNPS
+interest%NNP
+technology%NNP naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP applied%NNP advanced%NNP technology%NNP
+naval%NNP national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP naval%NNP
+d%NNP framework%NNP advanced%NNP technology%NNP development%NNP
+atd%NNP technology%NNP readiness%NNP level%NNP naval%JJ
+defense%NNP community%NNPS
+interest%NNP nihl%NNP
+warfighter%NNP performance%NNP develop%NNP
+base%NNP auditory%NNP neuroscience%NNP
+performance%NNP develop%NNP
+further%NNP
+conduct%NN warfighter%NNP performance%NNP congressional%NNP interest%NNP
+novel%NNP therapeutic%NNP intervention%NNP research%NNP
+novel%NNP therapeutic%NNP intervention%NNP program%NNP
+prp%NNP
+bmc%NNP
+novel%NNP therapeutic%NNP intervention%NNP program%NNP prp%NNP
+bmc%NNP congressional%JJ add%NNP
+marrow%NNP registry%NNP program%NNP
+bone%NNP marrow%NNP
+development%NNP
+science%NNP technology%NNP rapid%NNP identification%NNP
+matched%NNP donor%NNP
+immunogenetic%NNP study%NNPS
+transplantation%NNP
+clinical%NNP research%NNP
+transplantation%NNP naval%NNP research%NNP
+onr%NNP marine%NNP
+onr%NNP technology%NNP
+fleet%NNP battle%NNP problem%NNP
+fbp%NNP
+loes%NNP
+naval%NNP warfare%NNP experimentation%NNP
+navy%NNP marine%NNP corp%NNP swampworks%NNP
+techsolutions%NNPS
+marine%NNS
+naval%NNP strike%NNP operation%NNP navy%NNP
+technology%NNP naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP applied%NNP advanced%NNP technology%NNP naval%NNP
+national%NNP defense%NNP strategy%NNP navy%NNP naval%NNP research%NNP naval%NNP research%NNP enterprise%NNP nre%NNP
+naval%NNP d%NNP framework%NNP advanced%NNP technology%NNP development%NNP atd%NNP
+technology%NNP readiness%NNP level%NNP fleet%NNP battle%NNP problem%NNP
+fbps%NNP
+loes%NNP naval%JJ warfare%NNP
+navy%NNP warfare%NNP
+nwdc%NNP
+fleet%NNP experimentation%NNP
+flex%NNP
+technology%NNP naval%NNP warfare%NNP
+seahunter%NNP medium%NNP
+surface%NNP vessel%NNP
+mdusv%NNP pacific%NNP fleet%NNP battle%NNP problem%NNP
+california%NNP hawaii%NNP
+expand%NNP
+analysis%NNP opportunity%NNP
+naval%NNP research%NNP enterprise%NNP nre%NNP early%JJ technology%NNP readiness%NNP level%NNP
+fleet%NNP nre%NNP
+base%NNP highly%NNP
+department%NNP defense%NNP
+dod%NNP single%NNP manager%NNP responsibility%NNP
+military%NNP explosive%NNP ordnance%NNP disposal%NNP technology%NNP
+training%NNP
+eodt%NNP
+dod%NNP eod%NNP
+program%NNP board%NNP
+unique%NNP
+joint%JJ requirement%NNS oversight%NNP council%NNP jroc%NNP dod%NNP
+u.s%NNP naval%NNP joint%NNP eod%NNP
+naval%NNP s%NNP naval%NNP
+dod%NNP joint%NNP eod%NNP
+mine%NNP countermeasure%NNP mcm%NNP
+expeditionary%NNP warfare%NNP joint%NNP eod%NNP
+naval%NNP joint%NNP eod%NNP
+improvised%JJ
+ied%NNP
+ied%NNP dod%NNP
+joint%NNP eod%NNP ied%NNP
+naval%NNP warfare%NNP ied%NNP
+ied%NNP fnc%NNP
+ec%NNP technology%NNP
+naval%NNP research%NNP onr%NNP department%NNP navy%NNP don%NNP applied%NNP advanced%NNP technology%NNP naval%NNP
+mine%NNP countermeasure%NNP mcm%NNP u%NNP naval%NNP
+joint%NNP eod%NNP naval%NNP
+joint%NNP eod%NNP improvised%JJ
+ied%NNP ied%NNP
+dod%NNP joint%NNP eod%NNP ied%NNP
+naval%NNP warfare%NNP ied%NNP ied%NNP
+mcm%NNP fnc%NNP
+ec%NNP joint%JJ eod%NNP demo%NNP
+eod%NNP eod%NNP
+joint%JJ requirement%NNS oversight%NNP council%NNP jroc%NNP dod%NNP board%NNP
+joint%NNP eod%NNP maritime%NNP capability%NNP
+isr%NNP add%NNP subtotal%NNP the%DT office%NNP
+naval%NNP research%NNP onr%NNP larger%NNP innovative%NNP naval%NNP prototype%NNP
+inp%NNP applied%NNP inps%NNP
+advanced%NNP technology%NNP inp%NNP
+u.s.%NNP due%NNP inps%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP trl%NNP inps%NNP onr%NNP
+inps%NNP department%NNP navy%NNP department%NNP navy%NNP advanced%NNP technology%NNP development%NNP
+atd%NNP technology%NNP readiness%NNP level%NNP solid%JJ state%NNP laser%NNP technology%NNP maturation%NNP
+ssl%NNP
+navy%NNP innovative%NNP naval%NNP prototype%NNP
+inp%NNP aerial%NNP vehicle%NNP
+uav%NNP intelligence%NNP
+surveillance%NNP reconnaissance%NNP isr%NNP
+inp%NNP due%NNP inps%NNP
+naval%NNP research%NNP onr%NNP inps%NNP
+department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP
+congressional%NNP solid%JJ state%NNP laser%NNP technology%NNP maturation%NNP
+ssl%NNP solid%JJ state%NNP laser%NNP technology%NNP maturation%NNP
+railgun%NNP emrg%NNP
+railgun%NNP weapon%NNP system%NNP
+rgws%NNP
+emrg%NNP emrg%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP
+emrg%NNP innovative%NNP naval%NNP prototype%NNP
+inp%NNP inp%NNP
+due%NNP inps%NNP
+naval%NNP research%NNP onr%NNP inps%NNP department%NNP
+navy%NNP department%NNP navy%NNP department%NNP information%NNP
+congressional%NNP railgun%NNP
+emrg%NNP railgun%NNP
+emrg%NNP railgun%NNP weapon%NNP system%NNP
+rgws%NNP emrg%NNP
+high%NNP energy%NNP helcap%NNP
+ascms%NNP
+high%NNP energy%NNP ascms%NNP
+helcap%NNP
+navy%NNP laser%NNP family%NNP
+system%NNP nlfos%NNP
+alternative%NNP laser%NNP source%NNP
+ruggedized%NNP high%NNP energy%NNP
+rhel%NNP
+solid%JJ state%NNP laser%NNP tech%NNP
+surface%NN navy%NNP laser%NNP weapon%NNP system%NNP
+snlws%NNP
+aegis%NNP
+optical%JJ dazzling%NNP
+odin%NNP
+helcap%NNP helcap%NNP
+helcap%NNP program%NNP element%NNP
+electric%NNP weapon%NNP system%NNPS
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP
+onr%NNP inps%NNP
+department%NNP navy%NNP department%NNP navy%NNP naval%NNP prototype%NNP
+inp%NNP inp%NNP due%NNP
+inps%NNP naval%NNP research%NNP
+onr%NNP inps%NNP department%NNP
+navy%NNP department%NNP navy%NNP department%NNP information%NNP congressional%NNP
+naval%NNP prototype%NNP inp%NNP advanced%NNP technology%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP inp%NNP
+future%NNP year%NNP
+fydp%NNP
+due%NNP inps%NNP technology%NNP readiness%NNP level%NNP
+trl%NNP trl%NNP inps%NNP budget%NNP activity%NNP
+ba3%NNP ba2%NNP
+naval%NNP prototype%NNP inp%NNP applied%NNP re%NNP
+naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP
+strike%NNP hijenks%NNP
+inp%NNP high%NNP power%NNP microwave%NNP
+hpm%NNP hijenks%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP hijenks%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP
+inps%NNP department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP
+congressional%NNP strike%NNP
+hijenks%NNP inp%NNP
+high%NNP power%NNP microwave%NNP hpm%NNP hijenks%NNP
+locust%NNP c2%NNP
+uav%NNP locust%NNP
+isr%NNP joint%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP locust%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP
+department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP congressional%NNP
+locust%NNP arctic%NNP mobile%NNP
+amos%NNP inp%NNP
+arctic%NNP navy%NNP
+arctic%NNP amos%NNP
+arctic%NNP amos%NNP arctic%NNP ocean%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP amos%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP
+navy%NNP department%NNP navy%NNP department%NNP information%NNP congressional%NNP arctic%NNP mobile%NNP
+amos%NNP inp%NNP arctic%NNP
+navy%NNP arctic%NNP amos%NNP
+claw%NNP
+combatant%NNP commander%NNP uuvs%NNP
+uuvs%NNP uuvs%NNP navy%NNP c2/fires%NNP
+isr%NNP activity%NNP project%NNP
+advanced%NNP technology%NNP development%NNP claw%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP
+department%NNP navy%NNP department%NNP information%NNP
+congressional%NNP claw%NNP
+combatant%NNP commander%NNP uuvs%NNP uuvs%NNP
+complex%NNP
+elektra%NNP loop%NNP
+artificial%NNP intelligence%NNP elektra%NNP activity%NNP
+project%NNP advanced%NNP technology%NNP development%NNP
+elektra%NNP inp%NNP
+due%NNP inps%NNP naval%NNP research%NNP
+onr%NNP inps%NNP department%NNP navy%NNP
+department%NNP navy%NNP department%NNP information%NNP congressional%NNP
+elektra%NNP loop%NNP artificial%NNP intelligence%NNP
+elektra%NNP navy%NNP
+hypersonic%NNP booster%NNP hawc%NNP
+cvn%NNP hawc%NNP
+cvn%NNP hypersonic%NNP
+weapon%NNP concept%NNP hawc%NNP aur%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP hypersonic%NNP booster%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP department%NNP
+navy%NNP department%NNP information%NNP
+congressional%NNP total%NN cost%NNP the%DT medium%NNP
+surface%NNP vehicle%NNP mdusv%NNP navy%NNP
+mdusvs%NNP
+navy%NNP activity%NNP project%NNP
+advanced%NNP technology%NNP development%NNP mdusv%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP department%NNP navy%NNP
+department%NNP information%NNP
+congressional%NNP medium%NNP displacement%NNP
+surface%NNP vehicle%NNP mdusv%NNP navy%NNP mdusvs%NNP
+minerva%NNP ai%NNP minerva%NNP
+composite%NNP warfare%NNP commander%NNP
+cwc%NNP fleet%NNP
+force%NNP
+group%NNP devops%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP minerva%NNP
+due%NNP inps%NNP naval%NNP research%NNP onr%NNP
+inps%NNP department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP congressional%NNP
+minerva%NNP ai%NNP minerva%NNP composite%NNP warfare%NNP commander%NNP
+cwc%NNP long%NNP range%NNP
+applied%NNP long%NNP range%NNP
+lrt%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP applied%NNP research%NNP
+program%NNP naval%NNP prototype%NNP
+inp%NNP applied%NNP re%NNP
+lrt%NNP artificial%NNP intelligence%NNP
+artificial%NNP intelligence%NNP activity%NNP
+project%NNP advanced%NNP technology%NNP development%NNP lrt%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP
+congressional%NNP range%NNP targeting%NNP
+range%NNP targeting%NNP
+applied%NNP long%NNP range%NNP lrt%NNP
+innovative%NNP naval%NNP prototype%NNP inp%NNP undersea%NNP warfare%NNP effort%NNP
+undersea%NNP warfare%NNP effort%NNP
+undersea%NNP warfare%NNP operation%NNP
+conops%NNP navy%NNP
+distributed%NNP maritime%NNP operation%NNP undersea%NNP warfare%NNP
+asw%NNP anti%NNP surface%NNP warfare%NNP strike%NNP
+intelligence%NNP surveillance%NNP reconnaissance%NNP
+mine%NNP warfare%NNP
+subsea%NNP seabed%NNP warfare%NNP
+ssw%NNP activity%NNP
+project%NNP advanced%NNP technology%NNP development%NNP undersea%NNP warfare%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP congressional%NNP
+undersea%NNP warfare%NNP effort%NNP undersea%NNP warfare%NNP effort%NNP
+undersea%NNP warfare%NNP effort%NNP undersea%NNP warfare%NNP
+operation%NNP conops%NNP
+super%NNP swarm%NNP
+inp%NNP usv%NNP
+swarm%NNP
+medium%NNP displacement%NNP
+surface%NNP vehicle%NNP mdusv%NNP autonomous%NNP
+activity%NNP project%NNP advanced%NNP technology%NNP development%NNP super%NNP swarm%NNP
+inp%NNP due%NNP inps%NNP naval%NNP research%NNP onr%NNP inps%NNP department%NNP navy%NNP department%NNP navy%NNP department%NNP information%NNP congressional%NNP super%JJ swarm%NNP
+super%NNP swarm%NNP inp%NNP
+interest%NNP item%NNPS railgun%NNP
+next%JJ generation%NNP
+power%NNP ngpp%NNP
+hypervelocity%NNP
+hypervelocity%NNP hvp%NNP
+railgun%NNP hvp%NNP
+railgun%NNP dew%NNP
+conduct%NNP c538%NNP
+dew%NNP

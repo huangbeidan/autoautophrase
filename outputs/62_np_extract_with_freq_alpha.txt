@@ -1,0 +1,5512 @@
+14	
+1	$50
+1	$500
+1	% pay raise
+1	% reduction
+1	'disadvantaged user
+1	(1) naval warfare experimentation
+1	(1) nl sound
+1	(2)
+1	(2) operation analysis
+1	(3)
+1	(4) management
+1	(he lcap ): d
+1	(hp
+1	). t
+1	, am o
+1	, e.
+14	, in p
+1	, in p require
+1	- ( amaps)
+1	- a esa)
+1	- a im
+1	- a lternative laser source
+3	- c onduct
+1	- c onduct research
+1	- c ontinue development
+1	- c ontinue est ep project effort
+1	- c yber
+1	- c yber related activity
+1	- e lectronic warfare (ew
+2	- i dentification
+1	- o ptical dazzling interdictor navy (od
+1	- s olid state laser tech maturation activity
+1	- s urface navy laser weapon system increment 1 ( snlws in . 1) project
+1	- t
+1	-related future naval capability
+1	.  n ew machine
+1	. "s earch
+1	. du rip
+1	. em rg
+1	. fs usw mission
+1	. in investment
+1	.0 f
+14	2 ( technology concept
+3	2-way communication
+1	21st century
+21	4 ( component
+9	5 ( component
+9	6 ( system subsystem model
+1	:  c onduct
+1	: a) advanced ew enabling technology - d evelop
+1	: vi rginia class submarine (vc )/co lumbia class submarine (cl ); d dg
+1	: vi rginia class submarine (vc )/oh io replacement program (or ); d dg
+1	a c vn weapon elevator
+1	a c vn-capable haw c al l-up-round (au
+1	a c vn-capable haw c aur
+2	a d
+2	a r
+1	a r ailgun
+1	a r ailgun launch
+1	a s ystem
+15	a t echnology readiness level (tr
+25	ability
+2	ability to: detect
+1	ability to: sense
+3	academia
+1	academia submarine partnership
+1	academia submarine partnership fy
+3	academic research fleet
+1	accelerate capability delivery
+2	accelerate research progress
+1	accelerated timeframe
+1	accelerating delivery
+2	access
+1	accommodate information flow
+49	accomplishment
+1	accomplishment : mc wl fd
+2	accounting service
+1	accounting service (df
+1	accurate decision making
+1	accurate decision-making
+2	accurate understanding
+1	achieve reduced weight
+2	acid nanostructures
+1	acoustic congressional interest
+2	acoustic data set
+2	acoustic propagation
+2	acoustic research fy
+1	acoustic sensor
+3	acquisition
+1	acquisition . fy
+57	acquisition decision
+89	acquisition decision warfighting system
+16	acquisition decision warfighting system department information security concern
+3	acquisition decision warfighting system department information security concern project effort
+3	acquisition decision warfighting system department information security concern project effort research activity
+1	acquisition decision warfighting system department information security concern project effort research activity technology development plan
+6	acquisition decision warfighting system information security concern
+1	acquisition decision warfighting system information security concern project effort
+1	acquisition platform
+29	acquisition potential
+1	acquisition potential . on
+7	acquisition potential naval research
+25	acquisition potential naval research demonstrates inps
+1	acquisition potential naval research demonstrates inps existing capability
+5	acquisition process
+1	acquisition process future year defense program
+132	acquisition program
+33	acquisition program acquisition decision
+40	acquisition program acquisition decision warfighting system
+11	acquisition program acquisition decision warfighting system department information security concern
+2	acquisition program acquisition decision warfighting system department information security concern project effort
+1	acquisition program acquisition decision warfighting system department information security concern project effort research activity
+1	acquisition program acquisition program
+1	acquisition program base responsiveness
+1	acquisition program conduct advanced technology development
+1	acquisition program effort focus
+1	acquisition program program element
+1	acquisition sponsor
+2	acquisition stakeholder
+2	acquisition title
+2	action
+1	actionable information
+1	active acoustic sensing
+1	active aperture array
+105	activity
+1	activity develops technology
+7	activity include secure
+1	activity include secure communication network
+1	activity includes marine corp warfighting laboratory / future directorate
+1	activity primary focus
+41	activity project
+25	activity project advanced technology development
+1	activity project advanced technology development amos
+1	activity project advanced technology development hijenks
+1	activity project advanced technology development hypersonic booster
+1	activity project advanced technology development locust
+1	activity project advanced technology development minerva
+1	activity project advanced technology development super swarm
+9	activity project applied research
+1	activity project applied research elektra
+1	activity project applied research minerva
+1	activity provides freedom
+1	actual environment
+2	actuator modeling
+2	adaptive capability
+1	adaptive congressional interest
+1	adaptive sampling scheme
+5	add subtotal
+2	add subtotal activity
+1	add subtotal naval research
+1	add subtotal the office
+4	addition
+1	addition , on
+1	additional defense university research instrumentation program (du rip) award
+2	additional physical dimension
+1	additional warfighter need
+3	additive manufacturing
+1	additive manufacturing fy
+3	address
+17	address advanced technology development
+1	address advanced technology development elektra inp effort
+1	address advanced technology development locust inp effort
+1	address advanced technology development minerva inp inp investment
+1	address advanced technology development undersea warfare inp effort
+17	address applied research
+1	address applied research energy weapon prototype development inp effort
+1	address applied research fsuw inp effort
+1	address contingency event
+1	address cost
+2	address emergent
+1	address future navy
+1	address manufacturing technology
+2	address naval capability
+3	address readiness challenge
+34	address target
+1	address target project unit
+1	address technology
+2	address warfighter protection
+1	address warfighter protection performance concern
+1	addressing affordability
+1	addressing safety
+1	adhesion fy
+1	adhesive
+1	adhesive bonding
+64	adv tec dev
+11	adv tec dev . in p
+2	adv tec dev develop hardware
+1	adv tec dev develop hardware service use
+4	adv tec dev inp
+1	adv tec dev inp inps
+1	advance development
+2	advance manufacturing technology
+1	advance manufacturing technology reduce cost
+1	advance mount development
+1	advance therapeutic approach
+1	advanced
+2	advanced aspect
+1	advanced beam control
+1	advanced communication system
+1	advanced component
+3	advanced degree
+1	advanced demonstration
+9	advanced development
+1	advanced electrical power system
+1	advanced electronic warfare technology
+1	advanced energy technology
+1	advanced ew enabling
+2	advanced fiber
+1	advanced force
+1	advanced lethality
+1	advanced manufacturing
+1	advanced manufacturing technology
+3	advanced material development
+1	advanced mining technology
+8	advanced naval material
+2	advanced naval material description
+1	advanced naval material effort support
+1	advanced naval material effort support several science
+1	advanced naval material technology
+3	advanced offensive mission
+1	advanced processing technology
+1	advanced remote
+1	advanced research focus
+1	advanced sensing technology
+4	advanced sensor
+1	advanced sensor capability
+1	advanced ship concept
+2	advanced signal processing technique
+243	advanced technology
+1	advanced technology capability concept
+71	advanced technology development
+1	advanced technology development activity
+1	advanced technology development activity . in investment
+69	advanced technology development atd
+67	advanced technology development atd technology readiness level
+1	advanced technology development atd technology readiness level future naval
+1	advanced technology development claw
+1	advanced technology development initiative
+11	advanced technology development innovative naval prototype
+2	advanced technology development innovative naval prototype (in
+1	advanced technology development innovative naval prototype cyber warfare
+37	advanced technology development investment
+4	advanced technology development investment deter conflict
+1	advanced technology development investment deter conflict called upon
+1	advanced technology development investment future naval capability program
+1	advanced technology development mdusv
+1	advanced technology development nlws
+1	advanced technology development program
+4	advanced technology enable joint eod force
+1	advanced technology enable joint eod force gain access
+1	advanced technology future naval
+1	advanced technology inp
+1	advanced technology investment
+41	advanced technology naval
+34	advanced technology naval national defense strategy
+17	advanced technology naval national defense strategy navy
+5	advanced technology naval national defense strategy navy naval research
+1	advanced technology naval national defense strategy navy naval research naval research enterprise
+2	advanced technology research
+2	advanced technology resource
+1	advanced technology undersea warfare effort project
+4	advanced thermal
+1	advanced thermal power technology
+2	advanced undersea weapon
+2	advancement
+7	advantage
+2	adversarial employment
+1	adversarial environment
+2	adversarial nation
+4	adversary
+3	adversary air
+1	adversary command
+2	adversary de system
+1	adversary directed energy system
+2	adversary exploitation .  e lectromagnetic technology
+1	adversary military modernization
+2	adversary naval platform
+3	adversary system
+1	adversary weapon system
+1	advocate
+1	aegis
+2	aegis platform
+1	aerial
+1	aerial vehicle
+1	aerial vehicle (su av
+1	aerial vehicle (ua
+1	aerial vehicle simulation system
+1	aerial vehicle simulation system fy
+1	aerodynamics
+1	aerospace surveillance
+3	aerospace surveillance sensor
+1	aesa
+4	affordability
+6	affordability concern
+1	affordability concern aircraft technology description
+2	affordability effort
+4	affordability goal
+1	affordability goal manufacturing technology
+7	affordability improvement
+1	affordability improvement acquisition platform
+1	affordable mobile asw surveillance system
+1	affordable mobile asw surveillance system (am ass) research
+2	aftermath
+1	agile
+1	agile fashion
+1	agile manufacturing integrated computational material engineering (ic
+2	agility
+7	ai
+3	ai capability
+2	ai ml ability
+2	aid
+17	ailors
+1	aim point selection
+13	air
+3	air asw asset
+1	air breathing propulsion
+7	air platform payload
+1	air platform payload distributed control
+2	air platform propulsion
+4	air vehicle
+1	air vehicle command
+1	air vehicle cycle advanced technology
+1	air vehicle technology
+1	air-based warfighting technology
+1	air-delivered extended range munition demo fy
+2	air-launched flight demonstration
+1	air-water interface
+6	airborne platform
+2	aircraft
+3	aircraft technology
+1	aircraft technology activity
+1	aircraft technology activity develops technology
+1	aircraft technology description
+1	aircrew
+2	airframe
+1	airframe technology
+2	alaska
+17	algorithm
+1	algorithm development
+1	aligns naval s
+1	all-up-round (au
+2	alliance
+1	allied force
+1	allow pilot
+5	ally
+1	ally nd
+1	alternative energy research
+1	alternative energy research fy
+1	alternative innovative application
+2	alternative laser source
+1	ama p
+36	amaps
+1	amaps commander naval installation
+1	amaps rocket propelled grenada
+1	amass
+1	ambient noise characterization
+1	ambient noise characterization congressional add
+1	america
+7	american
+1	american don
+1	american naval power
+1	american naval power .  t
+1	amo s inp effort
+1	amo s inp effort . in investment represent game
+61	amos
+1	amos activity
+1	amos applied
+1	amos arctic
+1	amos arctic ocean
+16	amos inp
+1	amos inp arctic
+1	amphibious
+1	amphibious craft concept
+2	amphibious operation
+4	analysis
+2	analysis effort
+1	analysis opportunity
+2	analysis opportunity catalog
+2	analytic technique
+1	analyze
+1	anti submarine warfare (as ), a nti surface warfare
+11	anti surface warfare
+1	anti surface warfare mine warfare
+2	anti-air surface warfare
+1	anti-corrosion nanotechnology coating enhancement fy
+1	anti-ship cruise missile (as cm
+35	anti-submarine warfare
+1	anti-submarine warfare (as
+1	anti-submarine warfare (as ), a nti surface warfare
+1	anti-submarine warfare attack capability
+1	anti-submarine warfare submarine threat
+1	aperture array
+1	aperture component
+2	applicable - p ropose defensive technology
+1	applicable communication asset
+15	application
+85	application formulation
+1	application formulation ). d ue
+1	application formulation ). t
+1	application formulation applied research
+12	application formulation program described herein
+1	application formulation program described herein pe fund applied research effort
+15	application towards process
+1	application towards process technology readiness level
+143	applied
+1	applied acoustic
+87	applied advanced technology
+11	applied advanced technology naval
+1	applied advanced technology naval national defense strategy
+9	applied innovative naval prototype
+239	applied innovative naval prototype inp
+31	applied innovative naval prototype inp due
+101	applied innovative naval prototype inp due inps
+5	applied innovative naval prototype inp due inps technology readiness level
+22	applied innovative naval prototype inp due inps technology readiness level trl
+13	applied innovative naval prototype inp due inps technology readiness level trl trl
+3	applied innovative naval prototype inp due inps technology readiness level trl trl inps
+1	applied innovative naval prototype inp due inps technology readiness level trl trl inps budget activity
+1	applied inp program
+1	applied interest
+3	applied long range
+1	applied long range lrt
+2	applied re
+1	applied re . in p
+233	applied research
+1	applied research advanced technology development investment
+16	applied research advanced technology development program
+1	applied research advanced technology development program project provides fund
+1	applied research hijenks
+59	applied research innovative naval prototype
+1	applied research innovative naval prototype (in
+1	applied research innovative naval prototype cyber warfare
+155	applied research innovative naval prototype investment represent game changing technology
+121	applied research innovative naval prototype investment represent game changing technology force fight
+11	applied research innovative naval prototype investment represent game changing technology force fight decision point
+9	applied research innovative naval prototype investment represent game changing technology force fight decision point mature technology
+58	applied research innovative naval prototype investment represent game changing technology force fight decision point mature technology technology readiness level
+11	applied research innovative naval prototype investment represent game changing technology force fight decision point mature technology technology readiness level budget activity
+3	applied research innovative naval prototype investment represent game changing technology force fight decision point mature technology technology readiness level budget activity ba3 funding
+1	applied research innovative naval prototype investment represent game changing technology force fight decision point mature technology technology readiness level budget activity ba3 funding ba3 inp fund
+3	applied research investment
+1	applied research joint chief
+4	applied research long range targeting
+1	applied research long range targeting innovative naval prototype
+1	applied research program
+1	applied research railgun
+2	applied research target effect
+1	applied research target effect investment area include applied research
+1	applied research technology investment
+3	applied research technology readiness level
+31	applied research technology readiness level trl
+1	applied research technology readiness level trl applied
+1	applied research work
+3	approach
+3	approach "..
+1	approach serf
+2	appropriate action
+2	appropriate common picture
+1	appropriate length scale
+3	architecture
+40	arctic
+23	arctic amos
+1	arctic amos arctic ocean
+25	arctic environment
+1	arctic environment arctic ocean
+1	arctic mobile observing system (am o
+2	arctic mobile observing system (am o ) in effort
+1	arctic navy
+3	arctic ocean
+5	arctic presence
+1	arctic presence manned platform
+17	area
+30	area coverage
+1	area coverage infrastructure facility
+1	area coverage target adversary
+1	area including modeling
+1	area knowledge
+3	armored reconnaissance vehicle
+1	artificial
+190	artificial intelligence
+2	artificial intelligence (ai
+1	artificial intelligence activity
+1	artificial intelligence capability
+75	artificial intelligence elektra
+1	artificial intelligence elektra activity
+2	artificial intelligence enabled algorithm
+1	artificial intelligence enabled algorithm perform force level
+2	artificial intelligence machine learning
+1	artificial intelligence source data picture
+49	artificial intelligence u.s.
+1	artificial intelligence u.s. naval
+1	artificial intelligence/machine learning
+2	artificial intelligent (ai
+1	as, exploratory research
+1	as: human-machine interface
+1	as: transmission electron microscopy
+1	asc m . he lcap
+1	ascms
+1	asia-pacific region
+4	aspect
+1	ass battle damage
+1	ass new target human effect
+1	assembly
+11	assessment
+54	assessment document
+1	assessment document national defense strategy
+1	assessment measure
+2	asset
+1	asset lifecycle management
+3	assimilation
+1	associated acquisition program
+1	associated effort
+1	associated staff
+1	associated threat obscuration
+2	assured access
+70	asw
+2	asw anti surface warfare
+1	asw anti surface warfare strike
+3	asw asw
+1	asw asw search
+2	asw distributed search
+3	asymmetric attack
+1	asymmetric technology
+1	at-sea operation
+2	at-sea vertical launch system
+137	atd
+211	atd technology readiness level
+1	atd technology readiness level fleet battle problem
+1	atd technology readiness level naval research
+1	atd technology readiness level solid state laser technology maturation
+1	atmospheric analysis
+1	atmospheric characterization
+1	attack
+3	attack capability
+1	attack mode
+1	auditory damage
+2	auditory injury
+2	auditory neuroscience
+1	austere (e.
+2	austere condition
+1	automated critical care system congressional add subtotal congressional add
+1	automated critical care system fy
+1	automated detection
+1	automated operation
+1	automated survivability
+1	automatic training content re-engineering
+1	autonomous aim point selection
+1	autonomous air vehicle command
+2	autonomous capability
+1	autonomous complex multi-domain threat
+1	autonomous control system
+1	autonomous control system congressional interest item
+2	autonomous maritime asset protection system
+1	autonomous maritime asset protection system (am aps) capability
+3	autonomous mission
+2	autonomous navigation
+5	autonomous system
+2	autonomous technology
+3	autonomous unmanned undersea weapon system
+1	autonomous usv fnc program
+10	autonomy
+4	aviation aircraft platform
+1	aviation aircraft platform mission effectiveness
+1	aviation national naval
+1	aviation national naval responsibility
+2	avoid engagement
+2	awarded effort
+1	awarded effort improved li-ion battery safety
+1	awardees
+1	awareness capability
+8	aws
+2	ba2 inp fund
+56	ba3
+1	ba3 ba2
+61	ba3 ba3
+4	ba3 ba3 naval prototype
+3	ba3 ba3 naval prototype inp
+28	ba3 ba3 naval prototype inp adv tec dev
+1	ba3 ba3 naval prototype inp adv tec dev inp
+21	ba3 funding
+11	ba3 funding ba3 inp fund
+6	ba3 funding ba3 inp fund program element
+1	ba3 funding ba3 inp fund program element innovative naval prototype
+37	ba3 inp fund
+1	ba3 inp fund innovative naval prototype advanced technology development
+11	ba3 inp fund program element
+4	ba3 inp fund program element innovative naval prototype
+1	ba3 inp fund program element innovative naval prototype adv tec dev
+1	ba3 naval prototype
+28	ba3 naval prototype advanced technology development
+1	ba3 naval prototype advanced technology development inp
+2	balance
+1	ballistic
+1	ballistic missile submarine nuclear
+1	ballistic missile submarine nuclear (ss bn
+1	balsa wood
+1	bandwidth
+66	base
+1	base auditory neuroscience
+1	base highly
+1	base marine
+8	base plan
+1	base responsiveness
+1	based assessment document
+1	based-on satisfying research priority
+2	basic
+2	basic operation
+2	basic principle
+102	basic research
+1	basic research basic
+3	basic research effort
+1	basic research effort subject area
+1	basic research fy
+1	basic research program
+1	basic research technology readiness level
+1	basic science research
+1	basic social science
+1	basic thermal property congressional interest item
+1	basic understanding
+1	bathymetry
+2	battalion level
+1	battle damage
+1	battle force operation
+2	battlefield mortality
+6	battlespace
+38	battlespace environment
+1	battlespace environment (bs
+1	battlespace environment (bs ). t
+1	battlespace environment bse
+1	battlespace environment effort include development
+1	battlespace environment research result
+1	battlespace shaping weapon
+4	beam control
+1	beam control project pass technology
+2	beam directory architecture
+1	beginning
+4	benefit
+1	beyond line
+1	beyond line of sight
+4	billing
+2	biocentric technology
+2	biocoherent energy fy
+2	biomedical technology
+2	blade stiffener
+9	blind channel characterization
+1	blind channel characterization develop methodology
+1	blooming
+1	blos
+9	bmc
+1	bmc congressional add
+2	board system
+1	bone marrow
+1	bone marrow concentrate
+2	bone marrow concentrate (bm
+2	bone marrow program
+3	booster propulsion technology
+1	bottom type
+13	breadboard hardware
+30	breadboard validation
+1	breakout
+3	breakthrough
+19	breakthrough capability
+1	breakthrough capability risk innovative naval prototype
+1	breakthrough capability supply chain
+1	broad application
+1	broad range
+3	broad spectrum
+1	bse
+1	budget
+37	budget activity
+15	budget activity (ba
+10	budget activity ba3
+31	budget activity ba3 ba3
+2	budget activity ba3 ba3 naval prototype
+1	budget activity ba3 ba3 naval prototype inp
+5	budget activity ba3 funding
+6	budget activity ba3 funding ba3 inp fund
+1	budget activity ba3 funding ba3 inp fund program element
+1	budget current president
+1	budget • congressional general reduction • congressional directed reduction • congressional rescission • congressional add • congressional directed transfer • sbir/sttr transfer • program adjustment • rate/misc adjustment change summary explanation
+3	building
+22	buoy node
+1	buoy node arctic presence
+2	buried munition
+1	buried threat
+1	business personnel
+1	c-a scm problem
+1	c-ascm problem
+1	c2
+3	c2 architecture
+4	c4i sr
+28	c4isr
+1	c4isr electromagnetic spectrum
+1	c4isr naval special warfare
+1	c538
+2	cable fy
+4	california
+1	california hawaii
+11	called upon
+4	called upon come home
+1	called upon come home investment hedge
+2	canalization
+1	candidate fnc technology
+70	capability
+2	capability acceleration
+1	capability delivery
+1	capability delivery risk . fy
+19	capability gap
+1	capability gap existing technology
+1	capability gap research include optimizing known nlw effectiveness
+1	capability including integration
+2	capability need
+1	capability option
+2	capability potential
+1	capability requirement
+1	capable manpower
+1	capable manpower (cm
+1	capable manpower r-2 activity
+4	capable peer
+4	capacity
+1	capital investment
+1	capture software configuration management
+2	carbon-carbon composite
+1	care system congressional add subtotal congressional add
+1	care system fy
+1	career management
+1	carrier-based aircraft
+1	cartridge level solution prototype extended range guided projectile
+1	cd
+1	cdew
+2	centralized responsibility
+15	ch-53k heavy lift helicopter
+1	ch-53k heavy lift helicopter .  o ffice
+1	ch-53k heavy lift helicopter affordability improvement
+1	ch-53k heavy lift helicopter fabrication technology area
+1	ch-53k program
+2	challenge
+1	challenging warfighter electromagnetic spectrum environment
+3	channel characterization
+4	characterization
+1	charge configuration
+5	chemical
+3	chemical propellant
+1	chemical research
+1	chemical weapon
+1	chemical weapon containing nitrogen mustard
+19	chief
+1	cientific breakthrough
+1	civilian
+2	civilian expert
+2	civilian student
+1	civper
+4	cla w inp effort
+1	cla w inp effort . in investment represent game
+3	clandestine
+1	clandestine mine neutralization
+2	clandestine mine neutralization fy
+1	class
+5	class carrier
+1	class carrier f-35 lightning ii aircraft
+4	class destroyer
+1	class destroyer , cv
+2	class destroyer ; cv
+1	class destroyer class carrier
+3	classification
+2	classification capability
+1	classified detail
+1	claw
+1	clb
+1	clearance
+3	clinical research
+3	close combat lethality
+1	close concert
+2	close proximity
+1	cloud
+1	clutter
+1	cluttered environment
+1	cluttered radio frequency (rf
+2	cmc
+1	cnic
+1	coalition
+9	coast guard
+1	coast guard dod
+62	coastal
+1	coastal battlespace environment
+1	coastal geosciences optic activity
+1	coastal geosciences optic description
+1	coastal geosciences/optics activity develops knowledge
+1	coastal naval special warfare
+1	coating
+1	cognitive decision-making skill
+1	coherent energy transfer
+1	collaboration
+1	collaboration .  p e r-
+1	collaboration .  p rogram element r-2 activity align
+1	collaborative context
+4	collateral damage
+2	collateral damage concern moral hardening
+1	college
+2	collegiate program
+3	combat development
+2	combat development process
+9	combat lethality
+1	combat lethality arctic mobile observing system
+13	combat scenario
+1	combat scenario ongoing nlw study
+4	combat service support
+1	combat service support (cs
+1	combat service support force protection
+1	combat service support force protection experimentation effort including assessment
+1	combat system
+1	combat system integration
+3	combatant command
+39	combatant commander
+19	combatant commander uuvs
+1	combatant commander uuvs uuvs
+1	combating terrorism description
+1	combine knowledge
+3	combine radio frequency electronics
+1	combine radio frequency electronics signal processing
+2	combining operation research
+1	combining operation research emerging ai capability
+10	come home
+7	come home investment hedge
+2	come home investment hedge providing solution
+1	come home investment hedge providing solution commander today
+21	command
+1	command & c ontrol
+30	command control
+1	command control (c2)
+5	command control communication
+57	command control communication computer
+1	command control communication computer distributed
+2	command control communication computer intelligence
+1	command control communication computer intelligence surveillance
+1	command control modular undersea effector
+1	command system
+3	commandant
+3	commander
+1	commander naval installation
+1	commander naval installation (cn ic
+42	commander today
+3	commander today naval s
+7	commander today naval s t budget
+1	commander today naval s t budget national defense strategy
+1	commanding general (cg
+1	commitment
+1	common ground
+33	communication
+1	communication asset
+14	communication challenge
+1	communication challenge fire technology
+1	communication computer
+1	communication electronic attack
+2	communication fy
+4	communication network
+2	communication pathway
+3	communication system
+1	communication system equipment / platform quieting
+1	communications/data link
+1	compact millimeter wave technology
+1	compatibility
+1	competitive advantage
+2	competitive military advantage .  l ocust
+2	competitive space
+1	compile
+2	complement
+2	complete accounting
+6	complete mission
+1	complete mission peer adversary defense
+1	complete total cost
+1	complex
+2	complex arctic environment . am o
+1	complex challenge
+2	complex combat scenario
+1	complex environment
+2	complex multi-domain threat
+1	complex operating environment
+1	complex operation
+2	complex peer
+4	complex terrain
+2	complex terrain ." l ocust
+2	complicated environment
+1	complimentary applied research investment
+24	component
+1	component applied research effort
+4	component technology
+1	component technology - c onduct research effort
+2	composite
+1	composite compression member
+1	composite internal stiffening core material
+1	composite manufacturing
+2	composite material
+3	composite processing
+4	composite warfare commander
+1	compression member
+62	computer
+3	computer (c4)
+2	computer (c4) description
+1	computer (c4) research
+1	computer distributed
+5	computer engineering
+1	computer engineering software engineering
+1	computer marine
+1	computer simulation sensor modeling
+13	computer system
+1	computer system advanced technology development
+2	computing
+1	computing system
+1	concentrated area
+1	concentration
+7	concept
+2	concept development
+1	concept exploration
+13	concept exploration effort
+1	concept investigation
+1	concept potential
+3	concept prototype
+4	condition
+242	conduct
+1	conduct advanced development research
+1	conduct advanced research
+1	conduct agile manufacturing integrated
+2	conduct analysis
+9	conduct applied research
+1	conduct applied research feedstock composite
+1	conduct applied research thermoplastic carbon-fiber
+1	conduct automated
+1	conduct basic research effort
+1	conduct c538
+4	conduct conduct
+1	conduct conduct clandestine
+2	conduct effort
+1	conduct electromagnetic system
+1	conduct interest
+1	conduct interim demonstration
+1	conduct joint service explosive ordnance disposal
+1	conduct laser peening technology
+1	conduct lightweight
+1	conduct machine
+1	conduct maneuver warfare
+1	conduct marine corp landing force
+1	conduct microwave
+1	conduct operation
+23	conduct research
+1	conduct research address readiness challenge
+1	conduct research agile manufacturing integrated computational material engineering
+1	conduct research decompression sickness
+1	conduct research effort
+1	conduct research technology maturation
+1	conduct research threat warning system
+1	conduct research using computer simulation sensor modeling
+1	conduct unmanned sea surface vehicle
+1	conduct warfighter performance congressional interest
+1	confidence
+1	confidence detection
+1	confirm feasibility
+1	confirmation
+19	conflict
+3	congress
+107	congressional
+61	congressional add
+1	congressional add conduct
+6	congressional add subtotal
+1	congressional add subtotal activity
+1	congressional add subtotal congressional
+1	congressional add subtotal sea
+1	congressional add task force ocean
+1	congressional add uas
+1	congressional arctic mobile
+1	congressional claw
+1	congressional cmp
+1	congressional complex
+1	congressional dod
+1	congressional emw
+1	congressional hijenks
+4	congressional interest
+34	congressional interest item
+1	congressional interest item conduct
+1	congressional interest item modern
+1	congressional medium displacement
+148	congressional oversight committee
+1	congressional oversight committee domain environment
+1	congressional oversight committee energy weapon
+1	congressional oversight committee high power microwave
+1	congressional oversight committee manpower r-2 activity
+1	congressional oversight committee platform ability
+1	congressional oversight committee program element
+1	congressional oversight committee super swarm
+1	congressional oversight committee total cost
+1	congressional railgun
+1	congressional range targeting
+1	congressional solid state laser technology maturation
+1	congressional strike
+1	congressional total cost the medium
+2	conjunction
+12	connect asset
+1	connect asset mission area requirement
+1	connection
+39	conops
+1	conops navy
+10	consider employment
+1	consider employment provides opportunity
+1	consisting
+1	consonance
+2	constraint
+1	construction
+2	consultation
+3	contested domain
+2	contested urban environment
+2	context
+3	contextual awareness
+1	contingency event
+1	contingent
+1	continue
+1	continue applied research
+1	continue development
+1	continue estep
+1	continue research
+2	continued education outreach
+1	continued study
+1	continued supremacy
+1	continuing support
+2	continuous analysis
+1	continuous communication data link
+1	continuum
+1	contract negotiation administration
+1	contract negotiation/administration
+18	control
+7	control capability
+1	control capability computer system
+1	control communication
+1	control damage
+2	control parameter
+1	control reverberation
+1	control system
+2	control technology
+1	controlled demonstration
+1	cooling requirement
+1	cooperative route planning behavior
+1	cooperative task allocation
+23	coordinate kinetic/non
+1	coordinate kinetic/non execute domain kill
+2	coordinated cyber
+1	coordinated cyber spectrum maneuver
+7	coordination
+3	core
+2	corp landing force technology
+1	corporate business personnel
+1	corporate expense
+2	corresponding cost
+2	corrosion mitigation strategy
+14	cost
+2	cost avoidance
+17	cost constraint
+1	cost constraint demonstrates enhanced communication
+2	cost element
+3	cost exchange ratio
+2	cost limitation
+1	cost reduction
+8	cost research instrumentation
+1	cost research instrumentation research grant
+2	cost today
+1	cost-effective radio frequency (rf
+1	counsel-approved joint non-lethal effect capability-gaps .  o ther example
+3	counter
+1	counter directed energy weapon
+1	counter directed energy weapon (cd ew
+3	counter materiel mission
+37	counter-facility application
+1	counter-facility application developing model
+2	counter-ied research fy
+1	counter-isr
+1	counter-materiel application
+1	counter-materiel capability
+3	counter-materiel capability gap
+1	counter-materiel mission
+5	counter-personnel
+1	counter-personnel directed energy effect
+1	counter-personnel research
+9	counter-personnel technology
+1	counter-personnel technology disruption technology
+1	counter-uas defense congressional add subtotal america
+1	counter-uas defense fy
+2	countermeasure
+2	country
+1	courage
+1	covering frequency
+1	craft concept
+5	create learning
+1	create learning support composite warfare commander
+1	creation
+1	crisis
+1	critical aperture component
+3	critical command system
+2	critical communication
+1	critical component
+2	critical electronic target
+1	critical environmental knowledge
+1	critical foundational information
+3	critical information domain
+3	critical infrastructure
+2	critical isr information
+1	critical naval mission vital
+1	critical s&t
+1	critical s&t congressional interest
+1	critical science
+2	critical service
+3	critical target
+2	critical technology
+2	crowd
+2	crowd behavior
+2	crowded condition
+1	crowded condition associated threat obscuration
+12	cruiser
+1	cruiser medium displacement
+1	cs
+1	cue
+1	current
+2	current capital investment
+17	current investment hedge
+1	current nlw
+1	current objective
+2	current operation
+2	current operational need
+1	current scientific program officer workforce
+1	current specific objective
+2	currently
+1	custom climatological database
+2	cutting-edge research
+1	cutting-edge science
+35	cvn
+2	cvn compliant
+1	cvn compliant hypersonic air-breathing weapon concept
+1	cvn composite
+1	cvn hawc
+1	cvn hypersonic
+14	cvn weapon elevator
+1	cvn weapon elevator hawc program
+13	cwc
+1	cwc fleet
+1	cwc long range
+3	cwc)
+4	cyber
+1	cyber attack
+1	cyber cyber
+1	cyber description
+3	cyber domain
+2	cyber effect
+1	cyber health assessment
+1	cyber operation
+1	cyber protection strategy
+2	cyber related research
+1	cyber resilience
+1	cyber secure
+2	cyber security/protection
+1	cyber security/protection inp investment
+1	cyber terrain
+20	cyber threat
+1	cyber threat take immediate
+4	cyber visualization
+1	cyber visualization mapping network
+4	cyber warfare
+3	cyber-electronic warfare domain
+1	cyber-ew capability
+1	cyber-physical security
+1	cyber-related approach
+1	cyber/electronic warfare system
+1	cyberattacks
+1	d
+34	d framework
+1	d framework advanced technology development
+30	d framework applied research
+1	d framework applied research technology readiness level
+10	d framework program element
+1	d framework program element fund advanced technology development
+30	d framework program element fund applied research
+1	d framework program element fund applied research technology readiness level
+2	damage
+2	damage effect
+2	dar pa-developed haw program
+1	darpa-developed hawc cruiser
+1	data
+2	data compression
+3	data processing
+4	data science
+6	data set
+1	data set continued exploration
+1	day-to-day logistical cost
+1	dazzling interdictor navy
+1	dc
+1	ddg
+62	de
+13	de mach
+1	de mach electro
+1	de system
+1	de technology
+1	decision
+1	decision aid
+21	decision making
+1	decision making skill level
+2	decision making speed
+48	decision point
+2	decision point develop hardware
+1	decision point develop hardware service use
+1	decision point inp effort mature technology
+7	decision point mature technology
+39	decision point mature technology technology readiness level
+6	decision point mature technology technology readiness level budget activity
+1	decision point mature technology technology readiness level budget activity ba3 funding
+7	decision quality
+7	decision quality decision timeline
+8	decision quality decision timeline develop ai
+1	decision quality decision timeline develop ai improve mission planning
+34	decision support
+1	decision support energy technology
+2	decision support intelligence
+1	decision support intelligence surveillance
+1	decision support performance optimization
+1	decision timeline
+1	decision-making skill
+1	decisive advantage
+1	decisive capability
+2	decisive naval capability
+1	deckplate level
+1	decompression sickness
+1	decoy
+6	decrease cost exchange ratio
+1	decrease cost exchange ratio address target adversary
+1	deep submersible platform
+2	deep submersible platform fy
+3	deep water
+1	deep water operational area
+1	defeat
+1	defeat ascms
+1	defeating anti-ship cruise missile
+5	defending communication network
+1	defending communication network weapon system
+18	defense
+1	defense (dod
+1	defense (os
+2	defense acquisition
+1	defense acquisition sustainment
+2	defense agency
+1	defense commandant
+3	defense community
+3	defense finance
+1	defense fy
+2	defense industrial base
+2	defense joint warfighter plan
+1	defense osd
+1	defense policy
+1	defense technology area
+2	defense technology area plan
+12	defense university research
+1	defense university research defense university research
+11	defense university research instrumentation program
+1	defense university research instrumentation program (du rip)
+1	defense university research instrumentation program (du rip) description : du rip fund
+2	defense university research instrumentation program enable performer
+1	defense university research instrumentation program enable performer take advantage
+2	defense university research instrumentation program fy
+2	defensive operation
+1	defensive region
+3	defensive warfare
+13	defined military need
+5	degraded environment
+1	delay fy
+2	deliver autonomy
+1	deliver autonomy c2 architecture
+18	deliver communication
+1	deliver communication project address technology opportunity
+1	deliver solution
+4	delivering warfighting capability
+1	delivering warfighting capability ownership cost
+10	delivery
+6	delivery vehicle
+1	delivery vehicle naval warfare
+1	demonstrate ai/ml ability
+2	demonstrate airframe
+1	demonstrate airframe booster propulsion technology
+2	demonstrate communication
+1	demonstrate cyber-ew capability
+1	demonstrate technology
+97	demonstrates inps
+4	demonstrates inps existing capability
+23	demonstrates inps existing capability acquisition program
+9	demonstrates inps existing capability acquisition program acquisition decision
+1	demonstrates inps existing capability acquisition program acquisition decision warfighting system
+6	demonstrating technology
+1	demonstrating technology remote capability
+31	demonstration
+1	demonstration project
+3	denied water
+3	dense urban environment
+120	department
+1	department defense
+1	department defense joint warfighter plan
+1	department information
+20	department information security concern
+1	department information security concern project effort
+317	department navy
+11	department navy congressional
+1	department navy congressional claw
+1	department navy congressional medium displacement
+11	department navy department
+32	department navy department information
+1	department navy department information congressional
+133	department navy department navy
+1	department navy department navy congressional
+32	department navy department navy department information
+1	department navy department navy department information congressional
+1	department navy department navy naval prototype
+7	department navy don
+1	department navy don applied
+1	department navy technology
+1	department of the navy
+3	deployable system
+3	deployed blue-water operation
+2	deployed system
+1	deployment
+2	deputy commandant
+16	description
+1	description : hi jenks
+18	design
+2	desired adversary
+1	desired levels-of-lethality
+1	detail available ). e mploy
+27	detailed description
+1	detect -to-engage-to-assess requirement
+1	detect to-engage-to-assess requirement
+11	detection
+1	detection classification
+1	detection concept
+10	deter conflict
+11	deter conflict called upon
+4	deter conflict called upon come home
+1	deter conflict called upon come home investment hedge
+148	develop
+1	develop advanced communication system
+1	develop advanced component
+1	develop advanced technology
+4	develop ai
+1	develop ai fsusw project
+6	develop autonomy
+1	develop autonomy mission payload
+2	develop capability
+1	develop conduct
+1	develop congressional
+9	develop hardware
+91	develop hardware service use
+4	develop hardware service use inp program
+57	develop hardware service use inp program developing inps
+7	develop hardware service use inp program developing inps mission area requirement
+1	develop hardware service use inp program developing inps mission area requirement pe translate
+13	develop hardware service use production feasibility
+5	develop hardware service use production feasibility acquisition potential
+1	develop hardware service use production feasibility acquisition potential naval research
+1	develop navy
+17	develop proof
+1	develop proof marine corp asset life-cycle management fy
+1	develop propose
+1	develop rf
+13	develop technology
+1	develop technology air threat
+1	develop technology enable directed energy
+1	develop technology mission simulation
+1	develop underwater vehicle
+1	develop warfighting concept
+2	developed manufacturing technology
+1	developing
+57	developing inps
+7	developing inps mission area requirement
+1	developing inps mission area requirement pe translate
+1	developing model
+98	development
+1	development advanced technology
+3	development community
+2	development cycle congressional add
+1	development effort
+1	development establishment (nr &de)
+4	development framework
+1	development research
+14	device
+1	device housing container
+1	device housings/containers
+1	devops
+18	devops environment
+1	devops environment project unit
+1	dew
+1	dexterous manipulator
+1	dfas
+4	diagnosis
+1	different isr platform
+2	digital integration
+3	digital signal processing
+1	digital waveform
+1	direct observation
+1	directed
+12	directed energy
+3	directed energy (de
+2	directed energy application
+2	directed energy description
+1	directed energy electric weapon
+2	directed energy fy
+2	directed energy platform protection
+1	directed energy system
+10	directed energy weapon
+5	directed energy weapon millimeter wave
+6	directed energy weapon millimeter wave power microwave
+1	directed energy weapon millimeter wave power microwave materiel mission
+1	directed energy weapon system size
+4	direction
+1	directive
+1	directorate (mc wl /fd)
+1	directorate (mc wl /fd) combat service support
+3	disaggregated operation
+1	discovered technology
+8	discovery
+1	discrete function
+1	discretionary basis
+9	dismounted diagnosis
+1	dismounted diagnosis precision render
+1	dismounted operation
+5	disrupted
+1	disrupted intermittent
+1	disruption
+1	disruption technology
+16	disruptive capability
+6	distributed
+1	distributed artificial intelligence capability
+1	distributed control
+3	distributed electronic warfare
+1	distributed force
+1	distributed intelligence
+1	distributed intermittent
+62	distributed maritime operation
+1	distributed maritime operation (dm ). n etwork centric capability
+1	distributed maritime operation concept
+1	distributed maritime operation emphasis
+1	distributed maritime operation major thrust
+1	distributed maritime operation precision identification
+1	distributed maritime operation undersea warfare
+1	distributed operation
+1	distributed search description
+1	distributed sensor
+1	distributed sensor field
+2	distributed system
+1	distributed undersea warfare
+1	distributed unit
+1	diver capability
+2	diver mobility
+1	diver operation
+2	diver performance
+3	diverse target
+1	dmo
+1	doctrine
+3	document , "f ull spectrum undersea warfare concept
+108	dod
+1	dod ea
+1	dod eod
+2	dod eod program board
+1	dod eod program board validated requirement
+1	dod eod s
+1	dod eod s&t
+1	dod explosive ordnance disposal
+1	dod explosive ordnance disposal (eo
+2	dod joint
+1	dod joint capability
+31	dod joint eod
+1	dod joint eod ied
+1	dod joint weapon
+3	dod nlw executive agent
+2	dod nlw executive agent (ea ). t
+1	dod non-lethal weapon
+1	dod non-lethal weapon (nl
+1	dod non-lethal weapon program
+4	dod operation
+1	dod operation advanced technology
+1	dod single manager responsibility
+1	dod u
+1	dod weapon program
+1	domain
+2	domain kill
+24	don
+7	don applied
+44	don applied advanced technology
+1	don applied advanced technology naval
+1	don technology
+1	dose response
+1	dosimetry technology
+1	drive development
+1	drive network centric s&t investment
+1	drive network centric science
+2	drop stitch panel
+1	dten
+1	dual manipulator system
+51	due
+107	due inps
+2	due inps naval research
+1	due inps naval research onr
+1	due inps technology readiness level
+2	duplicative service s&t investment
+1	dur ip effort
+1	dur ip project
+1	duration
+1	duration wireless human
+215	durip
+1	durip defense university research
+1	durip durip
+1	durip effort
+1	durip fund
+1	durip interest item
+1	durip project support university research infrastructure
+1	durip radar technology
+3	dusv capable
+2	dynamic
+1	dynamic bandwidth management
+1	dynamic range
+1	dynamic synchronized action
+2	e
+3	ea
+1	early technology exposure
+18	ec
+1	ec joint eod demo
+1	ec technology
+2	echelon
+1	edge communication
+9	education
+4	education outreach
+1	education outreach add subtotal
+19	education technology
+1	education technology naval research
+4	effect
+1	effect capability-gaps
+1	effective countermeasure
+2	effective defense
+2	effective distributed maritime operation
+1	effective innovation process
+1	effective operation
+6	effectiveness
+2	effectiveness model
+2	efficiency congressional add
+2	efficiency fy
+1	efficient
+124	effort
+1	effort . in investment represent game
+1	effort align
+1	effort focus
+1	effort include command
+96	effort include developing breadboard hardware
+33	effort include developing breadboard hardware exploration effort
+34	effort include developing breadboard hardware exploration effort technology effort
+17	effort include developing breadboard hardware exploration effort technology effort acquisition decision
+19	effort include developing breadboard hardware exploration effort technology effort acquisition decision warfighting system
+1	effort include developing breadboard hardware exploration effort technology effort acquisition decision warfighting system information security concern
+1	effort include power management
+1	effort involve team
+2	effort research focus
+1	ele ktra
+3	ele ktra inp effort
+1	ele ktra inp effort . in investment represent game
+1	electric incapacitation
+1	electric pulse
+1	electric stun
+1	electric weapon system
+1	electric weapon system . in investment represent game
+1	electrical
+1	electrical (hm
+1	electrical application
+3	electricity
+1	electro
+1	electro optic
+2	electro optic infrared devise
+1	electro optic/infrared devise
+1	electro- optic
+5	electro-magnetic railgun (em rg
+2	electro-optic infrared (eo /ir) sensor technology
+1	electromagnetic environment
+1	electromagnetic railgun fy
+1	electromagnetic signature management
+8	electromagnetic spectrum
+1	electromagnetic spectrum (em
+7	electromagnetic system
+2	electromagnetic system activity
+1	electromagnetic system advanced ew enabling technology
+1	electromagnetic system advanced technology program
+1	electromagnetic system applied research program
+1	electromagnetic system description
+1	electromagnetic system program
+1	electromagnetic threat
+2	electronic
+2	electronic attack
+1	electronic attack (ea ), e lectronic surveillance (es ), e
+2	electronic controller
+2	electronic protection
+1	electronic protection (ep
+1	electronic surveillance
+47	electronic warfare
+2	electronic warfare (ew
+1	electronic warfare electromagnetic spectrum
+2	electronic warfare radio frequency
+3	electronic warfare rf communication
+1	electronic warfare rf communication multi-function sensor system
+7	electronic warfare rf communication system
+1	electronic warfare rf communication system position
+1	electronic warfare support
+1	electronic warfare technology description
+6	electronics
+1	electronics warrior performance
+22	elektra
+1	elektra inp
+9	elektra inp effort
+1	elektra inp effort artificial intelligence
+2	elektra loop
+1	elektra loop artificial intelligence
+1	elektra navy
+22	em
+1	em railgun
+1	em railgun provides multi-mission potential
+1	em refine
+1	embedded electronic system
+2	emergent operation stressor
+4	emergent technology
+2	emerging ai capability
+1	emerging ai capability create learning
+1	emerging technology
+1	emerging threat description
+1	emerging vehicle program
+3	emphasis
+1	emphasized
+7	employment
+1	emr high-power
+2	emr subsystem
+128	emrg
+1	emrg em railgun
+1	emrg emrg
+1	emrg high-power
+1	emrg innovative naval prototype
+1	emrg inp
+1	emrg naval prototype
+1	emrg navy
+1	emrg railgun
+1	emrg railgun weapon system
+2	enable capability
+1	enable capability missile defense
+1	enable control
+11	enable directed energy
+1	enable directed energy de system
+1	enable fitment
+2	enable new tactic
+1	enable prediction
+16	enable u.s.
+1	enable u.s. technology research
+1	enabled algorithm
+1	enables laboratory
+1	enables technology
+1	enabling capability
+1	enabling capability (ec
+1	enabling capability (ec ). t itle
+1	enabling capability (ec ). t oday
+1	enabling manufacturing technology
+1	end
+5	endurance
+3	endurance autonomous operation
+1	enemy
+1	enemy attack mode
+2	enemy force
+1	enemy use
+1	energetic material
+2	energetic material system
+1	energetics
+4	energy
+5	energy & p ropulsion
+1	energy challenge
+12	energy de
+1	energy de directed energy
+1	energy effect
+1	energy efficient ship design
+1	energy effort addressing energy challenge
+1	energy network
+1	energy research
+1	energy research fy
+1	energy system
+1	energy system technology evaluation program
+1	energy system technology evaluation program (es tep)
+20	energy technology
+1	energy technology electronics
+1	energy technology energy network
+1	energy technology support distributed operation
+1	energy technology warrior performance
+4	energy weapon
+1	energy weapon prototype development innovative naval prototype
+1	energy weapon system size
+4	engineer
+1	engineer (pe case
+82	engineering
+1	engineering (s&e
+1	engineering aircraft technology
+6	engineering apprenticeship program
+2	engineering apprenticeship program (se ap
+1	engineering apprenticeship program naval research enterprise intern program
+10	engineering career
+1	engineering career laboratory personnel
+6	engineering discipline
+1	engineering discipline u.s. navy
+2	engineering workforce capability
+2	enhance
+1	enhance auditory processing augmentation strategy
+1	enhance coherent energy transfer
+1	enhance connection
+1	enhance diver capability
+2	enhance fire capability
+1	enhance naval cybersecurity
+1	enhance warfighter performance
+3	enhanced access
+6	enhanced capability
+1	enhanced capability aviation aircraft platform
+1	enhanced cyber security protection
+1	enhanced cyber security protection . in investment represent game
+1	enhanced mobility
+2	enhanced mobility fy
+1	enhanced spectrum control
+1	enhancement fy
+1	enhancing weapon system effectiveness
+1	entire electromagnetic spectrum (em
+1	entire navy s&t program
+1	entrepreneurial opportunity
+11	environment
+1	environment .  t
+2	environment communication
+2	environment relevant
+22	environment requires capability
+1	environment requires capability further shape technology approach
+3	environmental intelligence
+11	eod
+1	eod eod
+1	eod mission
+2	eod robot
+1	eodt
+7	equipment
+1	equipment platform
+1	equipment technology
+1	escalation
+2	essential function
+1	essential science
+1	establish concept potential
+1	estep
+1	estep project effort
+1	estimate strains/stresses
+1	evaluation
+2	evaluation activity
+2	evaluation capability
+3	event
+1	ever-ready quick strike force
+2	evolutionary capability
+3	ew
+2	ew mission area
+1	ew radar
+1	examination
+4	example
+1	excursion
+1	execute domain kill
+69	executing onr
+17	executing onr project are fixed cost
+1	executing onr project are fixed cost onr headquarters
+6	execution
+2	executive oversight
+1	exercise
+4	exercise effort
+1	exercise effort north atlantic treaty organization
+5	existing capability
+34	existing capability acquisition program
+17	existing capability acquisition program acquisition decision
+14	existing capability acquisition program acquisition decision warfighting system
+1	existing capability acquisition program acquisition decision warfighting system department information security concern
+1	expand
+1	expand operational experimentation effort
+1	expanded on-going
+2	expedite transition
+1	expeditionary combat system
+1	expeditionary cyber cyber related demonstration
+1	expeditionary cyber description
+2	expeditionary cyber operation - d evelop proof
+1	expeditionary cybersecurity research fy
+2	expeditionary fast transport
+10	expeditionary force
+2	expeditionary logistics
+1	expeditionary maneuver warfare (em
+3	expeditionary medicine
+9	expeditionary warfare
+1	expeditionary warfare applied research program element
+1	expeditionary warfare applied research program element (pe
+2	expeditionary warfare joint eod system component
+1	expeditionary warfare joint eod system component support capability enabling naval
+1	expeditionary warfare naval sea mining
+3	expeditionary warfighting capability area
+2	expeditionary warfighting need
+1	expense including salary
+5	experiment
+1	experimental approach
+1	experimental prototype
+11	experimentation
+1	experimentation effort
+20	exploit breakthrough
+8	exploit breakthrough warfighting benefit
+1	exploit breakthrough warfighting benefit effort align
+4	exploitation
+1	exploiting cue
+1	exploiting technology advance
+4	exploration
+25	exploration effort
+23	exploration effort technology effort
+9	exploration effort technology effort acquisition decision
+1	exploration effort technology effort acquisition decision warfighting system
+1	exploratory research
+3	explore
+1	explore option
+4	explore solution
+1	explore solution warfighting need
+1	explosive
+2	explosive device
+8	explosive hazard
+1	explosive ordnance
+1	explosive ordnance disposal
+1	explosive ordnance disposal technology effort
+1	explosive ordnance technology effort
+1	explosive threat component
+1	ext generation non-lethal system
+1	ext-generation non-lethal weapon system
+1	extended mortar cartridge
+1	extended range
+1	extended range , em rg
+1	extended reach
+6	extended-duration autonomy
+1	extended-duration autonomy claw inp effort
+1	external interference
+1	extreme environment
+2	extreme exercise
+1	extreme pressure
+2	f-35
+3	f-35 lightning ii aircraft
+67	fabrication
+2	fabrication activity
+2	fabrication description
+1	fabrication technology area
+1	fabrication virginia
+1	fac requirement
+1	fact
+4	family
+1	fbp
+1	fbps
+2	feasibility
+1	feed
+1	feedstock composite fy
+2	ffg
+1	fforts
+2	fiber reinforced plastic
+1	fiber reinforced plastic maritime craft
+1	fiber-reinforced polymeric
+1	field
+2	field effort
+59	field experiment
+19	field experiment have technology readiness level trl
+19	field experiment have technology readiness level trl laboratory environment
+1	field experiment have technology readiness level trl laboratory environment system/subsystem model
+1	field experiment navy warfare development command
+1	field experimentation
+1	field operation
+1	field operation congressional add
+2	field operation fy
+1	field research
+2	field technology
+1	fifteen u.s
+17	fight
+1	fighting force
+1	final demonstration
+2	financial improvement plan
+1	fip
+3	fire
+3	fire technology
+2	firepower
+3	first island chain
+1	fiscal year
+1	fitment
+2	fixed cost
+1	fixed sea base region
+31	flag level
+1	flag level coast guard
+21	fleet
+2	fleet asset
+2	fleet battle problem
+1	fleet battle problem (fb ), l
+1	fleet battle problem (fb p ), l
+1	fleet demand
+2	fleet experimentation
+1	fleet experimentation (fl ex
+4	fleet force
+1	fleet force need
+1	fleet nre
+3	fleet numerical meteorology
+13	fleet operation
+1	fleet operation emrg provides multi-mission potential
+1	fleet operational knowledge
+2	fleet readiness
+5	fleet/force exercise
+1	fleet/force exercise warfare experimentation description
+1	flex
+2	flight control
+6	flight demonstration
+1	flight demonstration % reduction
+3	flight motion simulator
+1	flight test a c vn compliant
+1	flight test a c vn compliant , ha wc aur
+2	fluid resuscitation
+95	fnc
+1	fnc advanced technology
+1	fnc advanced technology development
+37	fnc applied research
+1	fnc applied research lvc
+8	fnc enabling capability
+1	fnc enabling capability eod demo description
+1	fnc fnc
+1	fnc fncs
+8	fnc naval
+1	fnc naval budget activity
+24	fnc program
+1	fnc program commencing execution
+2	fnc program favor
+1	fnc program program element
+1	fnc program program element r-2 activity align
+1	fnc start
+14	fnc technology
+1	fnc technology acquisition program
+147	fnc technology candidate
+1	fnc technology candidate marine
+1	fnc technology technology development effort
+9	fncs
+1	fncs fleet
+1	fncs future naval capability advanced technology future naval capability
+1	fncs start
+1	foam
+5	focus
+5	focus area
+1	focus area contingency preparedness
+1	focused communication
+1	foldable ramp
+1	following navy-wide program
+1	following platform
+2	following research effort
+8	force
+3	force . el ektra
+2	force application option
+12	force effect
+1	force effect requirement oversight council
+81	force fight
+11	force fight decision point
+2	force fight decision point develop hardware
+1	force fight decision point develop hardware service use
+1	force fight decision point mature technology
+2	force input
+3	force level effect assignment
+3	force level kinetic non-kinetic kill chain optimization
+1	force operating area
+8	force platform
+1	force platform improved sound
+1	force projection
+29	force protection
+1	force protection autonomy
+2	force protection description
+1	force protection experimentation effort
+1	force protection marine corp
+5	force protection mission
+1	force protection mission continue development
+1	force protection project activity provides freedom
+34	force protection u.s. navy
+1	force protection u.s. navy platform design
+1	foreign area knowledge
+2	form
+1	formal wargames
+2	formation
+4	foster scientific research
+1	fouling adhesion fy
+1	fouling congressional add
+2	foundation
+1	foundational environmental knowledge
+1	free-surface
+4	freedom
+1	frequency
+1	friction stir welding
+1	friendly force
+1	fsu sw project
+1	fsu w inp effort
+1	fsusw
+1	fsusw mission
+3	fsusw project
+1	fsusw project affordable mobile
+4	ft. unmanned surface vehicle
+1	fte
+1	full cartridge level solution prototype
+2	full disposition
+1	full laser weapon system demonstrator (i.
+2	full participation
+2	full spectrum capability
+67	full spectrum undersea warfare concept
+1	full spectrum undersea warfare concept super swarm
+1	full-scale lightweight ramp structure
+2	full-scale prototype
+4	function
+1	functional delay fy
+15	fund
+5	fund advanced technology development
+9	fund advanced technology development (at
+1	fund advanced technology development includes development
+70	fund applied research
+1	fund applied research effort
+6	fund applied research technology readiness level
+1	fund applied research technology readiness level technology concept
+2	fund basic research
+2	fund support development
+1	fund support research
+2	fundamental aspect
+6	funding
+1	further
+1	further advance
+1	further shape technology
+1	fusion
+26	future
+1	future budget activity (ba
+1	future capability
+1	future capability requirement
+3	future challenge
+1	future directorate
+2	future escalation
+3	future force
+1	future integrated training environment
+1	future intelligence
+1	future investment
+1	future joint
+1	future joint warfighting capability
+1	future marine corp
+6	future naval
+85	future naval capability
+6	future naval capability (fn
+3	future naval capability (fn c
+1	future naval capability advanced technology development
+1	future naval capability advanced technology future naval capability
+1	future naval capability advanced technology future naval capability (fn
+1	future naval capability capability option
+6	future naval capability fnc
+1	future naval capability fnc capability
+1	future naval capability fnc mcm
+31	future naval capability future concept
+1	future naval capability future concept expeditionary warfighting capability area
+1	future naval capability mcm effort includes technology
+1	future naval capability program
+1	future naval capability program exploit technology advance
+1	future naval capability research program
+16	future naval fncs
+1	future naval fncs innovative naval prototype
+3	future need
+1	future non-lethal capability need
+1	future operating environment
+1	future science
+1	future sea mine
+1	future shipboard application
+1	future simulation-based training
+1	future year
+1	future year defense program (fy dp ). d ue
+4	fy
+2	fy19
+1	fy19 fund
+112	fy20
+1	fy20 fleet
+1	fy20 include technology
+1	fy21 increase support civper
+10	fy96 national defense
+3	fy96 national defense authorization act
+1	fy96 national defense defense
+1	fydp
+3	gain access
+12	game
+67	game changing technology
+41	game changing technology force fight
+5	game changing technology force fight decision point
+1	game changing technology force fight decision point develop hardware
+1	general cyber health assessment
+1	generation
+2	generation decision aid
+1	generation decision aid combining operation research
+3	generation mine
+1	generation mine performance characteristic
+1	generation mining concept
+1	generation pulsed power
+2	geophysical process
+1	geopolitical power projection strategy
+1	gig
+2	global information grid
+1	global information grid (gi
+1	global maritime domain
+3	global mission
+1	global ocean environment
+2	global responsibility
+2	global scale
+2	globe
+10	goal
+4	good seakeeping
+1	government agency
+2	gray cyberspace
+10	ground
+2	ground launch
+2	ground legacy
+2	ground operation
+1	ground remote control system
+1	ground sea vehicle
+2	ground unit
+1	ground vehicle system
+9	group
+1	group devops
+3	group echelon
+2	guam
+19	guidance
+1	guidance system
+2	guide research
+2	harbor environment
+30	hardware
+1	harsh
+1	harsh electro-magnetic interference (em
+1	hat
+7	have supply chain assurance
+1	have supply chain assurance project unit
+19	have technology readiness level trl
+19	have technology readiness level trl laboratory environment
+1	have technology readiness level trl laboratory environment system/subsystem model
+1	have transition funding commitment
+1	have utility
+1	haw c cr uiser
+3	hawaii
+23	hawc
+1	hawc activity
+1	hawc all-up-round
+2	hawc aur
+1	hawc cvn
+1	hawc program
+1	headquarters activity
+58	headquarters marine corp
+1	headquarters marine corp marine
+1	headquarters marine corp technology
+1	hearing loss
+1	heavy demand
+81	hel
+1	hel cap
+1	hel cap activity
+1	hel hpm
+1	hel medium
+26	helcap
+4	helcap activity
+1	helcap activity program element
+1	helcap helcap
+1	helcap program element
+1	helicopter
+17	herein
+3	hese thrust
+2	heterogeneous air platform payload
+2	heterogeneous platform
+1	heterogeneous radio
+2	heterogeneous swarm
+1	high confidence detection
+3	high cost research instrumentation
+33	high energy
+1	high energy ascms
+1	high energy helcap
+1	high energy laser
+1	high energy laser counter asc m pr
+1	high energy laser counter ascm project helcap
+3	high impact
+5	high level
+1	high load application
+1	high noise
+1	high performance microwave
+1	high performance solid rocket
+1	high power
+1	high power laser
+26	high power microwave
+1	high power microwave (hp
+1	high power microwave area coverage
+105	high power microwave hpm
+1	high power microwave hpm hijenks
+1	high power microwave hpm locust
+1	high power microwave radio frequency
+1	high priority technological capability
+2	high priority topic
+2	high quality
+3	high risk high payoff warfighter science
+2	high speed weapon propulsion
+1	high technical risk , in p
+1	high throughput dynamic wireless communication
+1	high yield conventional energetics
+2	high yield conventional energetics fy
+2	high-noise environment
+2	high-payoff
+3	high-performance material
+5	high-power
+1	high-power joint electromagnetic
+2	high-power joint electromagnetic non-kinetic strike (hi jenks) inp effort
+1	high-power microwave
+1	high-power radio frequency congressional interest item
+1	high-risk potential high reward basic research
+2	high-speed weapon
+1	high-temperature propulsion system
+2	high-value civilian facility
+1	highly trained sailor
+1	hij enks inp effort
+1	hij enks inp effort . in investment represent game
+2	hijenks
+1	hijenks inp
+2	hijenks inp effort
+1	hijenks inp effort inp investment
+3	historically black college
+1	hm
+17	home
+1	host ship
+1	hot cold
+3	hour
+46	hpm
+1	hpm develop
+1	hpm hijenks
+1	hpm source
+1	hrough-the-sensor environmental characterization
+1	hull life assurance
+3	human
+2	human aspect
+1	human behavior
+2	human effect
+2	human electro-muscular disruption technology
+1	human performance
+2	human performance optimization
+2	human speed
+1	human-machine teaming
+1	hvp
+2	hybrid
+3	hybrid composite structure research
+1	hybrid inflatable structure
+1	hybrid manned/unmanned force
+1	hybrid reactive material warhead demonstration
+1	hyperbaric
+1	hypersonic
+14	hypersonic air-breathing weapon concept
+3	hypersonic air-breathing weapon concept (ha wc
+1	hypersonic air-breathing weapon concept medium displacement unmanned surface vehicle
+12	hypersonic booster
+1	hypersonic booster description
+1	hypersonic booster hawc
+1	hypersonic booster hawc aur
+1	hypersonic booster inp effort
+1	hypersonic booster inp effort . in investment represent game
+2	hypersonic missile defense
+3	hypervelocity
+1	hypervelocity hvp
+1	hypervelocity projectile (hv
+2	hypervelocity projectile fy
+1	hypobaric
+1	icme
+2	idea
+1	identified threat individual
+1	identify mechanism
+1	identify threat
+53	ied
+1	ied dod
+1	ied fnc
+1	ied ied
+1	ili program
+49	ilir
+1	ilir ilir
+1	ilir naval science
+1	ilir program
+1	ilir science
+1	illuminator technology
+1	illuminator technology including material
+1	imagination
+1	imitative controller
+2	immediate
+2	immediate threat
+2	immunogenetic study
+5	impact
+1	implement next-generation electronic warfare development
+2	implementation
+1	improve force protection
+1	improve human-machine teaming
+1	improve li-ion battery safety
+2	improve mission planning
+1	improve mission planning intelligence gathering
+9	improve performance
+1	improve performance increase reliability
+1	improve performance mantech program
+1	improve planning
+2	improve technology
+1	improve warfighter effectiveness
+25	improve warfighter performance
+1	improve warfighter performance sustain warfighter effectiveness
+1	improved capability
+4	improved decision quality
+1	improved dew swa
+1	improved dew swa p fy
+1	improved dew swap
+1	improved dew swap fy
+1	improved discrimination
+1	improved hel
+1	improved laser source
+1	improved material
+1	improved naval warfare
+1	improved naval warfare capability
+2	improved operational economy
+1	improved precision aim point maintenance
+1	improved resiliency
+1	improved sensor
+1	improved sensor technology
+1	improved threat
+1	improving performance
+13	improving quality
+1	improving quality estimate strains/stresses
+1	improving reliability/war-fighter readiness
+1	improvised
+2	improvised explosive device (ie d
+1	in-ear dosimetry technology
+2	in-house laboratory independent research (il ir
+2	in-house laboratory independent research program
+1	in-house laboratory independent research program provides opportunity
+2	in: autonomous system
+2	inadequate
+1	incapacitation munition
+1	inception
+2	incident
+4	include capability
+1	include capability combat lethality
+1	include development
+1	include malware
+36	includes development
+13	includes development integrate subsystem
+4	includes development integrate subsystem system prototype
+25	includes development integrate subsystem system prototype field experiment
+10	includes development integrate subsystem system prototype field experiment have technology readiness level trl
+1	includes development integrate subsystem system prototype field experiment have technology readiness level trl laboratory environment
+3	includes performing analysis
+1	includes performing analysis development effort
+1	including accelerated learning
+1	including assessment
+5	including assimilation
+1	including assimilation prediction model
+1	including coalition
+1	including development
+11	including effort
+1	including effort decision support
+4	including field effort
+1	including field effort data set
+1	including hawaii
+3	including material
+2	including material vehicle/vessel stopping
+1	including material vehicle/vessel stopping counter-facility application
+1	including materiel
+1	incorporate risk
+39	increase
+1	increase decrease statement
+1	increase ensures funding
+31	increase fy
+1	increase fy undersea warfare applied research congressional add
+1	increase fy warfighter safety
+1	increase performance
+14	increase platform performance
+1	increase platform performance energy system
+1	increase reliability
+1	increase support
+1	increase undersea warfare applied research congressional add
+1	increased capacity
+1	increased durability
+1	increased persistence
+1	increased utilization
+2	increased velocity
+1	increasing knowledge
+1	increasing range
+1	increasing risk
+3	independent operation
+2	individual
+1	individual career management
+1	individual grant
+1	individual marine
+3	individual platform ability
+1	individual warfighters
+2	industrial base responsiveness
+2	industrial capability
+2	industry
+4	influence
+1	influence operation
+1	inform future capability requirement
+1	inform nre investment decision
+7	information
+5	information analysis
+1	information analysis decision support
+8	information availability
+1	information availability limited environment
+2	information dissemination
+4	information distribution
+3	information domain
+10	information domain nation state
+1	information domain nation state control capability
+1	information flow
+1	information group integrated command center
+2	information processing system
+29	information security concern
+3	information security concern project effort
+3	information security concern project effort research activity
+1	information security concern project effort research activity technology development plan
+29	information source
+1	information source sustained operation
+1	information technology
+1	information technology (it ), f inancial improvement plan (fi
+2	information warfare
+1	informed decision
+1	infra-red therapy
+1	infrared
+2	infrared (eo /ir) sensor
+2	infrastructure
+6	infrastructure facility
+1	infrastructure facility decrease cost exchange ratio
+1	initial combat system integration
+1	initial experimentation
+13	initial feasibility
+1	initiate
+2	initiate research
+1	initiative
+2	injury correlate
+1	injury knowledge
+3	inland objective
+4	innovation
+1	innovation process
+1	innovative concept
+61	innovative naval prototype
+25	innovative naval prototype (in
+2	innovative naval prototype (in ). t
+1	innovative naval prototype (in p
+1	innovative naval prototype (in p ). t itle
+9	innovative naval prototype adv tec dev
+2	innovative naval prototype adv tec dev develop hardware
+1	innovative naval prototype adv tec dev develop hardware service use
+7	innovative naval prototype advanced technology development
+2	innovative naval prototype advanced technology development . in p
+1	innovative naval prototype advanced technology development applied research investment
+1	innovative naval prototype e program
+124	innovative naval prototype inp
+1	innovative naval prototype inp applied research
+6	innovative naval prototype inp due
+1	innovative naval prototype inp due inps
+1	innovative naval prototype inp inp
+1	innovative naval prototype inp rdt
+1	innovative naval prototype inp undersea warfare effort
+26	innovative naval prototype investment represent game changing technology
+1	innovative naval prototype investment represent game changing technology inp investment
+1	innovative naval prototype maritime laser weapon system prototype
+1	innovative naval prototype sea vehicle description
+1	innovative sensor technology
+810	inp
+109	inp adv tec dev
+10	inp adv tec dev inp
+179	inp adv tec dev inp inps
+3	inp adv tec dev inp inps department
+1	inp adv tec dev inp inps department navy
+1	inp aerial vehicle
+8	inp applied
+1	inp applied inps
+1	inp applied re
+56	inp due
+431	inp due inps
+10	inp due inps naval research
+17	inp due inps naval research onr
+71	inp due inps naval research onr inps
+13	inp due inps naval research onr inps department
+86	inp due inps naval research onr inps department navy
+9	inp due inps naval research onr inps department navy department
+91	inp due inps naval research onr inps department navy department navy
+63	inp due inps naval research onr inps department navy department navy department information
+6	inp due inps naval research onr inps department navy department navy department information congressional
+1	inp due inps naval research onr inps department navy department navy department information congressional super swarm
+18	inp effort
+14	inp effort control system
+1	inp effort control system railgun fy
+1	inp effort high power microwave
+16	inp effort prototype mobile sensing system
+1	inp effort prototype mobile sensing system buoy node
+1	inp high power microwave
+31	inp inp
+1	inp inp due
+268	inp inps
+5	inp inps department
+31	inp inps department navy
+1	inp inps department navy department
+12	inp investment
+221	inp investment game changing technology
+181	inp investment game changing technology force fight
+33	inp investment game changing technology force fight decision point
+8	inp investment game changing technology force fight decision point develop hardware
+37	inp investment game changing technology force fight decision point develop hardware service use
+31	inp investment game changing technology force fight decision point develop hardware service use production feasibility
+17	inp investment game changing technology force fight decision point develop hardware service use production feasibility acquisition potential
+10	inp investment game changing technology force fight decision point develop hardware service use production feasibility acquisition potential naval research
+49	inp investment game changing technology force fight decision point develop hardware service use production feasibility acquisition potential naval research demonstrates inps
+2	inp investment game changing technology force fight decision point develop hardware service use production feasibility acquisition potential naval research demonstrates inps existing capability
+1	inp investment game changing technology force fight decision point develop hardware service use production feasibility acquisition potential naval research demonstrates inps existing capability acquisition program
+52	inp program
+1	inp program decision point
+113	inp program developing inps
+19	inp program developing inps mission area requirement
+25	inp program developing inps mission area requirement pe translate
+20	inp program developing inps mission area requirement pe translate effort include developing breadboard hardware
+1	inp program developing inps mission area requirement pe translate effort include developing breadboard hardware exploration effort
+1	inp usv
+631	inps
+1	inps air
+16	inps budget activity
+7	inps budget activity ba3
+16	inps budget activity ba3 ba3
+1	inps budget activity ba3 ba3 naval prototype
+15	inps department
+145	inps department navy
+11	inps department navy department
+102	inps department navy department navy
+1	inps department navy department navy advanced technology development
+1	inps department navy department navy congressional
+32	inps department navy department navy department information
+1	inps department navy department navy department information congressional
+1	inps naval research
+5	inps technology readiness level
+22	inps technology readiness level trl
+13	inps technology readiness level trl trl
+3	inps technology readiness level trl trl inps
+1	inps technology readiness level trl trl inps budget activity
+3	input
+1	input training data
+2	installation knowledge
+2	instrumentation
+2	instrumentation investment
+1	instrumentation program complement
+1	instrumentation program complement navy research program
+2	instrumentation project
+1	instrumented low cable
+1	integrate
+1	integrate component including subsystem
+1	integrate enabling technology
+4	integrate subsystem
+1	integrate subsystem system prototype
+1	integrated air
+1	integrated maneuver force
+2	integrated non-lethal competency
+2	integrated product team
+1	integrated rocket propelled grenada (rp
+2	integrated system
+1	integrated vehicle health management system
+1	integrating emrg subsystem
+13	integration
+1	integration (dc , cd
+14	intelligence
+13	intelligence gathering
+1	intelligence gathering decision aid
+3	intelligence surveillance
+1	intelligence surveillance reconnaissance
+2	intelligent
+1	interdisciplinary expeditionary cybersecurity research fy
+125	interest
+1	interest common
+1	interest conduct applied research
+1	interest conduct electromagnetic
+1	interest congressional add
+1	interest energy
+21	interest item
+1	interest item aerial
+1	interest item railgun
+1	interest navy
+1	interest nihl
+1	interest technology
+2	intermediate force effect
+13	intermittent
+216	intermittent limited
+1	intermittent limited area
+2	intermittent limited size
+1	intermittent limited size weight
+1	international partner
+2	international research
+1	international stability
+1	international title
+4	interoperability
+1	interoperability technology
+1	interoperable learning continuum
+1	interpret
+2	invent future concept
+1	invention
+2	invention fy
+18	investigation
+1	investigation include increasing bandwidth
+1	investigator research effort
+35	investment
+2	investment area
+1	investment area include applied research
+1	investment area include research
+3	investment decision
+10	investment hedge
+3	investment hedge providing solution
+9	investment hedge providing solution commander today
+1	investment hedge providing solution commander today naval s
+4	investment include technology
+1	investment include technology sense making
+1	investment portfolio
+23	investment represent game changing technology
+1	investment represent game changing technology force fight
+2	investment transition
+10	investment transition emerging science
+1	investment transition emerging science acquisition program
+1	ionizing radiation
+1	irregular asymmetric warfare
+1	irregular warfare
+14	island chain
+1	island chain mission area
+1	isolating/determining high power microwave
+94	isr
+3	isr activity
+1	isr activity project
+1	isr add subtotal the office
+1	isr information
+1	isr joint
+1	isr platform
+1	issue
+1	item
+1	item represent fixed cost
+4	jenks
+2	jnl wp
+5	jnlwp
+14	jnlwp cmc
+1	jnlwp cmc service
+58	joint
+1	joint activity
+1	joint capability
+5	joint chief
+1	joint chief staff joint
+1	joint concept development
+2	joint environment
+125	joint eod
+1	joint eod demo description
+7	joint eod force
+1	joint eod force influence operation
+1	joint eod ied
+1	joint eod improvised
+1	joint eod maritime capability
+7	joint eod mission
+1	joint eod mission t investment
+2	joint eod naval
+1	joint eod naval joint eod
+2	joint eod system component
+4	joint force
+1	joint joint concept development
+1	joint non-lethal weapon
+1	joint non-lethal weapon (nl
+2	joint non-lethal weapon conduct research
+1	joint non-lethal weapon integrated product team
+2	joint non-lethal weapon program (jn lwp)
+1	joint requirement
+4	joint requirement oversight council
+4	joint requirement oversight council (jr oc
+6	joint requirement oversight council jroc
+3	joint requirement oversight council jroc dod
+1	joint requirement oversight council jroc dod board
+2	joint research
+2	joint s&t development approach
+1	joint service experimentation
+1	joint service explosive ordnance disposal
+1	joint service explosive ordnance disposal (eo ): c ongressional interest item
+1	joint staff
+2	joint strike fighter
+1	joint strike fighter (js
+2	joint susceptibility
+1	joint tri-service explosive ordnance disposal (eo
+2	joint weapon program
+1	joint weapon program jnlwp
+1	jroc
+1	jsf
+1	key
+1	key aspect
+1	key cyber terrain
+1	key naval platform
+1	key objective
+1	key transit route
+1	key u allied
+9	kill chain optimization
+1	kill chain optimization machine speed
+1	kilohertz
+3	kinetic effect
+3	kinetic energy weapon
+1	kinetic energy weapon prototype development innovative naval prototype (in
+1	kinetic energy weapon prototype development inp effort
+2	kinetic non kinetic effect
+1	knowhow
+23	knowledge
+3	knowledge base
+2	knowledge product
+10	known requirement
+1	known requirement performance challenge
+10	laboratory
+76	laboratory environment
+3	laboratory environment system/subsystem model
+8	laboratory environment system/subsystem model prototype demonstration
+1	laboratory environment system/subsystem model prototype demonstration program element
+1	laboratory independent research
+3	laboratory personnel
+1	land
+3	land-based infrastructure facility
+1	land/sea mine
+1	language
+2	large civilian population
+2	large data
+2	large ocean
+5	large uuv
+2	larger
+5	laser
+2	laser lethality investigation
+1	laser material interaction
+2	laser peening technology
+1	laser peening technology fy
+3	laser source
+1	laser technology
+2	laser thermal
+2	laser weapon system
+1	laser weapon system demonstrator
+21	laser weapon system engineering
+1	laser weapon system engineering energy weapon
+1	laser weapon system technology
+1	launch
+2	launch capability
+1	launch system
+23	launching precision guided projectile using electricity
+9	launching precision guided projectile using electricity railgun weapon system
+1	launching precision guided projectile using electricity railgun weapon system integrating emrg subsystem
+1	lead
+4	learning
+1	learning record
+1	lectro-magnetic railgun (em rg
+1	legacy air vehicle
+1	legacy platform
+2	legacy program
+1	length scale
+2	lethal effect
+1	lethal firepower
+1	lethal high energy laser (he
+1	lethal threshold
+1	lethal threshold engagement
+5	lethality
+3	level
+1	leverage technology
+1	leveraged knowledge
+8	leveraging technology
+1	leveraging technology capital investment
+2	li-ion battery safety
+1	liaison
+2	life
+1	life assurance
+8	life cycle cost
+1	life cycle cost program address technology development
+5	life science
+1	life science basic research effort
+1	life-cycle cost
+1	lifelong learning record
+1	ligament damage
+3	light
+1	light device
+1	light harvesting system
+2	lightweight
+2	lightweight anti-corrosion nanotechnology
+2	lightweight deployable character
+2	limb
+46	limited
+1	limited area
+15	limited environment
+1	limited environment cyber domain
+1	limited pe
+2	little fixed infrastructure
+2	littoral
+1	littoral geophysical variable
+1	littoral model
+1	littoral warfare
+2	littoral warfare effort
+1	live-force field experimentation
+1	live-virtual-constructive (lv
+1	load application
+1	loc ust inp effort . in investment represent game
+2	local computation
+2	local ocean structure
+4	localization
+2	locate
+4	location
+9	locust
+1	locust arctic mobile
+1	locust c2
+8	loes
+1	loes naval warfare
+8	logistics
+1	logistics operational environment
+29	long duration
+1	long range counter-personnel
+1	long range detection
+3	long range targeting
+2	long range targeting (lr
+1	long range targeting description
+1	long term navy
+1	long trial-and-error timeframes
+2	long wavelength infrared
+1	long wavelength infrared , us pl propagation
+3	long-range
+2	long-range localized non-lethal effect
+1	long-term requirement
+1	longevity
+1	loop
+3	loop artificial intelligence (ai
+1	low collateral damage
+2	low detectability
+1	low-cost uav swarming technology
+1	low-cost uav swarming technology (lo cust
+1	low-doppler submarine threat
+28	lrt
+1	lrt artificial intelligence
+1	lrt inp effort . in investment represent game
+1	m1a1
+5	mach
+3	machine
+2	machine discovery
+37	machine learning
+2	machine learning (ml
+2	machine learning data science
+1	machine learning data science support naval expeditionary warfighters
+1	machine learning information analysis
+1	machine learning interoperability technology
+10	machine learning networked computing
+1	machine learning networked computing force level effect assignment
+8	machine learning technique
+1	machine learning technique data set
+16	machine speed
+1	machine speed demonstrate ai/ml ability
+1	machine-learning
+3	machine-learning (ml
+1	magtf
+1	maintain readiness
+5	maintaining american
+1	maintaining american project address don
+26	maintenance
+1	maintenance readiness gap improvement
+1	maintenance technology
+1	maintenance/readiness gap improvement
+1	major c2
+1	major effort
+1	major thrust
+1	making investment
+1	mall business innovation research
+1	malware
+1	manage
+1	manage control
+3	management
+7	maneuver
+2	maneuver force
+2	maneuver warfare
+1	maneuverability
+1	manipulator system
+2	manmade underwater sound
+8	manned operation
+1	manned operation strike operation
+6	manned platform
+1	manned platform observing system
+45	mantech
+1	mantech mantech
+4	mantech program
+1	manufacturability
+3	manufacturing
+1	manufacturing fy
+47	manufacturing technology
+1	manufacturing technology cost reduction
+1	manufacturing technology friction stir welding
+13	manufacturing technology u.s. defense
+1	manufacturing technology u.s. defense enabling manufacturing technology
+2	many challenge
+2	many military problem
+9	mapping network
+1	mapping network blind channel characterization
+48	marine
+1	marine . on
+5	marine air-ground task force
+1	marine air-ground task force (ma gtf) .  t
+1	marine air-ground task force (ma gtf) information group integrated command center - f urther research
+1	marine air-ground task force information group integrated command center
+302	marine corp
+2	marine corp (cm
+3	marine corp air ground task force
+1	marine corp air ground task force (ma gtf)
+1	marine corp air- ground task force
+1	marine corp artificial intelligence
+1	marine corp asset
+1	marine corp asset life-cycle management fy
+1	marine corp autonomous system
+4	marine corp capability
+4	marine corp cmc
+1	marine corp cmc dod
+1	marine corp combat
+1	marine corp combat development
+2	marine corp combat development command
+1	marine corp command worldwide
+1	marine corp commanding general
+25	marine corp dod nlw executive agent
+1	marine corp dod nlw executive agent weapon program
+1	marine corp electromagnetic system advanced technology
+1	marine corp electronics system
+1	marine corp future directorate
+1	marine corp have leveraged technology innovation
+1	marine corp identify capability need
+2	marine corp improvement
+1	marine corp joint concept development
+3	marine corp landing force technology
+1	marine corp landing force technology congressional add
+1	marine corp magtf
+1	marine corp marine corp
+1	marine corp naval
+1	marine corp naval research enterprise
+2	marine corp operating concept
+1	marine corp platform
+1	marine corp project address applied research
+1	marine corp s
+1	marine corp s&t
+1	marine corp scientific breakthrough
+1	marine corp technology
+1	marine corp technology option
+1	marine corp warfighting capability area
+2	marine corp warfighting laboratory / f
+1	marine corp warfighting laboratory / future directorate
+1	marine equipment
+1	marine magtf
+3	marine mammal
+1	marine marine corp
+1	marine naval
+2	marine operate air
+1	marine-derived renewable energy
+2	maritime battlespace
+2	maritime capability demonstration fy
+3	maritime craft
+32	maritime domain
+1	maritime domain life science
+1	maritime domain naval research
+1	maritime domain ocean environment
+3	maritime environment
+3	maritime laser weapon system prototype
+2	maritime nation
+51	maritime operation
+1	maritime operation concept
+4	maritime operation naval research
+1	maritime operation naval research combine knowledge
+1	maritime operation program element
+1	maritime operation system advanced technology program address radio frequency
+21	maritime superiority
+1	maritime superiority .  t hese investment
+1	marrow registry program
+2	marrow registry program fy
+3	matched donor
+38	material
+1	material .  t
+1	material demonstration
+2	material development
+1	material naval
+2	material program
+1	material research
+1	material response science
+12	material system
+1	material system addressing safety
+1	material target interaction
+1	material unmanned sea surface vehicle
+1	material warhead demonstration
+1	materiel
+1	materiel mission
+2	mathematics
+2	mathematics (st em
+1	mathematics stem
+1	maturation
+2	mature project
+9	mature technology
+58	mature technology technology readiness level
+11	mature technology technology readiness level budget activity
+3	mature technology technology readiness level budget activity ba3 funding
+1	mature technology technology readiness level budget activity ba3 funding ba3 inp fund
+1	maximize projection power
+24	mcm
+1	mcm fnc
+1	mcm operation
+1	mcm u naval
+1	mcm urban
+1	mcw l/fd
+1	mcwl/fd continued experiment
+1	mcwl/fd pursues concept
+1	mdu sv inp effort
+1	mdu sv inp effort . in investment represent game
+5	mdusv
+1	mdusv pacific fleet battle problem
+1	mdusvs
+15	mean
+1	mechanical surface treatment
+3	mechanism
+6	medium displacement
+6	medium displacement unmanned surface vehicle
+1	medium displacement unmanned surface vehicle autonomous usv fnc program
+1	medium wavelength infrared
+1	medium wavelength infrared (mw ir
+1	meet research priority
+1	meet specification
+1	meeting size
+2	mentoring
+1	metallic
+1	metallic honeycomb
+2	method
+4	methodology
+2	micro-grid resiliency
+2	microfractures
+5	microwave system
+1	microwave system defense congressional add subtotal america
+1	mid-term technology development
+2	mid-term transition opportunity
+3	military explosive ordnance disposal technology
+1	military objective
+1	military operation
+1	military personnel
+2	military utility
+5	millimeter wave
+1	millimeter wave technology
+1	min erva inp effort
+1	min erva inp inp investment represent game
+2	mind
+8	mine
+5	mine countermeasure
+1	mine countermeasure (mc
+1	mine countermeasure (mc ), u s na val sea mining
+3	mine countermeasure mcm
+1	mine countermeasure mcm expeditionary warfare
+1	mine detection
+1	mine effect
+1	mine hunting
+1	mine obstacle detection
+1	mine sensing
+1	mine technology
+1	mine technology description
+3	mine threat
+9	mine type
+1	mine type inland objective
+4	mine warfare
+1	minefield
+1	minefield deployment
+3	minefield reconnaissance
+1	minefield reconnaissance ship self-protection
+32	minerva
+37	minerva ai
+22	minerva ai minerva
+1	minerva ai minerva composite warfare commander
+1	minerva composite warfare commander
+2	minerva research initiative
+1	minimal casualty
+1	minimizing risk
+1	mining concept
+1	mining effect
+1	mining technology
+1	missile
+10	missile defense
+7	missile defense network
+1	missile defense network power-projection platform
+4	missile defense surface warfare
+1	missile defense surface warfare surface fire support
+11	mission
+1	mission , on
+41	mission area
+1	mission area complex multi-domain threat
+27	mission area requirement
+37	mission area requirement pe translate
+39	mission area requirement pe translate effort include developing breadboard hardware
+9	mission area requirement pe translate effort include developing breadboard hardware exploration effort
+1	mission area requirement pe translate effort include developing breadboard hardware exploration effort technology effort
+2	mission critical facility
+9	mission effectiveness
+23	mission effectiveness platform range
+6	mission effectiveness platform range life cycle cost
+1	mission effectiveness platform range life cycle cost naval air vehicle concept
+1	mission payload
+2	mission performance
+3	mission planning
+4	mission requirement
+1	mission simulation
+1	mission vital
+1	mission-driven problem
+1	mission-focused communication
+1	mitigate capability delivery risk
+5	mitigate detection
+1	mitigate detection cyber visualization
+1	mitigates scientific surprise
+1	mitigating shortfall commensurate
+1	mitigating shortfall commiserate
+1	mitigation technique
+2	mobile
+1	mobile air
+2	mobile communication network
+2	mobile network connectivity
+3	mobile power-projection platform
+1	mobile tactical user platform
+1	mobility
+1	modality
+4	model
+4	modeling
+2	modeling tool
+1	modern shipbuilding manufacturing fy
+1	modify design
+2	modular advanced armed robotic system
+1	modular concept
+1	modular cyber electronic warfare system
+2	modular payload
+1	modular undersea effector
+1	modular undersea effector (mu se
+4	month
+1	mortar cartridge
+2	mortar tube
+1	mount
+1	mount development
+1	movement
+3	multi-disciplinary approach
+1	multi-disciplinary research
+2	multi-domain
+2	multi-domain launch
+3	multi-function sensor system
+2	multi-mission potential
+1	multi-polar world
+2	multi-sensor input
+2	multi-service flag level corporate board
+1	multi-ship battle force operation
+1	multi-spectral sensor
+2	multi-story structure
+5	multi-year effort
+2	multidisciplinary approach serf
+2	multidisciplinary basic research
+4	multidisciplinary university research initiative
+2	multidisciplinary university research initiative (mu ri
+1	multidisciplinary university research initiative effort involve team
+1	multifunction electronic warfare domain
+2	multifunctional uav system
+1	multiple
+1	multiple discipline
+3	multiple domain
+4	multiple domain environment
+4	multiple target
+1	multiple usv
+1	muri
+31	muse
+1	muse technology
+2	mutual capability gap
+1	mwir
+1	myriad
+63	n/a fy
+1	n/a fy conduct advanced technology development
+20	n/a fy conduct applied research
+1	n/a fy conduct applied research add subtotal sea mine
+1	n/a fy conduct applied research clandestine mine neutralization
+1	n/a fy conduct applied research machine discovery
+2	n/a fy conduct applied research navy undersea warfare science
+1	n/a fy conduct applied research navy undersea warfare science technology strategy
+1	n/a fy conduct applied research supporting marine corp landing force
+1	n/a fy conduct applied research undersea sensing
+1	n/a fy conduct applied research underwater mine defeat capability
+3	n/a fy conduct applied technology development
+1	n/a fy conduct applied technology development lightweight anti-corrosion nanotechnology
+1	n/a fy conduct applied technology development polymer coating
+1	n/a fy conduct electromagnetic system applied research congressional add subtotal assuring access
+1	n/a fy n/a fy
+14	nanoelectronics
+1	nanoelectronics missile defense
+1	nat
+1	nation
+4	nation state
+3	national academy
+2	national challenge
+13	national defense .  o nr
+4	national defense . on
+143	national defense strategy
+2	national defense strategy (nd
+35	national defense strategy navy
+1	national defense strategy navy future naval
+9	national defense strategy navy naval research
+2	national defense strategy navy naval research naval research enterprise
+1	national defense strategy navy naval research naval research enterprise nre
+1	national defense strategy nd
+13	national defense strategy providing option
+1	national defense strategy providing option policy constrained scenario
+16	national defense strategy research priority
+9	national defense strategy research priority naval research
+9	national defense strategy research priority naval research naval research enterprise
+1	national defense strategy research priority naval research naval research enterprise naval r
+1	national naval responsibility (nn
+2	national objective
+1	national oceanographic partnership program
+1	national oceanographic partnership program (no pp
+2	national science foundation
+14	national security
+1	nato
+2	natural environment
+27	nature
+1	nav
+261	naval
+6	naval air vehicle concept
+1	naval air vehicle concept naval air vehicle technology
+1	naval air vehicle technology
+5	naval application
+2	naval asset
+6	naval aviation aircraft platform
+17	naval basic
+1	naval communication
+2	naval cybersecurity
+1	naval d
+41	naval d framework
+2	naval d framework advanced technology development
+1	naval d framework advanced technology development atd
+59	naval d framework applied research
+2	naval d framework applied research technology readiness level
+1	naval d framework applied research technology readiness level trl
+1	naval defense community
+1	naval defense university research
+1	naval dod
+1	naval durip
+1	naval engineering
+2	naval enterprise
+1	naval ew
+12	naval expeditionary
+1	naval expeditionary disrupted
+3	naval expeditionary warfighters
+1	naval explore
+1	naval facility
+2	naval fleet force , do
+6	naval fleet/forces
+1	naval fleet/forces government agency
+40	naval force
+1	naval infrared
+1	naval inp investment represent game
+6	naval installation
+1	naval installation .  t echnical effort
+2	naval investment
+4	naval laboratory
+1	naval maritime force
+2	naval mine
+2	naval mine countermeasure
+1	naval mine countermeasure (mc ), e xpeditionary warfare , u.
+1	naval minerva research initiative
+2	naval mining
+1	naval mining ,  a nti-submarine warfare (as
+6	naval mission
+45	naval national defense strategy
+25	naval national defense strategy navy
+9	naval national defense strategy navy naval research
+2	naval national defense strategy navy naval research naval research enterprise
+1	naval national defense strategy navy naval research naval research enterprise nre
+9	naval naval
+1	naval naval naval
+9	naval need
+1	naval need budget activity
+1	naval noise-induced hearing loss (ni hl
+1	naval oceanographic
+2	naval oceanographic office
+2	naval operation
+2	naval operation (op nav)
+1	naval operation opnav
+1	naval personnel
+22	naval platform
+1	naval platform electronic warfare
+13	naval power
+1	naval power defense university research instrumentation program
+15	naval precision strike operation
+1	naval precision strike operation develop technology
+1	naval precision strike operation navy capability
+5	naval prototype
+59	naval prototype inp
+1	naval prototype inp adv tec dev
+1	naval prototype inp advanced technology
+1	naval prototype inp applied re
+25	naval r
+1	naval r advanced technology development program
+7	naval r d framework
+7	naval r d framework program element
+1	naval r d framework program element fund advanced technology development
+1	naval r d framework program element fund applied research
+16	naval r&d framework
+1	naval r&d laboratory
+1	naval relevant s&t
+744	naval research
+49	naval research (on
+3	naval research advisory committee
+25	naval research applied research
+67	naval research applied research advanced technology development investment
+31	naval research applied research advanced technology development investment deter conflict
+46	naval research applied research advanced technology development investment deter conflict called upon
+25	naval research applied research advanced technology development investment deter conflict called upon come home
+22	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge
+7	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution
+41	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution commander today
+5	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution commander today naval s
+23	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution commander today naval s t budget
+1	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution commander today naval s t budget mine countermeasure
+14	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution commander today naval s t budget national defense strategy
+1	naval research applied research advanced technology development investment deter conflict called upon come home investment hedge providing solution commander today naval s t budget national defense strategy research priority
+1	naval research breakthrough capability
+73	naval research demonstrates inps
+3	naval research demonstrates inps existing capability
+12	naval research demonstrates inps existing capability acquisition program
+1	naval research demonstrates inps existing capability acquisition program acquisition decision
+2	naval research development establishment
+12	naval research development framework
+1	naval research development framework navy
+1	naval research development framework research provide solution
+1	naval research development framework scientific
+116	naval research enterprise
+19	naval research enterprise (nr
+1	naval research enterprise concept investigation
+9	naval research enterprise establishing quality
+1	naval research enterprise establishing quality development community
+1	naval research enterprise headquarters marine corp
+2	naval research enterprise intern program
+2	naval research enterprise intern program (nr eip) summer program
+5	naval research enterprise naval operation
+1	naval research enterprise naval operation headquarters marine corp
+3	naval research enterprise naval r
+11	naval research enterprise naval r d framework
+1	naval research enterprise naval r d framework conducting mine countermeasure
+51	naval research enterprise nre
+1	naval research enterprise nre early technology readiness level
+3	naval research enterprise nre naval
+1	naval research enterprise nre naval d framework
+1	naval research enterprise u.s. navy
+1	naval research global mission
+8	naval research guide ongoing research
+1	naval research guide ongoing research u.s. navy
+1	naval research investment portfolio
+1	naval research naval research
+36	naval research naval research enterprise
+4	naval research naval research enterprise naval r
+5	naval research naval research enterprise naval r d framework
+4	naval research naval research enterprise naval r d framework program element
+1	naval research naval research enterprise naval r d framework program element fund advanced technology development
+7	naval research naval research enterprise nre
+1	naval research naval research enterprise nre naval
+1	naval research navy program
+303	naval research onr
+15	naval research onr department
+12	naval research onr department navy
+27	naval research onr department navy don
+10	naval research onr department navy don applied
+87	naval research onr department navy don applied advanced technology
+15	naval research onr department navy don applied advanced technology naval
+1	naval research onr department navy don applied advanced technology naval mine countermeasure
+1	naval research onr department navy don naval research enterprise
+61	naval research onr foster
+1	naval research onr foster in-house laboratory independent research
+1	naval research onr foster in-house laboratory independent research program provides opportunity
+1	naval research onr information technology
+21	naval research onr inps
+3	naval research onr inps department
+1	naval research onr inps department navy
+7	naval research onr larger
+1	naval research onr larger innovative naval prototype
+38	naval research onr mantech
+1	naval research onr mantech technology
+19	naval research onr naval research enterprise
+1	naval research onr naval research enterprise naval
+1	naval research onr technology department
+13	naval research onr u.s
+3	naval research onr u.s onr
+1	naval research onr u.s onr department
+1	naval research paramount importance
+1	naval research portfolio includes effort
+1	naval research research portfolio
+1	naval research technology department
+13	naval s
+1	naval s naval
+25	naval s t budget
+49	naval s t budget national defense strategy
+1	naval s t budget national defense strategy future naval capability
+6	naval s t budget national defense strategy research priority
+1	naval s t budget national defense strategy research priority naval research
+1	naval s t focus area
+1	naval s t program
+1	naval s t superiority
+1	naval s&t
+18	naval s&t budget
+1	naval s&t focus area
+1	naval s&t program
+1	naval s&t superiority
+106	naval science
+7	naval science engineering workforce capability
+1	naval science engineering workforce capability naval warfare
+69	naval science naval research
+3	naval science naval research applied research
+1	naval science naval research applied research advanced technology development investment
+1	naval science research priority
+37	naval science technology
+3	naval science technology naval research
+20	naval science technology naval research onr
+1	naval science technology naval research onr department
+1	naval sea mining
+2	naval service
+54	naval special warfare
+1	naval special warfare (ns
+1	naval special warfare conduct
+1	naval special warfare explosive ordnance disposal
+1	naval special warfare explosive ordnance disposal technology effort
+1	naval special warfare explosive ordnance technology effort
+1	naval special warfare fy
+1	naval special warfare joint tri-service explosive ordnance disposal
+2	naval special warfare system
+1	naval strike operation
+2	naval supplier
+2	naval surface combatant
+1	naval surface fire support
+1	naval surface fire support . em rg
+2	naval unit
+1	naval variable cycle advanced technology
+52	naval warfare
+1	naval warfare capability
+64	naval warfare center
+3	naval warfare center department
+1	naval warfare center department navy
+2	naval warfare development command
+2	naval warfare experimentation
+1	naval warfare experimentation description
+1	naval warfare experimentation effort
+1	naval warfare experimentation effort is funding participation
+35	naval warfare ied
+1	naval warfare ied ied
+1	naval warfare research effort
+1	naval warfighter
+1	navfac
+1	navfac requirement
+7	navigation
+2	navigation timing
+1	navigation timing pnt
+805	navy
+17	navy 's ( don) portfolio
+2	navy 's d
+2	navy 's i nnovative naval prototype (in
+1	navy 's r laboratory
+1	navy 's t echnology base program
+2	navy (do
+3	navy . il ir
+3	navy activity
+1	navy activity project
+9	navy arctic
+1	navy arctic amos
+1	navy base
+84	navy basic
+1	navy basic applied
+1	navy basic navy
+1	navy basic research
+2	navy c2 fire
+5	navy c2/fires
+1	navy c2/fires isr information
+1	navy capability
+1	navy career award
+4	navy conduct
+1	navy conduct undersea
+22	navy congressional
+1	navy congressional hijenks
+1	navy congressional navy
+1	navy congressional railgun
+11	navy department
+1	navy department information
+124	navy department navy
+1	navy department navy congressional
+63	navy department navy department information
+7	navy department navy department information congressional
+1	navy department navy department information congressional arctic mobile
+1	navy distributed maritime operation
+25	navy don
+10	navy don applied
+87	navy don applied advanced technology
+11	navy don applied advanced technology naval
+1	navy don applied advanced technology naval national defense strategy
+1	navy global force projection .  t hese installation
+1	navy hypersonic
+1	navy ilir
+1	navy innovative naval prototype
+6	navy key
+1	navy key virginia
+1	navy laboratory
+3	navy laser family
+1	navy machine
+6	navy mantech investment strategy
+1	navy mantech investment strategy .  k ey platform
+1	navy mantech investment strategy targeted include
+3	navy manufacturing technology program
+101	navy marine corp
+1	navy marine corp autonomous system
+1	navy marine corp due
+1	navy marine corp naval research
+4	navy marine corp naval research enterprise
+1	navy marine corp naval research enterprise naval
+1	navy marine corp swampworks
+2	navy marine corp team
+1	navy mdusvs
+12	navy mission
+1	navy mission operator trust
+18	navy naval research
+4	navy naval research naval research enterprise
+13	navy naval research naval research enterprise nre
+3	navy naval research naval research enterprise nre naval
+1	navy naval research naval research enterprise nre naval d framework
+1	navy naval research onr
+1	navy naval s
+1	navy naval science
+49	navy navy
+1	navy navy naval installation
+3	navy patent program
+1	navy pecase
+3	navy program
+1	navy refine
+8	navy research program
+1	navy research program cost research instrumentation
+2	navy rot
+1	navy rot c cy bersecurity training program fy
+11	navy rotc
+1	navy rotc cybersecurity training program
+1	navy rotc cybersecurity training program fy
+1	navy rotc naval
+1	navy s
+3	navy ship
+5	navy surface force
+1	navy surface force hybrid manned/unmanned force
+2	navy undersea warfare science
+1	navy warfare
+1	navy warfare development command (nw dc
+2	navy-relevant research
+1	navy-unique transduction
+51	nd
+1	nd nlw
+2	nds objective
+2	near-peer adversary
+2	nearshore observation
+1	necessary modeling
+4	need
+1	need fy
+2	needed cost reduction
+2	nested local environmental prediction model
+1	net result
+1	net-centric warfare
+61	network
+1	network centric capability
+1	network centric warfare
+1	network centric warfare capability
+1	network data rate
+2	network description
+2	network function
+1	network size
+2	network technology
+7	neutralization
+2	neutralization breaching
+2	neutralization device
+1	neutralization effort
+1	neutralization effort include technology
+1	neutralize device
+2	new acquisition program
+1	new advanced manufacturing technology
+1	new algorithm
+1	new anti-submarine warfare (as
+1	new asw operational concept
+11	new capability
+2	new capability option
+1	new expeditionary energy technology
+1	new future naval capability
+2	new generation mine
+1	new hel cap technical solution
+1	new human target behavioral effect
+4	new idea
+2	new innovative technology
+1	new machine learning algorithm
+1	new maintenance technology
+1	new material
+3	new naval air vehicle concept
+1	new nlw technology
+1	new nlw technology .  c
+1	new non-lethal effect
+1	new non-lethal laser
+1	new non-lethal phenomenon
+2	new non-lethal stimulus
+2	new paradigm
+1	new portable tool
+2	new science
+2	new sensor
+1	new sensor concept
+1	new tactic
+28	new technological capability
+3	new technological concept
+12	new technology
+1	new threat vector
+1	new training technology
+5	next generation
+1	next generation air dominance
+1	next generation air dominance (ng ad
+2	next generation decision aid
+1	next generation mining concept
+1	next generation naval mining concept
+1	next generation naval mining effect
+1	next generation structural capability
+1	next-generation decision aid
+1	next-generation long range long duration wireless human electro-muscular incapacitation munition
+1	next-generation nlw
+1	next-generation non-lethal capability
+1	next-generation non-lethal weapon
+1	next-generation non-lethal weapon (nl
+1	next-generation target detection device
+1	ngad
+1	nitrogen mustard
+1	nl sound
+70	nlw
+1	nlw .  i nvestment area
+1	nlw base
+1	nlw capability
+1	nlw continue
+1	nlw effectiveness
+1	nlw nato
+1	nlw nlw
+1	nlw product team
+2	nlw study
+2	nlw technology
+1	nlw technology continue concept exploration
+115	nlws
+1	nlws base
+1	nlws continue
+1	nnr
+1	noise characterization
+1	noise characterization congressional add
+2	noisy
+1	non kinetic engagement
+2	non lethal counter-personnel
+2	non lethal weapon
+1	non-covert anti-submarine warfare (as
+2	non-kinetic engagement
+4	non-kinetic high power microwave (hp
+5	non-labor cost
+4	non-lethal capability
+2	non-lethal counter-personnel
+2	non-lethal counter-personnel technology
+1	non-lethal laser technology
+3	non-lethal material
+1	non-lethal materiel
+2	non-lethal technology
+1	non-mha
+2	non-mha labor cost
+1	non-mha management
+1	non-profit organization
+3	non-state actor
+13	non-system specific technology effort
+1	nopp
+1	north atlantic treaty organization
+1	north atlantic treaty organization (na
+1	novel employment
+1	novel laser
+1	novel nlw capability
+2	novel technology
+78	novel therapeutic intervention program
+1	novel therapeutic intervention program conduct research
+1	novel therapeutic intervention program prp
+1	novel therapeutic intervention research
+2	novel therapeutic intervention research fy
+1	nr
+54	nre
+1	nre investment decision
+15	nre naval
+25	nre naval d framework
+1	nre naval d framework advanced technology development
+30	nre naval d framework applied research
+1	nre naval d framework applied research technology readiness level
+1	nre naval opnav
+1	nre u.s. navy
+34	nreip
+1	nreip department
+1	nsw
+1	nuclear weapon
+1	nucleic acid nanostructures
+17	number
+1	nwdc
+8	objective
+2	objective experiment
+5	observability
+2	observable fact
+2	observables technology
+1	observables technology enhanced capability
+3	observation
+10	observing system
+1	observing system vehicle navigation
+15	obsolescence
+2	obstacle detection
+3	ocean
+1	ocean acoustic
+2	ocean current
+15	ocean environment
+1	ocean environment maintain u.s.
+1	ocean environment remote sensing modality
+2	ocean opto-acoustical property
+1	ocean remote
+1	ocean research
+2	ocean science
+1	ocean structure
+4	ocean-spanning range
+2	oceanographic research
+3	oceanography center
+1	odin
+1	offensive detection
+3	offensive effect
+64	office
+1	ome example
+1	on-demand battlespace
+1	on-going
+2	on-lethal weapon joint capability
+1	on-scene commander
+1	one-year program
+1	ongoing nlw study
+2	ongoing research
+392	onr
+1	onr congress
+1	onr demonstrates inps
+3	onr department
+1	onr department navy
+1	onr field act
+1	onr field act description
+1	onr foster
+1	onr fy21
+1	onr headquarters
+21	onr inps
+3	onr inps department
+1	onr inps department navy
+1	onr leadership
+1	onr mantech
+1	onr marine
+1	onr national naval
+1	onr naval
+1	onr navy
+8	onr onr
+1	onr onr future naval capability
+1	onr onr headquarters
+2	onr provide cutting-edge solution
+1	onr scientific
+1	onr small business innovation research
+1	onr sponsor
+1	onr tech management
+1	onr technology
+1	onr u.s
+1	onr u.s. navy
+2	onr university research initiative
+1	onr university research initiative muri
+1	onr workforce shaping
+6	onr) mission
+1	ontingency preparedness
+1	ontinue human effect
+2	open information source
+2	open ocean
+3	open target
+1	open target adversary military modernization
+1	operating area
+5	operating environment
+1	operating environment learning continuum
+6	operating force
+1	operating force service s
+22	operation
+3	operation (co nops
+1	operation conops
+3	operation research
+1	operation stressor
+3	operational access
+2	operational application
+1	operational assessment measure
+2	operational capability
+1	operational challenge
+1	operational command
+30	operational concept
+3	operational demonstration
+1	operational effectiveness
+2	operational endurance
+10	operational environment
+1	operational environment platform
+2	operational experimentation
+1	operational force
+1	operational high energy laser counter asc m pr
+1	operational need
+1	operational payoff
+1	operational performance
+1	operational planner
+1	operational problem
+1	operational system
+1	operational utility
+3	operator
+1	operator .  d evelopment effort
+24	operator trust
+1	operator trust domain environment
+1	opnav
+11	opportunity
+1	optical dazzling
+1	optical efficiency
+1	optical process
+1	optical property
+2	optical technology
+1	optimal response
+4	optimization
+1	optimized deployment
+1	optimum response
+2	optimum weaponization
+22	option
+1	optoelectronic device
+1	optoelectronic measurement
+11	order
+1	ordnance disposal
+6	ordnance disposal operation
+1	ordnance disposal operation mine technology description
+1	organic mine hunting
+1	organic mine-hunting
+1	organic platform-based system
+2	organic ship self-protection
+1	organizational change
+3	original usa f-raaf air-launch effort
+1	orp
+13	osd principal
+1	osd principal defense
+18	osd principal staff assistant
+1	osd principal staff assistant dod nlw executive agent
+1	others
+2	outcome
+2	outfight adversary
+1	output
+2	outreach
+1	outreach ). c ongressional add
+2	outset
+2	outstanding academic scientist
+2	over-the-horizon
+1	overall asset lifecycle management
+1	overall capability
+1	overall cyber protection strategy
+2	overall length
+1	overall system cost
+10	overarching objective
+1	overarching objective develop technology
+1	overarching objective electromagnetic system activity
+2	oversees
+2	overt minefield reconnaissance
+1	ownership cost
+2	oxygen toxicity
+16	p
+1	pacific fleet battle problem
+1	parameter
+3	paramount importance
+1	part
+2	participation
+1	particular emphasis
+1	particular platform design & s urvivability
+5	partnership
+1	passive countermeasure (cm
+1	passive sensor
+3	patent
+1	pay raise
+5	payload
+1	payoff
+1	payoff is increased network data rate
+1	payoff warfighter science
+47	pe
+1	pe 0602131m-marine corp landing force technology
+4	pe address future navy
+1	pe address future navy marine corp capability
+12	pe encompasses idea
+1	pe encompasses idea way considers
+1	pe fund
+2	pe fund applied research
+37	pe translate
+20	pe translate effort include developing breadboard hardware
+1	pe translate effort include developing breadboard hardware exploration effort
+1	pe' basic research effort
+1	pe,
+10	pe.
+1	pe. activity
+1	pe. america
+1	pe. control
+1	pe. freedom
+1	pe. future naval capability (fn
+1	pe. title
+1	pe. work
+1	pec ase project
+1	pecase
+1	pecase project
+3	peer adversary defense
+1	peer competitor
+1	per
+2	perform force level
+1	perform force level kill chain optimization
+1	perform radar
+8	performance
+2	performance aid
+3	performance challenge
+1	performance characteristic
+3	performance concern
+1	performance develop
+2	performance develop mitigation technology
+2	performance fy
+1	performance microwave
+1	performance optimization
+1	performance requirement freedom
+2	performer
+1	persistence
+2	persistent
+3	persistent arctic presence
+1	persistent detection concept
+2	persistent surveillance
+1	persona layer
+2	personal protective equipment
+3	phase
+1	phenomenology
+4	phenomenon
+2	photoactive molecule
+2	physical battlespace
+2	physical compartmentalization
+1	physical environment
+2	physical oceanographic variability
+2	physical proximity
+17	physiology algorithm
+1	physiology algorithm bone marrow concentrate
+1	pilot
+3	pipeline
+1	place
+27	plan
+1	planet
+1	planning
+1	plasma weapon
+2	plastic
+2	platelet rich plasma (pr
+30	platform
+3	platform . am o
+7	platform ability
+1	platform ability elektra inp effort
+21	platform design
+3	platform design & e ngineering
+1	platform design perform research
+1	platform design research effort
+5	platform force protection
+30	platform force protection u.s. navy
+1	platform force protection u.s. navy platform
+2	platform performance
+3	platform power
+5	platform power energy
+1	platform power energy material
+4	platform protection
+1	platform quieting approach
+17	platform range
+1	platform range life cycle cost
+1	platform-based system
+1	pnt
+1	point
+5	policy
+1	policy constrained scenario
+2	poly-traumatic injury
+2	polymer coating
+1	polymeric
+1	portable system
+5	portent demand
+1	portent demand marine corp
+2	portent demand robust technology
+2	portfolio
+1	portfolio includes effort
+14	portion
+1	pose trajectory estimation
+4	position
+2	possible course
+2	post limitation
+4	potential
+5	potential adversary
+1	potential energetic technology
+1	potential game-changing idea
+2	potential ligament damage
+29	power
+1	power (ng pp
+1	power (sw ap
+12	power constrained equipment
+1	power constrained equipment research include distributed precision time
+2	power consumption
+29	power cost
+1	power cost usmc
+2	power density
+1	power efficient
+1	power efficient high power
+1	power energy
+1	power energy technology
+2	power generation
+1	power laser
+2	power management
+6	power microwave
+1	power microwave materiel mission
+1	power microwave system
+1	power microwave waveform
+1	power microwave/radio frequency
+1	power ngpp
+1	power post
+1	power projection strategy
+1	power system
+3	power technology
+4	power-projection platform
+1	power-projection platform include capability
+13	practicality
+1	precise render
+3	precision
+1	precision aim point maintenance
+1	precision identification
+15	precision loitering munition
+1	precision loitering munition sub-surface platform
+3	precision render
+3	precision time
+3	prediction
+1	prediction model
+1	predictive capability
+2	predictive environmental model
+1	predictive mission-focused analytics
+1	predictive model
+3	predictive software
+2	preeminent external facilitator
+1	presence
+3	presentation
+1	presidential early career award
+1	prevention
+1	primary navy-relevant operational environment
+1	primary research effort
+1	primary technical goal
+1	prioritized investment
+1	prioritized list
+2	priority
+13	priority topic
+1	priority topic program includes support
+1	priority-driven investment portfolio
+1	priority-driven portfolio
+1	proactive connectivity
+2	problem
+1	procedure
+1	procedure (tt p
+33	process
+2	processing
+1	processing augmentation strategy
+10	processing technique
+1	processing technique networking technology
+1	processing technique ocean structure
+1	processing technology
+2	procure
+2	procurement phase
+2	producibility limitation
+3	product
+1	product team
+2	production
+35	production feasibility
+9	production feasibility acquisition potential
+4	production feasibility acquisition potential naval research
+1	production feasibility acquisition potential naval research demonstrates inps
+2	productivity
+2	professorial mentoring
+88	program
+1	program . ss l-tm
+1	program accomplishment
+1	program accomplishments/planned program subtotal
+1	program address technology development
+2	program assessment
+3	program board
+83	program described herein
+1	program described herein future naval capability
+1	program described herein naval research
+1	program described herein program examine concept
+1	program described herein project fund technology demonstration
+1	program described herein require u.s.
+1	program described herein technology development
+7	program develops technology
+1	program develops technology naval aviation aircraft platform
+1	program develops technology observables technology
+187	program element
+47	program element (pe
+1	program element (pe ). u nique need
+1	program element address applied research
+1	program element address don
+7	program element address requirement
+1	program element address requirement operation stressor
+1	program element address technology
+1	program element applied research
+1	program element applied research work
+1	program element conduct applied research
+1	program element demonstration including fleet battle problem
+1	program element fnc advanced technology development
+13	program element fund advanced technology development
+15	program element fund advanced technology development includes development
+4	program element fund advanced technology development includes development integrate subsystem
+1	program element fund advanced technology development includes development integrate subsystem system prototype
+117	program element fund applied research
+16	program element fund applied research technology readiness level
+3	program element fund applied research technology readiness level technology concept
+15	program element fund applied research technology readiness level technology concept application formulation
+1	program element fund applied research technology readiness level technology concept application formulation previous president
+1	program element future naval capability advanced technology development
+16	program element innovative naval prototype
+13	program element innovative naval prototype adv tec dev
+3	program element innovative naval prototype adv tec dev develop hardware
+19	program element innovative naval prototype adv tec dev develop hardware service use
+1	program element innovative naval prototype adv tec dev develop hardware service use inp program
+1	program element innovative naval prototype applied re
+1	program element marine corp capability
+1	program element naval capability
+1	program element naval prototype
+1	program element naval research
+1	program element program described herein
+8	program element reflect science
+1	program element reflect science investment decision
+1	program element technology development
+1	program element technology research
+1	program element unique need
+1	program emphasizes field research
+3	program examine concept
+2	program fund
+2	program fund advanced technology development
+1	program future naval capability advanced technology development
+1	program includes support
+2	program increase
+3	program increase fy
+1	program naval capability
+1	program naval prototype
+1	program provides opportunity
+1	program subtotal
+1	program support development
+1	program support mission-driven problem
+1	program support presidential early career award
+141	project
+2	project activity
+1	project activity provides freedom
+1	project address include anti- submarine warfare
+1	project address include anti-submarine warfare
+9	project advanced technology development
+1	project advanced technology development lrt
+1	project advanced technology development undersea warfare
+17	project applied research
+1	project applied research claw
+1	project applied research fsuw
+1	project applied research hypersonic booster
+1	project applied research mdusv
+1	project are fixed cost
+1	project are increased effort
+1	project congressional add
+1	project contains coordinated investment
+1	project develops technology
+37	project effort
+17	project effort research activity
+99	project effort research activity technology development plan
+54	project effort research activity technology development plan congressional oversight committee
+1	project effort research activity technology development plan congressional oversight committee energy weapon
+1	project effort research activity technology development plan congressional oversight committee material research fy
+1	project effort research activity technology development plan congressional oversight committee medium displacement unmanned surface vehicle
+1	project effort research activity technology development plan congressional oversight committee r2 activity
+1	project effort research activity technology development plan congressional oversight committee range targeting description
+1	project effort research activity technology development plan congressional oversight committee state laser technology maturation
+1	project emphasizes development
+4	project fund
+1	project fund applied research
+2	project fund onr field salary
+1	project fund onr hq
+1	project fund onr hq non-management headquarters activity
+1	project fund technology demonstration
+1	project fy
+1	project include technology assessment
+7	project power
+1	project power support force
+2	project provides fund
+1	project provides fund non-labor cost
+1	project support development
+1	project support onr leadership
+1	project sustains u.s
+2	project translate
+63	project unit
+25	project unit address advanced technology development
+1	project unit address advanced technology development amos inp effort
+1	project unit address advanced technology development claw inp effort
+1	project unit address advanced technology development hypersonic booster inp effort
+1	project unit address advanced technology development lrt inp effort
+1	project unit address advanced technology development mdusv inp effort
+1	project unit address advanced technology development super swarm inp effort
+46	project unit address applied research
+1	project unit address applied research amos inp effort
+4	project unit address applied research applied research
+1	project unit address applied research applied research innovative naval prototype
+1	project unit address applied research claw inp effort
+1	project unit address applied research hypersonic booster inp effort
+1	project unit address applied research mdusv inp effort
+1	project unit address applied research minerva inp effort
+1	project unit project unit
+1	project vulnerability
+5	projectile
+1	projection power . fy
+2	proliferation
+1	promising inps
+1	promotes innovation
+1	promoting implementation
+1	proof
+1	proponent
+1	propose
+1	proposed effort
+13	proposed solution
+1	propulsion
+9	propulsion system
+1	propulsion system enhanced sonar transducer
+1	propulsion system generation air dominance
+21	propulsion technology
+1	propulsion technology electro optic/infrared devise
+2	propulsor hydromechanics
+4	prosecution
+1	protect united
+1	protect warfighters
+10	protection
+1	protection system
+1	protection weapon
+2	protective equipment
+29	prototype
+1	prototype . in p
+48	prototype demonstration
+1	prototype demonstration program described herein
+1	prototype demonstration program element
+1	prototype demonstration state laser technology maturation
+2	prototype development
+1	prototype mine countermeasure (mc ), e xpeditionary warfare
+3	prototype mobile
+1	prototype mobile sensing system
+1	prototype technology
+1	prototyping
+1	prototyping of:
+1	prototyping process
+1	provide acquisition sponsor
+1	provide additional defense university research instrumentation program (du rip) award
+2	provide funding
+1	provide information
+1	provide isr
+1	provide opportunity
+1	provides counter-isr
+13	provides opportunity
+1	provides opportunity provide funding
+1	provides technology
+1	provides technology solution
+4	providing force application option
+1	providing force application option threshold engagement
+1	providing option
+5	providing solution
+25	providing solution commander today
+3	providing solution commander today naval s
+7	providing solution commander today naval s t budget
+1	providing solution commander today naval s t budget national defense strategy
+1	provision
+1	prp
+1	pulse source
+2	purchase
+2	purpose
+1	pursue science
+3	pursuit
+2	push
+1	qualification .  a pplication
+6	quality
+1	quantification
+1	quantitative experimentation
+1	quick strike force
+2	quiet adversary submarine
+1	quieting approach
+2	r-2 activity
+1	r2 activity
+1	radar
+1	radar , ew
+2	radar function
+2	radar technology fy
+1	radiation
+1	radicalization
+3	radio architecture
+59	radio frequency
+2	radio frequency (rf
+1	radio frequency aerospace surveillance sensor
+1	radio frequency beyond line
+3	radio frequency electronics
+1	radio frequency emi
+1	radio frequency naval expeditionary
+2	radio frequency surface
+1	radio frequency surface aerospace surveillance
+1	radome
+28	railgun
+1	railgun dew
+1	railgun emrg
+1	railgun hvp
+1	railgun launch
+1	railgun mount
+1	railgun weapon system
+2	ramp concept
+1	ramp structure
+6	range
+1	range counter-personnel
+1	range detection
+1	range munition demo
+2	range targeting
+1	ransition prototype technology
+1	ransition result
+2	rapid identification
+1	rapid integration
+1	rapid mcm operation
+1	rapid prototype
+1	rapid prototyping process
+1	rapid response science
+32	rdt
+1	rdt program
+1	rdt technology
+3	reach
+1	react
+1	reactive material
+1	reactive material demonstration
+7	readiness
+1	ready , he lcap activity
+1	ready relevant learning
+1	ready relevant training
+2	real time
+2	real world operation
+1	real-time
+1	real-time access
+1	real-time description
+2	real-time knowledge
+1	real-time operational impact
+1	real-world assessment
+1	receiver
+1	receiving acquisition program
+1	recent onr workforce
+1	recent pacific fleet battle problem
+1	recent science
+2	recent technology breakthrough
+2	recognition
+9	reconnaissance
+2	reconnaissance (c4i sr
+1	reconnaissance (is
+1	reconnaissance c4isr
+1	reconnaissance logistics
+1	reconnaissance mine warfare
+2	reconnaissance system
+8	record
+5	reduce cost
+1	reduce cost turbofan engine
+4	reduced decision timeline . mi nerva
+2	reduced ice
+1	reduced life-cycle cost
+3	reduced observables technology
+1	reduced system jitter
+2	reduced total ownership cost
+1	reduced weight
+2	reducing cost
+3	reduction
+1	refine
+2	refine design
+1	refined cost element
+2	related aspect
+8	related effort
+1	related effort unmanned undersea
+1	related equipment technology
+1	related technology
+1	related work
+2	relevant connection
+2	relevant data set
+29	relevant environment
+6	relevant environment ). d ue
+1	relevant environment ). s olid state laser technology maturation (ss l tm
+2	relevant non-lethal technology
+1	relevant propulsion system
+3	reliability
+1	reliability war-fighter readiness
+3	reliable operation
+1	remote control
+1	remote sensing capability
+1	render
+3	repair
+3	representative test platform
+1	require research
+1	require u.s.
+2	required laser weapon system engineering
+2	required manpower
+28	requirement
+1	requirement congressional add : ua s ai r-delivered extended range munition demo fy
+6	requirement oversight council
+1	requirement oversight council dod eod program board
+63	research
+44	research activity
+99	research activity technology development plan
+29	research activity technology development plan congressional oversight committee
+1	research activity technology development plan congressional oversight committee arctic mobile observing system
+1	research activity technology development plan congressional oversight committee claw inp effort
+1	research activity technology development plan congressional oversight committee domain environment
+1	research activity technology development plan congressional oversight committee high-power joint electromagnetic
+1	research activity technology development plan congressional oversight committee medium displacement unmanned surface vehicle
+1	research activity technology development plan congressional oversight committee multi-domain threat
+2	research area
+1	research become solution
+8	research career
+1	research career knowledge base
+1	research congressional add subtotal assuring access
+76	research effort
+2	research effort advance navy
+1	research effort advance navy marine corp
+5	research effort increasing knowledge
+1	research effort increasing knowledge security related aspect
+15	research effort payoff warfighter science
+1	research effort payoff warfighter science consider employment
+9	research effort system vulnerability
+1	research effort system vulnerability cyber operation
+1	research effort transmission electron microscopy
+2	research focus
+2	research fy
+3	research include distributed precision time
+1	research include distributed precision time software defined radio architecture
+1	research initiative
+3	research instrumentation
+1	research portfolio
+43	research priority
+17	research priority naval research
+25	research priority naval research naval research enterprise
+3	research priority naval research naval research enterprise naval r
+3	research priority naval research naval research enterprise naval r d framework
+1	research priority naval research naval research enterprise naval r d framework program element
+1	research program
+1	research progress
+1	research result
+1	research support fleet demand
+2	research vessel
+7	researcher
+2	resiliency
+1	resilient micro-grids
+2	resin composite
+2	resource formulation
+8	resource management
+1	resource management project unit
+2	resource sponsor
+2	respective affordability goal
+1	responds
+3	response
+1	response capability
+2	response science
+1	response science technology prototype addressing fleet/force need
+1	response technology
+9	responsiveness
+7	restricted environment communication
+1	restricted environment communication data processing
+9	result
+2	result analysis
+12	resulting capability
+1	resulting capability lethal firepower
+1	reverberation
+1	revious president 's b udget current president 's b udget • c ongressional general reduction • c ongressional directed reduction • c ongressional rescission • c ongressional add • c ongressional directed transfer • s bir/sttr transfer • p rogram adjustment • r ate misc adjustment change summary explanation
+2	rf
+1	rf challenged environment
+2	rf spectrum
+1	rginia class submarine (vc )/co lumbia class submarine (cl ), d dg
+8	rgws
+1	rgws emrg
+1	rhel
+1	rising peer competitor
+3	risk
+1	risk innovative naval prototype
+2	risk innovative naval prototype (in
+2	river bed
+1	riverine environment
+15	rl
+2	road mapping
+1	robotic
+1	robotic autonomy
+1	robotic protection system
+2	robotics
+1	robust collection
+1	robust electronic warfare (ew
+1	robust manufacturing
+1	robust portfolio
+1	robustness
+1	rocket propelled grenada
+1	rotary wing
+1	rotor system
+1	round
+1	route planning/behaviors
+1	rpg
+1	ruggedized high energy
+1	ruggedized high energy laser
+1	ruggedized high energy laser (rh el
+2	s&t
+2	s&t investment
+1	s&t research area
+1	safe near-shore mine detection
+1	safe near-shore mine sensing
+1	safe standoff
+10	safety
+5	sailor
+2	sailor today
+3	salary
+1	salary need
+1	saleable naval air vehicle technology
+1	salinity
+1	sampling scheme
+1	sba
+1	sba nnr
+1	scalable minefield deployment
+2	scalable naval air vehicle technology
+2	scale
+1	scale experimentation
+2	scenario
+3	schedule
+31	science
+1	science & t ech management - o nr field act description
+1	science d
+1	science research
+64	science technology
+1	science technology applied research
+1	science technology mcwl
+1	science technology naval research
+1	science technology rapid identification
+3	scientific
+1	scientific advance
+1	scientific breakthrough
+2	scientific concept
+2	scientific instrumentation
+1	scientific program
+1	scientific program officer workforce
+21	scientific research
+3	scientific study
+1	scientific surprise
+7	scientist
+1	scientist navy
+2	scope
+9	sea
+3	sea (i.
+1	sea (rp g-s) (c-u uv
+1	sea . fs usw
+1	sea base region
+3	sea ice-based buoy node
+2	sea mine
+1	sea mining effort
+1	sea surface vehicle
+1	sea surface vehicle (us sv
+3	sea vehicle
+2	sea vehicle activity
+1	sea vehicle description
+1	sea-based aviation
+1	sea-based aviation national naval responsibility (sb a nnr) structure
+1	sea-going marine equipment . fy
+3	seabed
+17	seabed warfare
+2	seabed warfare (ss ). t
+1	seabed warfare distributed undersea warfare
+1	seabed warfare fsusw project
+1	seabed warfare project unit
+2	seafloor roughness
+1	seahunter medium
+1	seahunter medium displacement
+1	seahunter medium displacement unmanned surface vessel
+2	seamless full spectrum protection
+4	seap
+1	seap naval research enterprise intern program
+1	search description : as w di
+1	search focus
+1	second half
+27	secretary
+4	secure
+11	secure networked communication pathway
+1	secure networked communication pathway disaggregated operation
+2	secure transfer
+2	security boundary
+3	security technology program
+23	seed corn
+1	seed corn research effort
+1	selection
+1	selects
+3	self-adaptive automation
+1	self-defense
+29	senior leadership
+2	sense
+1	sense making
+1	sensing algorithm development
+4	sensing drive network
+1	sensing drive network technology s
+1	sensing system
+16	sensor
+1	sensor capability
+1	sensor concept
+1	sensor configuration technology
+1	sensor field
+1	sensor system
+2	sensor system performance
+10	sensor technology
+1	sensor technology sensor technology
+1	sep
+1	separate pe
+2	separate pe,
+12	separate program element (pe
+2	series
+6	service
+1	service experimentation
+2	service member
+1	service s
+108	service use
+3	service use inp program
+29	service use inp program developing inps
+1	service use inp program developing inps mission area requirement
+19	service use production feasibility
+9	service use production feasibility acquisition potential
+4	service use production feasibility acquisition potential naval research
+1	service use production feasibility acquisition potential naval research demonstrates inps
+1	service-specific experiment
+1	set
+1	several area
+1	several month
+1	several technical challenge
+1	shallow water acoustic
+2	shallow water environment
+1	shallow-water bottom type
+2	shape
+1	shape technology
+1	shape technology approach
+1	shaped charge configuration
+48	shared priority
+1	shared priority naval research
+2	shield personnel
+3	shift
+1	ship
+1	ship concept
+1	ship design
+1	ship self-protection
+3	ship-launched , da rpa-
+1	ship-to-objective maneuver (st om
+2	shipboard
+1	shipboard operation
+1	shipboard qualification
+1	shipbuilding manufacturing fy
+1	shore-based energy effort
+1	short pulse source
+1	shortfall
+1	shortfall commensurate
+1	shortfall commiserate
+16	show naval utility
+1	sight (bl o
+1	signal congressional interest
+3	signal processing
+1	signal processing computer engineering
+1	signature management
+28	significant acquisition decision
+1	significant injury knowledge
+1	significant threat
+1	similar process
+1	similar target
+9	simulated environment
+1	simulated operating environment
+1	simulated operational scenario
+3	simulation
+2	simulation capability
+2	simulation tool
+1	single investigator research effort
+2	single manager responsibility
+1	single ship
+1	single-investigator research effort
+1	single-investigator research grant
+4	situational awareness
+1	situational awareness . fy
+1	situational awareness capability
+10	size
+1	size weight
+2	skill classification
+3	skill level
+1	small boat
+1	small business innovation research
+1	small scale experimentation
+1	small tactical autonomous unmanned ground vehicle system .  m ultiple system
+1	small turbojet
+2	small unit
+1	small unit level congressional interest
+1	small unit naval expeditionary warfighters
+1	small unmanned air threat
+1	small-deck combatant
+1	snlws
+1	snlws inc.
+1	social network
+3	software
+1	software configuration management
+2	software defined radio architecture
+1	software defined radio architecture coordinated cyber
+5	software engineering
+1	software engineering machine learning
+2	software redesign
+6	solid state electronics
+2	solid state electronics vacuum electronics power amplifier
+1	solid state laser tech
+1	solid state laser technology maturation (ss l tm
+1	solid state laser technology maturation (ss l-tm
+38	solution
+4	solve problem
+1	solve problem mission requirement
+1	sonar transducer
+1	sophisticated electronics system
+2	sophisticated performance characteristic
+1	sortie
+1	sound
+1	source data picture
+2	space
+3	sparse supervisory control
+2	special mission payload
+1	special project congressional add subtotal sea mine
+1	special project fy
+1	special warfare fy
+2	specific application
+27	specific information
+2	specific key acquisition platform
+13	specific mission area requirement
+2	specific naval use
+12	specific need
+1	specific next-generation nlw
+1	specific technology
+1	specification
+186	spectrum
+1	spectrum base
+10	spectrum capability
+1	spectrum capability meeting size
+1	spectrum control
+1	spectrum environment
+5	spectrum maneuver
+1	spectrum maneuver mitigate detection
+26	spectrum protection
+1	spectrum protection decision making
+1	spectrum software
+3	speed
+7	speed weapon propulsion
+1	speed weapon propulsion sensor technology
+1	sponsor scientific advance
+1	ssbn
+5	ssl
+1	ssl solid state laser technology maturation
+5	ssl tm
+1	ssl tm state laser technology maturation
+4	ssw
+1	ssw activity
+7	staff
+2	staff joint warfighting capability objective
+1	stakeholder
+1	stakeholder commitment
+2	standalone project
+1	standoff
+13	standoff capability
+1	standoff capability dismounted operation
+2	standoff identification
+1	state laser tech maturation activity
+1	state-of-the-art technology
+1	steerable radiator
+1	stem
+1	stiffening concept
+1	stiffening core material
+3	stimulate innovation
+1	stimulate innovation research progress
+2	stockpile
+1	stom
+1	storage
+1	storage research
+2	storage research fy
+2	strain stress
+2	strategic competition
+1	strategic guidance
+1	strategy
+1	streamlined manufacturability
+3	strength
+1	strength weight ratio
+1	strengthen alliance
+6	stress fracture
+1	stress fracture ligament damage
+4	strike
+1	strike hijenks
+5	strike mission
+1	strike mission refined cost element
+7	strike operation
+1	strike operation navy
+1	structural material
+3	structure
+2	student
+2	student veteran
+16	study
+1	suav
+1	sub-seafloor
+2	sub-surface
+3	sub-surface platform
+6	submarine
+2	submarine hull mechanical
+1	submarine partnership
+1	submarine partnership fy
+2	submarine threat
+1	submerged platform
+1	submersible platform
+2	subscale proof-of-principle
+9	subsea
+1	subsea seabed warfare
+1	subsequent development
+2	substantial improvement
+3	substantial payload .  t
+6	subsurface
+20	subsurface platform
+1	subsurface platform platform design
+2	subsurface signature
+2	subsurface vehicle
+21	subsystem
+3	success
+17	successful experimentation
+1	successful technology
+2	summer program encourage student
+1	summer program encourage student pursue science
+4	super swarm
+1	super swarm (ss
+2	super swarm (ss ) in effort
+1	super swarm inp
+1	super swarm inp effort . in investment represent game
+2	superior defense
+1	superiority
+2	supervisor evaluation
+3	supply chain
+2	supply chain assurance
+39	support
+1	support advanced development
+1	support capability enabling naval
+14	support composite warfare commander
+1	support composite warfare commander group echelon
+1	support eod mission
+1	support force
+8	support formation
+1	support formation effort include power management
+14	support function
+1	support function increase/decrease statement
+5	support information dissemination
+1	support information dissemination improved capability
+1	support marine corp combat development
+7	support naval expeditionary warfighters
+1	support naval expeditionary warfighters power constrained equipment
+1	support navy
+2	support nd objective
+1	support nd objective strengthen alliance
+1	support onr non-mha management
+1	support remote control
+1	support university research infrastructure
+1	supporting mission
+19	surface
+1	surface combatant
+1	surface congressional interest
+1	surface fire support
+9	surface munition
+1	surface munition enhanced access
+1	surface navy laser weapon system
+1	surface navy laser weapon system increment
+2	surface processing
+7	surface ship
+1	surface ship air asw asset
+1	surface ship submarine hull mechanical
+1	surface treatment
+89	surface vehicle
+1	surface vehicle (md usv)
+4	surface vehicle (md usv) project
+1	surface vehicle domain environment
+5	surface vehicle have utility
+1	surface vehicle have utility navy mission
+104	surface vehicle mdusv
+1	surface vehicle mdusv autonomous
+3	surface vehicle mdusv navy
+1	surface vehicle mdusv navy mdusvs
+1	surface vessel
+1	surface vessel (md usv)
+19	surveillance
+4	surveillance electronic warfare
+1	surveillance electronic warfare navigation
+3	surveillance reconnaissance
+1	surveillance reconnaissance c4isr
+1	surveillance reconnaissance isr
+2	surveillance system
+18	survivability
+1	survivability congressional interest
+3	survivable naval platform
+1	susceptibility incidence
+1	sustain warfighter effectiveness
+1	sustainable large-scale robotic swarm warfare
+1	sustained operation
+3	sustainment
+2	sustainment (a&s
+1	sustainment learning
+1	sw project
+1	swampworks develops
+2	swarm
+2	swarm autonomy technology
+2	swarm operation
+1	swarm warfare
+2	swarming
+1	synthesis
+1	synthetic light
+41	system
+1	system (nl fos) effort
+2	system , rf communication system
+28	system . in p
+1	system affordability
+1	system applied research fy
+1	system applied research program address technology need
+2	system concept
+1	system cost
+1	system jitter
+1	system nlfos
+1	system program
+12	system prototype
+13	system prototype field experiment
+1	system prototype field experiment have technology readiness level trl
+2	system vulnerability
+4	system/subsystem model
+35	system/subsystem model prototype demonstration
+19	system/subsystem model prototype demonstration program described herein
+1	system/subsystem model prototype demonstration program described herein technology breakthrough
+13	systematic expansion
+14	systematic study
+1	systems-of-systems
+25	t budget
+40	t budget national defense strategy
+11	t budget national defense strategy research priority
+5	t budget national defense strategy research priority naval research
+1	t budget national defense strategy research priority naval research naval research enterprise
+1	t congressional interest
+3	t development approach
+1	t development approach capability gap
+9	t investment
+1	t investment applied research initiative
+1	t investment portfolio support national naval responsibility
+1	t investment requirement oversight council
+1	t investment technology development initiative
+1	t program
+1	t research area
+1	tactical advantage
+3	tactical cyber visualization
+1	tactical decision aid
+1	tactical edge
+1	tactical edge communication
+1	tactical engagement
+1	tactical railgun mount
+2	tactical search
+1	tactical system
+1	tactical understanding
+1	tactical user
+1	take advantage
+1	take delivery
+1	take immediate
+1	take place
+1	tank
+12	target
+1	target adversary military modernization
+1	target congressional add
+11	target detection
+1	target detection associated effort
+1	target detection device
+1	target effect
+1	target effect .  i nvestment area
+2	target fy
+1	target interaction
+2	target recognition
+1	targeted capability
+1	targeted include
+14	targeting solution
+1	targeting solution sensor configuration technology
+1	task
+1	task allocation
+1	task force
+1	task force ocean fy
+2	team
+1	tech management
+1	technical area
+2	technical challenge
+1	technical development effort
+3	technical direction
+1	technical effort
+1	technical maturity
+1	technical payoff
+3	technical publication
+29	technical risk , in p
+1	technical solution
+2	technical superiority
+2	technique
+4	technological advance
+6	technological advantage
+13	technological challenge
+1	technological maturity
+3	technological need
+3	technological superiority
+336	technology
+17	technology (s&t
+1	technology (s&t ). m cwl'
+17	technology (s&t ). s ince
+2	technology (s&t ). t
+2	technology advance
+3	technology assessment
+1	technology base
+1	technology base program
+1	technology breakthrough
+2	technology candidate
+2	technology candidate development
+1	technology capability concept
+1	technology command
+5	technology concept
+72	technology concept application formulation
+6	technology concept application formulation program element
+1	technology concept application formulation program element program described herein
+1	technology concept application formulation warfighting technology
+1	technology department
+80	technology development
+1	technology development conduct research
+1	technology development continue research
+1	technology development demonstration project
+1	technology development distributed electronic warfare
+20	technology development effort
+1	technology development effort investment area include research
+1	technology development energy system technology evaluation program
+3	technology development force protection
+1	technology development force protection u.s. navy
+1	technology development funding
+1	technology development mitigation technique
+1	technology development naval research
+112	technology development plan
+39	technology development plan congressional oversight committee
+1	technology development plan congressional oversight committee arctic mobile observing system
+1	technology development plan congressional oversight committee booster description
+1	technology development plan congressional oversight committee claw inp effort
+1	technology development plan congressional oversight committee missile defense network
+1	technology development plan congressional oversight committee undersea warfare effort description
+2	technology development program
+1	technology development research investment
+1	technology development unmanned sea surface vehicle
+4	technology distributed electronic warfare
+1	technology distributed electronic warfare distributed maritime operation
+1	technology education
+58	technology effort
+25	technology effort acquisition decision
+37	technology effort acquisition decision warfighting system
+6	technology effort acquisition decision warfighting system information security concern
+1	technology effort acquisition decision warfighting system information security concern project effort
+1	technology effort joint eod force
+1	technology exposure give marine
+1	technology fy
+1	technology innovation
+1	technology management
+2	technology management description
+1	technology mantech program
+1	technology maturation
+6	technology naval research
+77	technology naval research onr
+7	technology naval research onr department
+5	technology naval research onr department navy
+7	technology naval research onr department navy don
+1	technology naval research onr department navy don applied
+1	technology naval warfare
+1	technology navy
+1	technology need
+1	technology opportunity
+37	technology option
+1	technology option integrated maneuver force
+5	technology project
+1	technology project pe matures technology
+2	technology proliferation
+1	technology prototype
+345	technology readiness level
+15	technology readiness level (tr
+11	technology readiness level budget activity
+3	technology readiness level budget activity ba3 funding
+1	technology readiness level budget activity ba3 funding ba3 inp fund
+1	technology readiness level concept investigation
+1	technology readiness level fnc is 3-years
+1	technology readiness level future naval capability
+1	technology readiness level naval
+1	technology readiness level platform
+5	technology readiness level technology concept
+76	technology readiness level technology concept application formulation
+38	technology readiness level technology concept application formulation program described herein
+1	technology readiness level technology concept application formulation program described herein program conduct applied research
+1	technology readiness level technology concept application formulation program described herein project fund
+1	technology readiness level technology development funding
+266	technology readiness level trl
+1	technology readiness level trl budget current
+1	technology readiness level trl fnc
+1	technology readiness level trl freedom
+1	technology readiness level trl network
+1	technology readiness level trl radio frequency
+13	technology readiness level trl trl
+3	technology readiness level trl trl inps
+1	technology readiness level trl trl inps budget activity
+3	technology solution
+1	technology strategy
+2	technology strategy fy
+2	techsolutions
+1	temperature
+2	ten activity
+2	tension cable
+7	term
+1	term navy
+2	term technology candidate refers
+1	terrestrial
+1	terrorism
+1	terrorism description
+16	test
+7	test platform
+1	test platform inp investment
+1	test platform surface combatant
+4	testing
+1	testing hypervelocity projectile
+1	testing tool
+2	therapy
+1	thermal cooling requirement
+1	thermal stress
+6	thermoplastic
+1	thermoplastic carbon-fiber composite material research
+1	thermoplastic carbon-fiber composite material research fy
+1	thermoplastic congressional add subtotal this program element
+1	thermoplastic tailorable universal feedstock composite
+1	thermoplastic tailorable universal feedstock composite fy
+8	threat
+1	threat component including explosive
+1	threat description
+2	threat emitter
+2	threat individual
+2	threat obscuration
+1	threat vector
+2	threat vehicle
+55	threat weapon system
+1	threat weapon system capability gap
+1	through-the-sensor environmental characterization
+6	thrust
+3	thrust area
+1	tilt rotor system
+7	time
+8	time critical strike
+2	time critical strike information distribution
+1	timely information
+2	timing (pn
+29	title
+2	title : (u
+1	to: (1)
+14	today
+1	ton
+1	ton m1a1 tank
+6	tool
+1	topic
+1	total dod government (e. ., n ational science foundation
+1	toxic agent
+2	trace explosive
+2	traditional composite material
+2	traditional technical discipline
+10	train navy rotc
+1	train navy rotc enhance naval cybersecurity
+10	training
+1	training (eo dt &t)"
+2	training environment
+2	training model
+1	training opportunity
+2	training simulator software
+1	training technology
+1	transfer energy
+1	transfer information
+3	transformation
+1	transit route
+6	transition
+1	transition funding commitment
+3	transition innovative science
+4	transition opportunity
+1	transition opportunity research focus
+1	transition prototype technology
+1	transition result
+2	transition technology
+1	transitionable hpm source
+1	transmitter ). c ongressional add
+7	transplantation
+1	transplantation naval research
+2	treatment
+1	triggering mechanism
+434	trl
+1	trl america
+1	trl asw
+3	trl inps
+1	trl inps budget activity
+1	trl joint
+1	trl national oceanographic partnership program
+1	trl naval research
+19	trl trl
+33	trl trl inps
+1	trl trl inps budget activity
+1	trl trl inps onr
+1	troop
+1	ttps
+1	turbofan engine
+1	turn
+2	type
+1	typical duration
+56	u
+2	u government agency
+1	u marine corp
+1	u naval sea mining
+39	u.s
+5	u.s naval
+1	u.s naval joint eod
+1	u.s naval naval special warfare
+306	u.s.
+11	u.s. due
+28	u.s. due inps
+1	u.s. due inps technology readiness level
+1	u.s. electromagnetic system applied
+1	u.s. mine
+1	u.s. naval
+4	u.s. naval research
+169	u.s. naval research onr
+43	u.s. naval research onr marine corp
+1	u.s. naval research onr marine corp technology
+336	u.s. navy
+1	u.s. navy control damage
+6	u.s. navy energy
+1	u.s. navy energy platform design
+2	u.s. navy marine corp
+1	u.s. navy platform design
+1	u.s. navy ship
+6	u.s. navy/marine corp team
+1	u.s. navy/marine corp team fighting force
+1	u.s. research
+2	u.s. science
+1	u.s. science technology
+1	uae o-related future naval capability (fn ). t
+1	uaeo
+44	uav
+1	uav fy
+2	uav hardware
+1	uav intelligence
+1	uav locust
+1	uav modular advanced armed robotic
+35	uav system
+1	uav system provide isr
+1	uavs
+1	uavs fy
+2	ultra short pulse laser
+1	ultra short pulse laser (us pl
+1	ultra-heavy amphibious connector
+1	ultra-heavy amphibious connector . fy
+2	un-manned system
+1	unattended sensor
+17	uncertainty
+3	under-ice vehicle navigation
+4	undersea
+1	undersea domain
+1	undersea domain human performance requirement freedom
+2	undersea environment data
+1	undersea medicine
+3	undersea sensing
+1	undersea surveillance
+1	undersea target
+2	undersea target detection
+15	undersea warfare
+37	undersea warfare applied
+1	undersea warfare applied asw
+2	undersea warfare applied research
+4	undersea warfare applied research congressional add
+1	undersea warfare applied research program element
+1	undersea warfare applied research program element (pe
+2	undersea warfare asset
+8	undersea warfare development command
+1	undersea warfare development command full spectrum undersea warfare concept
+21	undersea warfare effort
+1	undersea warfare effort description
+3	undersea warfare effort project
+1	undersea warfare effort undersea warfare
+1	undersea warfare effort undersea warfare development command
+1	undersea warfare effort undersea warfare effort
+1	undersea warfare inp effort . in investment represent game
+2	undersea warfare mission
+1	undersea warfare operation
+2	undersea warfare technology
+1	undersea weapon
+15	undersea weapon system
+7	undersea weapon system combatant commander
+1	undersea weapon system combatant commander island chain
+1	understand cyber resilience
+5	understanding
+1	underwater acoustic
+1	underwater acoustic communication system
+1	underwater mine defeat capability
+1	underwater mine defeat capability urgent operational need
+1	underwater mine defeat capability urgent operational need fy
+1	underwater networking technology
+1	underwater sound
+3	underwater vehicle
+1	underwater vehicle (c-u uv
+5	unexploded ordnance
+1	unintentional interference
+1	unique
+2	unique opportunity
+1	unit
+1	united state
+1	united state (us
+1	united state marine corp
+1	united state marine corp (us mc
+1	universities/minority institution program
+3	university
+1	university college
+1	university minority institution program
+15	university research
+1	university research approach serf
+8	university research infrastructure
+1	university research infrastructure research instrumentation
+1	unmanned aerial
+1	unmanned aerial vehicle
+2	unmanned air
+1	unmanned airframe technology
+1	unmanned delivery
+2	unmanned force
+2	unmanned operation
+1	unmanned response capability
+1	unmanned response technology
+4	unmanned sea surface vehicle
+1	unmanned sea surface vehicle host ship
+2	unmanned system
+1	unmanned underwater vehicle
+3	unmanned vehicle
+1	unmanned vehicle power system
+1	updated capability
+17	upon
+2	urban area
+1	urban asymmetric
+1	urban asymmetric expeditionary warfare operation (ua eo
+2	urban asymmetric operation effort
+1	urban asymmetric/expeditionary warfare operation
+4	urban environment
+1	us/allied port
+16	use
+13	useful material
+1	user
+1	user platform
+1	usm c ex ecutive agent
+1	usm c s&t
+1	usm c te chnology candidate activity
+1	usm operation
+8	usmc
+1	usmc executive agent
+1	usmc s
+1	usmc technology candidate
+1	usmc technology candidate activity
+1	usmc usmc
+11	uspl
+1	uspl energy weapon
+1	uspl propagation
+1	uss v
+1	ussv
+1	ussvs
+3	utility
+2	utilization
+1	utilizing new non-lethal stimulus
+1	uture joint warfighting capability
+3	uuv
+57	uuvs
+33	uuvs uuvs
+1	uuvs uuvs navy c2/fires
+4	vacuum electronics power amplifier
+1	vacuum-tube
+1	validate production feasibility
+1	value
+1	variability
+1	variable cycle advanced technology (vc
+6	variety
+1	various laser weapon system technology
+2	various stage
+1	vast majority
+1	vcat
+5	vcs
+3	vcs class
+1	vcs class clb
+2	vector wind
+8	vehicle
+1	vehicle health management system
+3	vehicle navigation
+1	vehicle navigation extended-duration autonomy
+1	vehicle power system
+1	vehicle program
+1	vehicle simulation system fy
+4	vehicle vessel
+2	vehicle/vessel stopping
+1	vehicle/vessel stopping counter-facility application
+4	vessel
+2	vessel structural component
+2	vexing challenge
+1	view
+1	viewing condition
+1	virginia
+7	virginia class submarine
+7	virginia class submarine /columbia class submarine
+1	virginia class submarine /columbia class submarine class destroyer
+1	vision
+2	visualization technique
+1	volume
+3	vulnerability
+1	vulnerable legacy platform
+2	warfare
+1	warfare area
+2	warfare capability
+57	warfare center
+19	warfare center navy
+1	warfare center navy navy
+1	warfare center onr
+1	warfare development
+24	warfare domain
+11	warfare domain command system
+1	warfare domain command system combine radio frequency electronics
+1	warfare domain mission requirement
+1	warfare support
+20	warfare technology
+1	warfare technology description
+1	warfare technology distributed maritime operation concept
+1	warfare technology predicted capability requirement
+4	warfighter
+3	warfighter effectiveness
+2	warfighter experimentation
+1	warfighter need
+77	warfighter performance
+1	warfighter performance communication system
+2	warfighter performance congressional interest
+2	warfighter performance description
+1	warfighter performance develop
+1	warfighter performance project sustains u.s
+1	warfighter performance protection
+2	warfighter protection
+1	warfighter safety
+5	warfighters
+2	warfighting
+1	warfighting benefit
+1	warfighting capability area
+5	warfighting challenge
+1	warfighting challenge project contains coordinated investment
+1	warfighting concept
+1	warfighting environment reflecting usmc operation
+12	warfighting function
+1	warfighting function sea mining effort emphasizes technology
+1	warfighting need
+131	warfighting system
+16	warfighting system department information security concern
+3	warfighting system department information security concern project effort
+3	warfighting system department information security concern project effort research activity
+1	warfighting system department information security concern project effort research activity technology development plan
+16	warfighting system information security concern
+3	warfighting system information security concern project effort
+3	warfighting system information security concern project effort research activity
+1	warfighting system information security concern project effort research activity technology development plan
+1	warfighting system technology effort
+2	warhead
+1	warhead concept
+1	warhead technology development
+1	warrior performance
+1	water acoustic
+2	water environment
+1	water environment related effort
+1	water operating environment
+24	water surface
+1	water surface task force ocean fy
+2	wave
+1	wave technology
+1	waveform
+2	waveform space
+3	way considers
+1	way naval force
+26	way naval force fight
+15	weapon
+2	weapon capability
+3	weapon concept
+4	weapon concept hawc
+1	weapon concept hawc aur
+2	weapon effectiveness
+1	weapon integrated product team
+2	weapon joint
+1	weapon joint based assessment document
+1	weapon nlw
+5	weapon program
+1	weapon program fy96 national defense authorization act
+1	weapon science
+42	weapon system
+2	weapon system (rg w
+1	weapon system affordability
+2	weapon system application
+1	weapon system conduct advanced technology development
+1	weapon system effectiveness
+2	weapon system engagement
+1	weapon system identified threat individual
+4	weapon system increased capacity
+1	weapon system increased capacity high energy laser counter ascm project
+1	weapon system mine countermeasure
+2	wearable garment
+1	week
+13	weight
+2	weight benefit
+2	weight power
+1	weight power swap
+1	weight ratio
+2	whole
+2	wide range
+2	wide-area surveillance
+17	win
+1	wireless communication
+1	wl fd
+34	work
+2	workforce capability
+2	workforce requirement
+1	working prototype
+5	world
+9	world operation
+1	world operation mine threat
+1	world war ii
+1	world war ii,
+1	worldwide
+32	year

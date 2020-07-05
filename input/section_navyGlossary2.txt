@@ -1,0 +1,273 @@
+Anti-Access/Area-Denial
+Accelerated Acquisition Board of Directors
+Advanced Anti-Radiation Guided Munition
+Assault Amphibious Vehicle
+Active Component
+Acquisition Category
+Amphibious Combat Vehicle
+Afloat Forward Staging Base
+Airborne Electronic Attack
+U.S Africa Command
+Air and Missile Defense Radar
+Advanced Medium Range Air-to-Air Missile
+Area of Responsibility
+Advance Procurement
+Advanced Precision Kill Weapon System
+Amphibious Ready Groups
+Submarine Tenders
+Anti-Submarine Warfare
+Anti-Terrorism/Force Protection
+Aviation Plan
+Budget Authority
+Business Process Improvements
+Base Realignment and Closure
+Business System Improvements
+Blended Retirement System
+Consolidated Afloat Networks and Enterprise Services
+Captive Air Training Missile
+Carrier Based Aerial Refueling System
+Combatant Commander
+Combatant Command
+Capabilities Development Documentation
+U.S. Central Command
+Guided Missile Cruiser
+Commandant of the Marine Corps
+Commander, Navy Installations Command
+Chief of Naval Operations
+Combatant Command
+Carrier Onboard Delivery
+Concept of Operations
+Carrier Strike Groups
+JSF Carrier Variant
+Nuclear Aircraft Carrier
+Carrier Air Wing
+Command, Control, Communication, Computers, and Intelligence
+Guided Missile Destroyer
+Department of Defense
+Department of the Navy
+Defense Strategic Guidance
+Electronic Attack
+Engineering Change Proposal
+Engineering Development Model
+Enterprise Lifecycle Maintenance Program
+Electromagnetic Aircraft Launch System
+Expeditionary Sea Base
+Explosive Ordinance Disposal
+Expeditionary Fast Transport
+Environmental Restoration, Navy
+Enterprise Resource Planning
+End-Strength
+Evolved Sea Sparrow Missile
+Electronic Warfare
+Engineering and Expeditionary Warfare Center
+Form Fit, Function Refresh
+Facilities Engineering Command
+Guided Missile Frigate
+Federally Funded Research and Development Centers
+Flying Hour Program
+Fast Inshore Attack Craft
+Full Operational Capability
+Full Operating Status
+FoV-Family of Vehicles
+Fleet Readiness Center
+Full Rate Production
+Fleet Response Training Plan
+Future Surface Combatant
+Facility Sustainment, Restoration, and Modernization
+Full-Time Equivalent
+Full Up System Level Test
+Future Years Defense Program
+Ground/Air Task Oriented Radar
+Ground Based Air Defense/
+Counter-Unmanned Aerial System
+Ground Based Air Defense
+Future Weapon System
+Guidance and Control Section
+Ground Combat Vehicle
+Humanitarian Assistance and Disaster Relief
+High-Speed Anti-Radiation Missile
+High Energy Laser
+Hull, Mechanical, and Electrical
+Individual Augmentee
+Initial Operational Capability
+Initial Operational Test & Evaluation
+Improvised Explosive Device
+Integrated Logistics Support
+Individual Mobilization Augmentee
+Inertial Navigation System
+Industrial Plant Equipment
+Invoice Processing Platform
+Internal Research and Development
+Infrared
+Infrared Receiver
+Infrared Search and Track
+Islamic State of Iraq and the Levant
+Intelligence, Surveillance, and Reconnaissance
+Information Technology
+Joint Air-to-Ground Missile
+Joint High-Speed Vessel
+Joint Light Tactical Vehicle
+Joint Primary Aircraft Training System
+Joint Reserve Base
+Joint Strike Fighter
+Joint Standoff Weapon
+Light Armored Vehicle
+LAV Anti-Tank Modernization
+Landing Craft Air Cushion
+Amphibious Command Ship
+Littoral Combat Ship
+Littoral Combat Ship Surface-to-Surface Missile Module
+Landing Craft Utility
+Amphibious Warfare Assault Ship
+Amphibious Assault Ship
+Large, Medium Speed Roll-On/Roll-Off Ships
+Limited Operational Capability
+Amphibious Dock Ship
+Long-Range Anti-Ship Missile
+Low-Rate Initial Production
+Dock Landing Ship
+Amphibious Ship Replacement
+Marine Air Defense Integrated System
+Man-Portable Anti-Drone Defeat
+System Kit
+Marine Air-Ground Task Force
+Marine Corps Forces Special Operations Command
+Marine Corps Cyberspace Command
+Marine Aircraft Wing
+Marine Corps Base
+Marine Corps Force 2025
+Mine Countermeasures Ships
+Marine Corps Air Station
+Marine Corps Recruiting Depot
+Marine Expeditionary Force
+Marine Expeditionary Unit
+Military Construction
+Military Personnel
+Mobile Landing Platform
+Missile-to-Missile Link
+Marine Corps Operating Concept
+Maritime Prepositioning Ships
+Military Personnel, Marine Corps
+Military Personnel, Navy
+Mine-Resistant Ambush Protected
+Medium-Range Intercept
+Military Sealift Command
+Million Square Feet
+Moored Training Ship
+Multi-Year Procurement
+National Defense Authorization Act
+Naval Air Station
+Navy Supply Systems Command
+Naval Air Warfare Center
+Navy Cyber Defense Operations Command
+National Defense Strategy
+National Defense Sealift Fund
+Navy Expeditionary Combat Command
+Next Generation Jammer
+Navy Laser Family of Systems
+Navy Laser Weapon System
+Navy Operational Support Center
+Networking on the Move
+Naval Research and Development Establishment
+Naval Surface Warfare Center
+Naval Shipyard
+Naval Undersea Warfare Center
+Navy Working Capital Fund
+Overseas Contingency Operations
+Operation Enduring Freedom
+Optimized Fleet Response Plan
+Optimized Fleet Response Training Plan
+Operation Iraqi Freedom
+Operations & Maintenance
+Office of Management and Budget
+Operational Tempo
+Other Procurement, Navy
+Over the Horizon
+Operational Requirements Document
+Out-of-Reporting
+Operating Forces
+Operation Rolling Tide
+Primary Authorized Aircraft
+U.S. Pacific Command
+Procurement of Ammunition, Navy
+and Marine Corps
+President’s Budget
+Performance Based Logistics
+Patrol Craft
+Permanent Change of Station
+Program Executive Office
+Procurement, Marine Corps
+Pacific Missile Range Facility
+Request for Additional Appropriations
+Radio Detection and Ranging
+RAM-Rolling Airframe Missile
+Ready Basic Aircraft
+Reserve Component
+Refueling Complex Overhaul
+Research & Development
+Research, Development, Test and Evaluation, Navy
+Radio Frequency
+Ready-for-Use
+Restoration and Modernization
+Reduced Operating Status
+Rapid Prototyping Experimentation and  Demonstration
+Reserve Personnel, Navy
+Ready Relevant Learning
+Reconnaissance, Surveillance, and Target Acquisition
+Speed to Fleet
+Schedule of Budgetary Activity
+Statement of Budgetary Resources
+Small Diameter Bomb
+Small Diameter Bomb Increment II
+System Development and Demonstration
+System Demonstration Test Articles
+Sea Air Land
+Surface Electronic Warfare Improvement Program
+Strike Fighter Inventory Management
+Service-Life Extension Program
+Standard Missile
+Surface Navy Laser Weapon System
+Special Operations Force
+Stand-Off Precision Guided Munitions
+Special Purpose MAGTF
+Nuclear Ballistic Submarine
+Ship-to-Shore Connector
+Guided Missile Submarine (Nuclear)
+Surface-to-Surface Missile Module
+Nuclear Attack Submarine
+Solid State Laser Technology Maturation
+Science and Technology
+Science, Technology, Engineering, and Mathematics
+Short Takeoff and Vertical Landing
+Small Tactical Unmanned Aircraft System
+Surface Warfare
+Tactical Air
+Tactical Tomahawk
+Combat Logistics Ship
+Ocean Surveillance Ship
+Hospital Ship
+Total Aircraft Inventory
+Dry-Cargo Ammunition Ship
+Fleet Replenishment Oilers
+Fast Combat Support Ships
+Fleet Oiler Replacement
+Ocean Tugs
+Expeditionary Transfer Dock
+High-Speed Transport
+Type/Model/Series
+Total Obligation Authority
+Tube-Launched Optically-Tracked, Wire-Guided
+Training and Readiness
+Theater Security Cooperation
+Thrift Savings Plan
+Unmanned Carrier Aviation
+University Affiliated Research Center
+Unmanned Aerial System
+Unmanned Aerial Vehicle
+Unmanned Carrier Launched Airborne Surveillance and Strike
+United States Marine Corps
+United States Navy
+Unmanned Surface Vehicle/Vessel
+Utility Task Vehicle
+Virginia Payload Module
+Working Capital Fund
